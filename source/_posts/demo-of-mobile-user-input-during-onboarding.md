@@ -1,7 +1,7 @@
 ---
 title: Demo of Mobile User Input During Onboarding
-date: 2024-08-19 18:26:17
-updated: 2024-08-22 11:59:11
+date: 2024-08-21T15:02:32.022Z
+updated: 2024-08-22T15:02:32.022Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf5f6bf24cf32d1b4599125f8.jpg
@@ -25,3 +25,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

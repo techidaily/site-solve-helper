@@ -1,7 +1,7 @@
 ---
 title: "AI-Enhanced Technology Integration: Expert Tips From ABBYY"
-date: 2024-08-21 18:38:27
-updated: 2024-08-22 11:44:40
+date: 2024-08-21T15:02:33.126Z
+updated: 2024-08-22T15:02:33.126Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b0601596509e90390a2a00c63c2.jpg
@@ -47,6 +47,9 @@ Checklist
 
 [Download](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/resource-center/pdfs/checklist-intelligent-automation-is-your-organization-ai-ready-en.pdf)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Identifying a game-changing tech stack
 
 The athleticwear giant is no stranger to assembling a winning team of solutions. They’ve carefully designed a “digital playbook” to AI-enable digital platforms for the full end-to-end process lifecycle, dividing their approach into five stages: discovery, analysis, improvement, standardization, and finally automation. 
@@ -64,6 +67,9 @@ This digital playbook has supported multiple digitization initiatives for the or
 
 Innovation leaders striving for the same value and adaptability, take note: with the right approach, your organization can also build a game-changing tech stack.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Building an AI-ready organization
 
 An effective automation fabric is built upon high-quality data, guided by a strategically designed roadmap, and supported by a strong integration team. We’ve seen our customers experience the most success when they practice the following three principles: 

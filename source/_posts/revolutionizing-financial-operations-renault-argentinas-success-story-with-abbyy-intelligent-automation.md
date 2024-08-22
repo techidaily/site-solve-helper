@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Financial Operations: Renault Argentina's Success Story with ABBYY Intelligent Automation"
-date: 2024-08-21 13:26:48
-updated: 2024-08-22 11:17:22
+date: 2024-08-21T15:02:33.719Z
+updated: 2024-08-22T15:02:33.719Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d37497b921eea5c41a1afe3dd.jpg
@@ -106,6 +106,9 @@ ABBYY’s platform automates the entire invoicing process. Documents are process
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

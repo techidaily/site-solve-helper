@@ -1,7 +1,7 @@
 ---
 title: Are You Falling Behind with Outdated AP Automation? Discover How With Our Insightful Infographic
-date: 2024-08-20 10:28:48
-updated: 2024-08-22 12:34:12
+date: 2024-08-21T15:02:33.518Z
+updated: 2024-08-22T15:02:33.518Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353ebb15c30e049205c45a363ba.jpg
@@ -39,3 +39,7 @@ Bring your AP department into the now with invoice processing and payment automa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

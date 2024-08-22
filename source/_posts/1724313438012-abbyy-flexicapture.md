@@ -1,7 +1,7 @@
 ---
 title: 「数百万件の文書監査に対しABBYY FlexiCaptureで効率的なソリューションを実現するための戦略」
-date: 2024-08-20 23:30:50
-updated: 2024-08-22 11:38:11
+date: 2024-08-21T15:02:31.720Z
+updated: 2024-08-22T15:02:31.720Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c9740158f0e616afbd57801dea413.jpg
@@ -121,6 +121,10 @@ Engineering & Manufacturing | Oil & Gas | Consulting | Document Processing | Doc
 
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### 専門家に相談する準備はできていますか?
 
 私たちは、自動化への取り組みをお手伝いさせていただきたいと思っています。

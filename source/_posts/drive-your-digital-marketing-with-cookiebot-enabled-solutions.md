@@ -1,7 +1,7 @@
 ---
 title: Drive Your Digital Marketing with Cookiebot-Enabled Solutions
-date: 2024-08-20 16:35:39
-updated: 2024-08-22 10:43:12
+date: 2024-08-21T15:02:32.998Z
+updated: 2024-08-22T15:02:32.998Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c64c0456c40360dd20bfbffb.jpeg
@@ -81,6 +81,9 @@ This mode works the other way around, it records a video over certain periods of
 
 Another feature that was made available in [iOS 11](https://www.apple.com/ios/ios-11/) Camera is QR code recognition. To activate the function, go to **Settings** → **Camera** and turn on **QR code scanning**. Hovering a camera over a QR code will prompt a notification with further suggestions, for example, to open a link from the code in [Safari](https://www.apple.com/safari/).
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Android Tip: Features of Cameras on Android**
 
 Android devices are a bit more complicated then iOS. All major smartphone producers develop their own camera features. New camera phones that hit the market in 2017-2018 are [Google Pixel 2](https://store.google.com/us/product/pixel%5F2?hl=en-US), [Huawei P20 Pro](https://consumer.huawei.com/en/phones/p20-pro/), [Samsung S9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s9%2F), and [Sony Xperia Z5](https://www.sonymobile.com/global-en/products/phones/#gref). Based on the results of multiple tests, Google Pixel 2 was recognized to be the best among smartphones in 2017\. However, today we decided to address features of the advanced, popular, and innovative camera in [Samsung S8](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fgalaxy-s8%2F).
@@ -91,12 +94,18 @@ Do you want to take original one-of-a-kind photos with S8? Use built-in filters.
 
 ![Filters Food mode Camera Android](https://static1.abbyy.com/abbyycommedia/26349/food-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 **Pro mode**
 
 The Pro mode allows you to take professional photos with three types of settings: Exposure time, Exposure, and White Balance. To activate the mode, swipe right and click Pro. Here you can configure shutter speed, white balance, and exposure level. This mode allows you to set the focus and configure exposure and sensitivity just like in professional DSLR cameras.
 
 ![exposure Pro mode Camera Android](https://static1.abbyy.com/abbyycommedia/26350/exposure-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Dynamic focus**
 
 Want to add a blurry background on Samsung S8? There is no need to install third-party applications for this purpose. Camera on Samsung features three types of focusing: close, far, and panoramic. Dynamic focusing lets you adjust image sharpness and focus depth. With this mode, you may take portrait images of two types: regular and wide angle.
@@ -141,6 +150,9 @@ If your [BCR](http://qrs.ly/ip56xfe)contact lacked a photo, it will be added fro
 
 [BCR](http://qrs.ly/ip56xfe) will save a link to a Facebook or LinkedIn profile in a business card so that you can open a social network page at anytime.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## **App of the Week: Valuta+ Currency Converter**
 
 Are you planning on going abroad but still afraid that you won’t know the exchange rate? Meet [Valuta+](https://itunes.apple.com/us/app/valuta-currency-converter/id646925682?mt=8) — a fast and easy-to-use currency converter that works anywhere you want, does not rely on the internet connection, and, most importantly, is available for free!
@@ -157,6 +169,9 @@ _By Elizaveta Titarenko, Copywriter_
 
 ![abbyy advice rock climbing wall](https://static1.abbyy.com/abbyycommedia/26355/elizaveta-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 Why engage in rock climbing?
 
 Over a year ago I went to a climbing wall for the first time. It helped to keep myself in good shape, develop endurance and stamina, and find new friends. Before I took up rock climbing I though that this is a sport only for professionals, those with steel muscles and will. But I was wrong.
@@ -175,6 +190,10 @@ P.S. Go [here](https://tools.techidaily.com/abbyy/products/), to check our previ
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

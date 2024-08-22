@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: Optimized Site Performance Through Advanced Tracking"
-date: 2024-08-19 14:10:47
-updated: 2024-08-22 11:32:47
+date: 2024-08-21T15:02:33.954Z
+updated: 2024-08-22T15:02:33.954Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e745335912f33acca5ea34e31.jpg
@@ -35,20 +35,35 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 紙はビジネスプロセスを非効率にしている最大の原因であり、今回のコロナウィルス流行は状況を悪化させただけです。 今回のコロナ危機の結果として生じた小さな希望の1つは、やっとサプライヤが書類配送ではなく電子メールやその他の手段で請求書を送信するきっかけとなったことです。 請求書の受領とエンドツーエンドのプロセス全体をさらに自動化することで、この傾向を活用していくことが、必要となります。
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 自分たちの請求書の把握
 
 企業、組織の請求書エコシステムは独自のものであり、バラバラです。 請求書の量、請求書元の数をよく理解し、請求書の複雑さを考慮しましょう。 つまり、請求書に表と明細が含まれているかどうか、さまざまな国から届いているかどうか、さまざまな言語がつかわれているかどうか等の考慮です。 自動化システムが自分たちの特定のニーズをサポートしているかどうかを確認する必要もあります。
 
 ![digital invoices on laptop](https://static1.abbyy.com/abbyycommedia/29573/shift-to-long-term-transformation-in-ap-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### AIの現状、現実の把握
 
 多くの企業リーダーは、昔からある自動化システムが時代遅れであり、許容レベルまで達成できないという厳しい経験をしています。 幸いなことに、新世代のよりスマートなAI対応テクノロジーが利用可能であり、調査すること可能ですので、すべきです。 例えば、[ABBYYによる請求書の自動化](https://tools.techidaily.com/abbyy/products/)は、畳み込みニューラルネットワーク（CNN）を活用することで、新しい取引先の請求書のテンプレートを作成する必要性を回避します。 機械学習も有効になっているため、システムがよりスマートになり、使用することでパフォーマンスが向上します。
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 会計支払い処理を超えて考えよう！
 
 コロナ危機の前でさえ、企業の財務組織は、方策的な経費とその報告センターから分析能力センターとしての戦略的な機能へと進化していました。 この進化は自動化によって実現されます。 確かに、会計支払い部門は、大量の紙からの転記作業という性質と、組織の全社的なデジタルトランスフォーメーション（DX）の最初の領域であることが多いため、財務において最も「自動化可能な」領域です。 販売管理、出張と経費、財務管理、外部レポートなど、調査すべき主要な領域である他のプロセスも検討しましょう。他のプロセスや発注書や領収書などの会計関連文書もサポートできるテクノロジーに投資しましょう。
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### さらに学ぼう
 
 このブログ投稿を読んでいる方々
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 Daneen Storc
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 

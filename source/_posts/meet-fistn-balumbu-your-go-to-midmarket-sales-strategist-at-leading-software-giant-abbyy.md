@@ -1,7 +1,7 @@
 ---
 title: Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY
-date: 2024-08-21 21:32:26
-updated: 2024-08-22 12:46:14
+date: 2024-08-21T15:02:33.867Z
+updated: 2024-08-22T15:02:33.867Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
@@ -33,10 +33,16 @@ I believe there is a lot of untapped potential in the mid-market region right no
 
 Interestingly enough, prior to joining ABBYY, I worked as an Associate Manager Site Merchandising for Walmart's women's department e-commerce website. I was responsible for the imagery and taxonomy of the women’s clothing section. Prior to that, I also worked in e-commerce, but in a different role as a computer hardware and software sales manager.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Your top advice to someone working in sales?
 
 I’ve learned that it is best to sell a solution to the customer’s pain point rather than a product. Ask a lot of questions and listen to your customer. Seek the assistance of your colleagues as needed, as you may find more success when working as a team.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Do you have any hobbies?
 
 I am a big sports fan and enjoy competing in obstacle courses. You can find me rooting for the San Francisco 49ers, Golden State Warriors and Oakland A’s - my 3 major US sports teams.
@@ -47,6 +53,12 @@ I also enjoy kayaking, and love grilling on the BBQ, as well as many more outdoo
 
 ![Megan and Fiston](https://static1.abbyy.com/abbyycommedia/34039/fistonbalumbu-meagan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## What's your party trick?
 
 I don’t know if I can answer this as I am now married! Just kidding. I simply enjoy having a good time.
@@ -59,6 +71,9 @@ I don’t have any kids, so I would say the wellbeing of my extended family.
 
 That no-one goes to bed hungry by choice or has to sleep outside by choice. I would like those of us who have been blessed to do more to help our fellow human beings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What’s your pet peeve?
 
 Selfishness. Whether it be knowledge, ability, monetary or anything else, we should share what we can with each other especially with those less fortunate. We need to be mindful that not everyone has been dealt the same cards.
@@ -69,6 +84,11 @@ Selfishness. Whether it be knowledge, ability, monetary or anything else, we sho
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

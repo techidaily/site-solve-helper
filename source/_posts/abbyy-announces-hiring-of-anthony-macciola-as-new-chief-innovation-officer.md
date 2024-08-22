@@ -1,7 +1,7 @@
 ---
 title: ABBYY Announces Hiring of Anthony Macciola as New Chief Innovation Officer
-date: 2024-08-20 13:38:33
-updated: 2024-08-22 11:57:33
+date: 2024-08-21T15:02:32.930Z
+updated: 2024-08-22T15:02:32.930Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfabe268a90cf22a89412c015d.jpg
@@ -73,3 +73,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->

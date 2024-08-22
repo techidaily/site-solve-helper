@@ -1,7 +1,7 @@
 ---
 title: New Study Reveals UK Workers Spend More Than 40 Days Annually on Replicable Tasks - Opportunity for Automation Unlocked
-date: 2024-08-19 13:51:42
-updated: 2024-08-22 11:59:23
+date: 2024-08-21T15:02:33.649Z
+updated: 2024-08-22T15:02:33.649Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg
@@ -85,3 +85,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->

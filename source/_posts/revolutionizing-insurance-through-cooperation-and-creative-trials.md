@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Insurance Through Cooperation and Creative Trials
-date: 2024-08-19 11:22:48
-updated: 2024-08-22 10:19:12
+date: 2024-08-21T15:02:31.936Z
+updated: 2024-08-22T15:02:31.936Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38ea9e6dfe43b98273ae04085.jpg
@@ -40,6 +40,9 @@ We discussed how to capitalize on the opportunities of artificial intelligence (
 
 Our conversation started with exploring why these technologies are so powerful–which is because they can be used in really targeted ways. The opportunity ahead is to be able to use those technologies and others, like [intelligent document processing (IDP)](https://tools.techidaily.com/abbyy/products/) and [process mining](https://tools.techidaily.com/abbyy/products/), to solve specific challenges and achieve specific business outcomes across the traditional insurance value chain. We also touched on how they can enable insurers to really use data as part of the decision-making process at critical points in the policy and claims lifecycles. We definitely agreed that we’re only seeing the beginning of how these technologies will help insurers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Start with the goal, not the technology
 
 Another topic of discussion was about how the most successful deployments are the ones that were targeted towards a specific business need and had defined metrics about what would be considered successful ROI.
@@ -56,6 +59,9 @@ One point that really stayed with me was that when projects are deemed a failure
 
 [Improve your processes with real-time insight from your own systems.](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Collaboration + Experimentation = Innovation
 
 Internal collaboration and experimentation can take years to establish, particularly in large, established insurers with strong cultures and ways of working that have served them well.
@@ -64,6 +70,9 @@ But now, it’s clear that the overnight shift to remote work and virtual custom
 
 ![insurance modernization success](https://static1.abbyy.com/abbyycommedia/33671/news-16-success.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Incrementally improve instead of rip-and-replace
 
 Insurers need to find new approaches to improving their processes. And it’s not another rip-and-replace project. Ultimately, using technology to advance intelligent process automation is most successful when an organization defines what success looks like before a project starts. And that’s because innovative technology projects all have the potential for business value–it just depends on what your business objectives are.
@@ -76,6 +85,9 @@ This incubator approach can also help to define possible organizational changes 
 
 ![insurance modernization](https://static1.abbyy.com/abbyycommedia/33731/news-conference3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 The most successful organizations will be the ones that find ways to embed innovation into their culture and empower their teams–both individually and collectively–to challenge the way things have always been done, and encourage, support, and reward innovative behavior across the silos of an enterprise.
 
 [Intelligent Automation for Insurers](https://tools.techidaily.com/abbyy/products/)
@@ -86,10 +98,16 @@ The most successful organizations will be the ones that find ways to embed innov
 
 Eileen Potter
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static3.abbyy.com/abbyycommedia/35948/14998-cover-1-innovation.jpg) 
@@ -98,6 +116,10 @@ Share
 
 ![](https://static4.abbyy.com/abbyycommedia/35501/insurance-cover-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [No Time to Lose: Solving Document Challenges in Insurance](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static4.abbyy.com/abbyycommedia/35325/professionals-5-848x444.jpg) 

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Tech with ABBYY's Open Source NeoML - The Key to Innovative AI Creations
-date: 2024-08-20 19:24:12
-updated: 2024-08-22 11:12:11
+date: 2024-08-21T15:02:32.150Z
+updated: 2024-08-22T15:02:32.150Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb2511c6882fb283e99f7aa6165.jpg
@@ -76,3 +76,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->

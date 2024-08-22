@@ -1,7 +1,7 @@
 ---
 title: "ABBYY OCR: Boosting Workflow Efficiency in Recruitment Software Solutions"
-date: 2024-08-20 11:53:25
-updated: 2024-08-22 12:55:32
+date: 2024-08-21T15:02:33.489Z
+updated: 2024-08-22T15:02:33.489Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d14974522694c6300224ce7ee050ff.jpg
@@ -79,3 +79,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

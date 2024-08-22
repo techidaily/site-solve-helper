@@ -1,7 +1,7 @@
 ---
 title: "Embracing a Digital Future: PSA Security Network Enhances Operations with Electronic Accounts Payable System"
-date: 2024-08-20 13:46:43
-updated: 2024-08-22 10:38:38
+date: 2024-08-21T15:02:33.370Z
+updated: 2024-08-22T15:02:33.370Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1edbd98c5f96a14775cba2210b.jpg
@@ -100,6 +100,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Data Collection with Advanced Cookiebot Features for Precise Marketing Insights
-date: 2024-08-20 10:41:27
-updated: 2024-08-22 10:56:53
+date: 2024-08-21T15:02:32.439Z
+updated: 2024-08-22T15:02:32.439Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b36010696a635f2d59959383d55084.jpg
@@ -39,14 +39,24 @@ Education/Research | Social Work | ICR/Handwriting Recognition | PDF and Documen
 | ------- | ------------------------------------------------ |
 | Website | [www.beckerdm.co.uk](https://www.beckerdm.co.uk) |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Hintergrund
 
 In jahrelanger Zusammenarbeit mit mehreren Hundert Schulen hat die School Fundraising Company mit dem populären Christmas Card Project mehrere Tausend Pfund für die Unterstützung von Lehrerverbänden und Schulfonds aufbringen können. Die Schulen verwenden die Gelder, um dringend benötigte Materialien für den Sport-, Kunst- und Werkunterricht, sowie Bücher, Lernmaterialien und Computer zu kaufen. Die Organisation bietet ein Konzept mit dem das Projekt für die Kinder und Lehrer unterhaltsam gestaltet und gleichzeitig die Summe an Geldern, die für die Schule beschafft werden, optimiert wird. Eine der entstehenden Schwierigkeiten für School Fundraising Company ist dabei leider die Menge an Karten – die sich in einer „ganz normalen“ Weihnachtssaison auf mehrere Hunderttausend belaufen kann – und deren Bearbeitung, welche ein zeitintensiver und fehleranfälliger Prozess ist. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Herausforderung
 
 Sobald sich eine Schule für das Christmas Card Project angemeldet hat, schickt School Fundraising Company ein Paket mit allen nötigen Informationen und Unterlagen an die entsprechenden Lehrer, die dann eine Unterrichtsstunde organisieren in der jeder einzelne Schüler seine individuelle Weihnachtskarte gestalten darf. Jeder Schüler bekommt ein Blatt DIN A4 Papier, welches in 2 Hälften aufgeteilt wird. In die eine Hälfte malt der Schüler seine Karte, in die andere Hälfte trägt der Lehrer die Daten des Schülers ein – Name, Alter, Klasse, etc. Nachdem die gesamte Klasse ihre Karten fertig gestellt hat, werden diese zurück an die School Fundraising Company gesendet, wo ein Angestellter mit dem langwierigen Prozess der Bearbeitung beginnt. Die Einsendungen müssen sortiert und die persönlichen Daten des Schülers herausgefiltert und in eine Datenbank eingegeben werden. Um den Zeitaufwand zu verringern und die Fehlerquote zu reduzieren, hat sich die Organisation dazu entschlossen, eine technologische Lösung für die Bearbeitung zu suchen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Lösung
 
 Um eine Lösung zu finden, die den Arbeitsprozess vereinfachen und rationalisieren könnte, hat sich School Fundraising Company an Becker Services gewandt, ein unabhängiges Document Management und Data Capture Unternehmen in Großbritannien mit Sitz in Essex und Herts. Becker hat die Situation analysiert und festgestellt, dass eine Data Capture Lösung benötigt würde, um die relevanten Informationen aus den Karten der Kinder herauszufiltern und zu verarbeiten.
@@ -63,6 +73,9 @@ Obwohl FlexiCapture jedes einzelne Dokument mit sehr hoher Genauigkeit erkennt, 
 
 School Fundraising Company schätzt, dass sich durch die Verwendung von ABBYY FlexiCapture für eine automatisierte Extrahierung der Daten der manuelle Arbeitsaufwand pro Person um ca. 50% reduziert hat. In Arbeitsstunden pro Person umgerechnet bedeutet das, dass im Schnitt 3-4 Wochen weniger für die Umsetzung jedes Projekts benötigt werden – was eine erhebliche zeitliche und finanzielle Einsparung bedeutet. Zusätzlich konnte durch die hohe Präzision von FlexiCapture die Fehlerquote bei der Zuordnung von Bild und Daten verringert werden, die vorher die Organisation viel Zeit und Geld gekostet hat. Das Scannen der Bilder und die manuelle Eingabe der Daten waren zuvor zwei vollkommen separate Prozesse, wodurch viele Fehler entstanden. 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ergebnis
 
 Wir sind wirklich sehr zufrieden mit der Leistung von Becker Services“, erklärt Julie Burton von School Fundraising Company. „Die Zusammenarbeit war sehr angenehm – sie sind sehr hilfsbereit, unterstützend und aufmerksam – und ABBYYs Software passt perfekt zu unseren Bedürfnissen. Wir würden keine Sekunde zögern, sie bei einem ähnlichen Projekt wieder zu kontaktieren.“
@@ -71,6 +84,10 @@ Schulen und Schüler profitieren seit Jahren von der Arbeit von School Fundraisi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -79,6 +96,9 @@ Schulen und Schüler profitieren seit Jahren von der Arbeit von School Fundraisi
 
 Teilen 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

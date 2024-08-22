@@ -1,7 +1,7 @@
 ---
 title: Introducing Real-Time Text Analysis with ABBYY TextGrabber – Seamless Integration of Recognition and Functionality
-date: 2024-08-19 17:25:44
-updated: 2024-08-22 10:46:10
+date: 2024-08-21T15:02:32.680Z
+updated: 2024-08-22T15:02:32.680Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d489da22f5c297b4d52b59271.jpg
@@ -81,3 +81,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->

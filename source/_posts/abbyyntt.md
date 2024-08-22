@@ -1,7 +1,7 @@
 ---
 title: ABBYYがNTTドコモ向けに開発した画像からテキストを抽出する多言語翻訳ツールのイノベーション
-date: 2024-08-19 22:31:50
-updated: 2024-08-22 10:49:37
+date: 2024-08-21T15:02:32.948Z
+updated: 2024-08-22T15:02:32.948Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84ac1f20b42c3b2db4cf801728.png
@@ -53,3 +53,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

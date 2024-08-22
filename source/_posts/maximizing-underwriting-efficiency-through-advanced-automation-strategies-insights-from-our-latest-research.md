@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Underwriting Efficiency Through Advanced Automation Strategies: Insights From Our Latest Research"
-date: 2024-08-19 13:46:16
-updated: 2024-08-22 11:39:34
+date: 2024-08-21T15:02:33.402Z
+updated: 2024-08-22T15:02:33.402Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24ff85257e3a0b7e2c37dbd29.jpg
@@ -19,18 +19,27 @@ White paper
 
 The skills required to master the discipline of underwriting are changing fast as automation becomes increasingly important in this process. Artificial intelligence and machine learning bring much potential to improving the underwriting process, but only if insurers can succeed at creating a culture that accepts automation. Underwriting teams must be educated and upskilled in order to benefit from the opportunities that new technology brings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Download it now!
 
 How can insurers combat barriers to technology adoption such as legacy mindsets, ineffective staff communication, and the battle to attract new talent to ensure that staff is ready and able to embrace new tools?
 
 This white paper explores the impact that automation is having today on underwriting at RSA, Zurich UK, UK General, and Aviva, and how staff are acquiring the skills needed to maximize its potential benefits.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Thank you for your interest in ABBYY and its technologies.
 
 [Read the white paper](https://digital.abbyy.com/hubfs/documents/content/whitepaper-insurance-underwritingautomation-en.pdf "Read the white paper") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.

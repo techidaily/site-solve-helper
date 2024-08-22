@@ -1,7 +1,7 @@
 ---
 title: Advance Your Enterprise Services with Smart Document Management Techniques
-date: 2024-08-21 23:21:50
-updated: 2024-08-22 11:36:26
+date: 2024-08-21T15:02:32.174Z
+updated: 2024-08-22T15:02:32.174Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3bf7e355bd7f5437be375738.jpg
@@ -29,6 +29,9 @@ In this blog post, we want to provide insight into a few of the technology integ
 
 One of the first connector integrations we love is incorporating the ABBYY Vantage experience with a virtual assistant to take the customer journey to the next level. By combining voice, conversational AI, and document intelligence by way of Vantage Document Skills into a unified mobile experience, virtual assistants are able to deliver great service to a customer without needing an agent. Take a look at the [Cognigy](https://www.cognigy.com/) video explaining it below!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automation of screens and IT operations
 
 [Micro Focus](https://www.microfocus.com/en-us/products/robotic-process-automation/overview) RPA is a powerful automation and orchestration platform that combines screen automation and IT operation steps to automate entire enterprise processes. Orchestrating different IT systems, APIs, and desktop applications is exactly what Micro Focus excels in. With their low-code/no-code design studio, you can create bots to automate tasks with ease. And now, with the additional asset of Vantage Skills, available from within the ABBYY Marketplace, they have just reached a new level of cognitive awareness. Take a look at the video below to see the powerful combination in action!
@@ -39,6 +42,9 @@ RPA bots are great for automating simple, repetitive tasks, but imagine if robot
 
 ![Kyron ABBYY skills for rpa](https://static1.abbyy.com/abbyycommedia/32872/abbyy-kryon-customer-story.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Leveraging the power of SAP Business Technology Platform
 
 If you are looking to enhance and upgrade your SAP cloud environment, Incutre's [Cherrywork platform](https://incture.com/cherrywork-intelligent-digital-applications/) provides enterprises with pre-packaged and ready-to-deploy intelligent digital applications, and also seamlessly integrates with ABBYY Vantage. With a click of a button, you can enable your SAP cloud with the ability to understand documents and structure data that can be integrated into your SAP processes.
@@ -47,12 +53,18 @@ If you are looking to enhance and upgrade your SAP cloud environment, Incutre's 
 
 Power Automate has made big strides in bringing automation to every business user, providing Microsoft partners with an opportunity to connect other technologies and services into the automation platform. One ABBYY partner who has done just that is [Roborana](https://roborana.be/), who has developed a Vantage Connector to the Power Automate platform for building an end-to-end solution. Take a look below to see how this great Power App came together and how easy and seamless it is to connect Vantage to the Power Automate platform.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ABBYY Marketplace
 
 The [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) offers an open ecosystem where partners can publish connectors, trained [cognitive skills](https://tools.techidaily.com/abbyy/products/), and other assets that enhance and extend the ABBYY Vantage platform and accelerate the digital transformation and automation initiatives of enterprises of any size, industry, and geography. All the connectors mentioned above will be available on the ABBYY Marketplace at the time of public launch!
 
 ![preview ABBYY Marketplace](https://static1.abbyy.com/abbyycommedia/32870/marketplace.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Do you have a great idea for a new Cognitive skill? Want to build a connector for your platform? Reach out to us and we’ll gladly help you get started!
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -75,8 +87,14 @@ Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 ![](https://static4.abbyy.com/abbyycommedia/32000/stefanschmainta-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Stefan Schmainta
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

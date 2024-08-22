@@ -1,7 +1,7 @@
 ---
 title: "Advanced OCR Technology with ABBYY SDK: The Future of Automatic Document Digitization"
-date: 2024-08-19 15:10:24
-updated: 2024-08-22 10:41:42
+date: 2024-08-21T15:02:33.509Z
+updated: 2024-08-22T15:02:33.509Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29936958ff74ebecc1f44d1d0.png
@@ -30,10 +30,16 @@ En même temps, la mise en page de chacune des pages est décortiquée et chaque
 Les résultats de cette analyse sont utilisés pour retrouver la structure et la mise en page d’un document dans un scénario de réutilisation du contenu. Toutes les images et les diagrammes sont conservés dans leur présentation d’origine sans texte reconnu.
   
   
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Spécification de blocs manuels pour la reconnaissance par champ
 
 Les zones de reconnaissance de texte peuvent être définies manuellement. Dans ce cas, le champ pertinent est défini directement et l’analyse automatisée du document n’est pas nécessaire. Lors de l’étape ultérieure de reconnaissance, l’outil de reconnaissance reçoit des informations à propos des coordonnées et des propriétés des champs nécessaires et applique l’OCR uniquement à la zone spécifiée.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)[Contactez-nous](https://tools.techidaily.com/abbyy/products/)

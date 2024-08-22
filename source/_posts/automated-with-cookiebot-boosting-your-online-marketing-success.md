@@ -1,7 +1,7 @@
 ---
 title: "Automated with Cookiebot: Boosting Your Online Marketing Success"
-date: 2024-08-19 11:54:20
-updated: 2024-08-22 12:44:45
+date: 2024-08-21T15:02:33.916Z
+updated: 2024-08-22T15:02:33.916Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3ed22a8b3f83cf8fa8dfaeb8.jpg
@@ -23,6 +23,9 @@ June 03, 2022
 
 Intelligent Process Automation leverages artificial intelligence (AI) and machine learning (ML) to bring together two powerful capabilities: Process Intelligence and Intelligent Document Processing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why is IPA important?
 
 From the dawn of the digital age, businesses have been chasing the goal of true process automation—enabling machines to take on entire processes and freeing human workers to focus on more interesting, value-added pursuits. For a time, robotic process automation (RPA) appeared to hold the answer, but it failed to live up to its potential as a standalone solution. In a recent survey on intelligent automation, [RPA proved to be the least-implemented solution](https://tools.techidaily.com/abbyy/products/) over the past year.
@@ -39,6 +42,9 @@ Organizations must understand processes before they can successfully implement p
 
 ![process mining gif](https://static1.abbyy.com/abbyycommedia/35773/ipa-blog-meme-1.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After automation is in place, Process Intelligence enables continuous monitoring to flag deviations or inefficiencies as they arise, enabling businesses to address small problems before they become big ones.
 
 [Learn more about ABBYY Timeline, a cloud-based, AI-driven Process Intelligence (process and task mining) platform.](https://tools.techidaily.com/abbyy/products/)
@@ -61,6 +67,9 @@ As the initial shock of the pandemic faded and the economy began to recover, bus
 
 Over the last two years, businesses have faced ample incentives to light a fire under their automation journeys, and they wasted no time taking action. According to a recent survey, [98 percent of IT decision makers have implemented new automation technologies in the last two years](https://tools.techidaily.com/abbyy/products/), spurred by the pandemic. Better preparing the company to adapt to remote and hybrid working was the top cited reason for the change, followed by alleviating employee burnout and (somewhat surprisingly) pressure from employees to implement.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What's the difference between IPA and RPA?
 
 There’s no question that [robotic process automation](https://tools.techidaily.com/abbyy/products/) paved the way for Intelligent Process Automation, and RPA remains a viable if limited solution. RPA is primarily a task-oriented approach, aiming to replicate human actions in accomplishing specific, rule-based tasks. RPA solutions cannot, however, understand content on their own, nor are they equipped to manage the complexities of end-to-end processes.
@@ -69,6 +78,9 @@ There’s no question that [robotic process automation](https://tools.techidaily
 
 Intelligent Process Automation encompasses the “big picture” of business processes, applying AI technologies (e.g., Intelligent Document Processing, process mining, task mining, natural language processing, machine learning, advanced analytics) to mirror human decision-making at every stage. When and where relatively simple, rules-based decision-making is required, RPA can be an appropriate solution and may be used quite successfully. IPA capabilities allow you to [scale RPA projects](https://tools.techidaily.com/abbyy/products/) by expanding automation further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What can Intelligent Process Automation do for businesses?
 
 By combining the capabilities of Process Intelligence and Intelligent Document Processing, Intelligent Process Automation helps businesses understand processes before, during, and after automation. It identifies deviations or inefficiencies that can waste time and resources. This means businesses can use real-world data from their own operations to identify and prioritize processes most likely to benefit from automation. They also gain insight into how documents function as the basis for skilled decision-making at every stage of the process. These insights enable the business to determine how they can manage documents to make the process work more efficiently, and then apply the document skills needed to optimize content processing.
@@ -86,6 +98,9 @@ In hospitals and other healthcare organizations, [AI and automation in healthcar
 * ##### Transportation and logistics  
 Documents such as invoices, bills of lading, and receipts are at the heart of [transportation and logistics processes](https://tools.techidaily.com/abbyy/products/), and IPA can help transporters improve efficiencies in data entry, order management, invoice processing, and other supply chain processes.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## What does the IPA journey look like?
 
 While earlier approaches to automation required significant infrastructure investments and dedicated teams of data scientists, implementing Intelligent Process Automation is relatively simple, and businesses can get up and running in a matter of weeks. Once the basic building blocks are in place, the organization can follow a few simple steps to achieve their IPA goals:
@@ -105,6 +120,9 @@ Find out how [ABBYY Intelligent Process Automation solutions](https://tools.tech
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Enterprise](https://tools.techidaily.com/abbyy/products/) [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Process Mining](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

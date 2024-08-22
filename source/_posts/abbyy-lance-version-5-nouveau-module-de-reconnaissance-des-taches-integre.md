@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Lance Version 5 : Nouveau Module De Reconnaissance Des Tâches Intégré"
-date: 2024-08-20 22:55:50
-updated: 2024-08-22 10:41:54
+date: 2024-08-21T15:02:32.935Z
+updated: 2024-08-22T15:02:32.935Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9eaf6ae422f8b959a2a9262d12.jpg
@@ -66,3 +66,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

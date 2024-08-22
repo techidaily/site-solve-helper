@@ -1,7 +1,7 @@
 ---
 title: Global Food Conglomerate Enhances Billing Accuracy with Advanced AI-Powered Invoice Management
-date: 2024-08-20 18:14:23
-updated: 2024-08-22 12:16:54
+date: 2024-08-21T15:02:33.857Z
+updated: 2024-08-22T15:02:33.857Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2ff78bc2a59c4da0244a5a39.jpg
@@ -43,6 +43,9 @@ Only 6% of attendees to the SSON webinar described their AP department as being 
 
 ![blog-ap-challenge-1](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/how-a-multinational-food-enterprise-uses-ai-to-achieve-delicious-results/blog-ap-challenge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Uncovering AP challenges
 
 "Before automating its AP process with AI-powered IDP solutions, this global snack-food supplier used to face data entry errors and the other types of AP challenges identified by shared services leaders who attended the SSON webinar,” said Donald Bunch, senior manager for automation development and governance at the multinational food enterprise. In many cases, staff had to handle the same document multiple times. 
@@ -59,6 +62,9 @@ As a result, invoices were processed differently in France, Brazil, and Italy.
 
 “We needed to design a solution that would encompass all these different markets and variations and still allow the company to service the unique needs of individual localities,” Bunch explained. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### How AI is used in invoice processing
 
 That’s where AI proved very beneficial, the company uses a combination of natural language processing (NLP) and machine learning (ML) for [automated invoice processing](https://tools.techidaily.com/abbyy/products/). 
@@ -74,6 +80,12 @@ AI-powered solutions can liberate AP staff from the manual, repetitive tasks tha
 
 ![blog-ap-challenge-2](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/how-a-multinational-food-enterprise-uses-ai-to-achieve-delicious-results/blog-ap-challenge-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Benefits of transforming AP into a strategic powerhouse
 
 Purpose-built AI technology enabled this multinational organization to achieve faster invoice approval times, greater accuracy, and a higher percentage of invoices posted directly to its ERP without human operator intervention. 
@@ -96,6 +108,9 @@ Curious to learn more about how a multinational snack food supplier used AI-powe
 
 ![Mark-Brousseau](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/Mark-Brousseau.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Mark Brousseau
 
 President of Brousseau & Associates

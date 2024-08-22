@@ -1,7 +1,7 @@
 ---
 title: Crafting an Unshakeable Cyber-Centric Evolution Blueprint
-date: 2024-08-20 17:33:21
-updated: 2024-08-22 11:43:20
+date: 2024-08-21T15:02:32.983Z
+updated: 2024-08-22T15:02:32.983Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab5554465668491f874fa276d36a0e.jpg
@@ -25,12 +25,18 @@ Process Intelligence Lead, **ABBYY**
 
 ![Ananth Avva 198x198](https://static2.abbyy.com/abbyycommedia/34128/ananth-avva.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ananth Avva
 
 President, **Pipefy**  
 
 ![Jennifer Faria 198x198](https://static2.abbyy.com/abbyycommedia/34129/jennifer-faria.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Jennifer Faria
 
 Digital Enablement & Automation Services Program Lead, AVP, **FM Global**  
@@ -39,6 +45,9 @@ Digital Enablement & Automation Services Program Lead, AVP, **FM Global**
 
 If the events of the past year have taught us anything, it is to be prepared for the unexpected: How can we develop a strategy for Digital Transformation that is robust and flexible? What were the main lessons learned from the shockwave that the pandemic sent?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Watch it now!
 
 Lessons like:
@@ -49,13 +58,22 @@ Lessons like:
 
 Take your digital transformation strategy and your business beyond the pandemic. Tune into this panel session from PEX Network’s OPEX Summer virtual event to see how.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fill in the form to register for the webinar now
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thank you for registering!
 
 Please check your inbox, we have sent you a confirmation email.

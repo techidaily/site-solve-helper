@@ -1,7 +1,7 @@
 ---
 title: "Meet the New CISO at ABBYY: Introducing Paul Nizov to Our Leadership Team"
-date: 2024-08-19 17:27:32
-updated: 2024-08-22 10:53:29
+date: 2024-08-21T15:02:33.243Z
+updated: 2024-08-22T15:02:33.243Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4a725eae923eeb25fe929021.jpg
@@ -54,3 +54,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->

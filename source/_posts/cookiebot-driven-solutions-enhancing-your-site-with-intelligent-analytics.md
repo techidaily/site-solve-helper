@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Solutions: Enhancing Your Site with Intelligent Analytics"
-date: 2024-08-19 12:56:38
-updated: 2024-08-22 11:17:52
+date: 2024-08-21T15:02:32.960Z
+updated: 2024-08-22T15:02:32.960Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79a361dfc0ab65e3b0afbaf26.jpg
@@ -29,11 +29,17 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 * Le processus est lent et fastidieux. La saisie manuelle des données dans les systèmes nationaux de douane est lente, coûteuse et source d’erreurs.
 * Les retards aux douanes, dus à des informations manquantes ou incorrectes, sont un problème, en particulier pour les fabricants de biens de consommation courants.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Solution
 
 * La solution de traitement intelligent des documents (IDP) ABBYY extrait les données des factures commerciales et des listes de colisage avec près de 100% de justesse. Les données sont envoyées vers la solution de CustomsTrack pour faire automatiquement les déclarations de douane d’import et export et les remplir dans les systèmes de douane nationaux.
 * Avec la solution CustomsTrack, les entreprises internationales peuvent prendre la maîtrise des opérations douanières, sans avoir besoin de recourir aux services de courtiers en douane, lesquels accroissent les coûts et la complexité du processus.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Value
 
 * 95% de rapidité en plus pour la livraison des marchandises sur le marché
@@ -49,18 +55,30 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### ABBYY Solutions for Accounts Payable Automation
 
 [En savoir plus](https://tools.techidaily.com/abbyy/products/)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 #### PDF Version
 
 [Lire le document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/CustomsTrack-case-study-intelligent-document-processing-fr.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### En savoir plus sur ABBYY 
 
 [Contactez-nous](https://tools.techidaily.com/abbyy/products/)

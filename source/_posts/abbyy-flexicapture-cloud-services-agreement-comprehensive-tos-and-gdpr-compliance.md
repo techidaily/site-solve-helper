@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FlexiCapture Cloud Services Agreement: Comprehensive TOS and GDPR Compliance"
-date: 2024-08-19 10:58:52
-updated: 2024-08-22 10:45:45
+date: 2024-08-21T15:02:31.751Z
+updated: 2024-08-22T15:02:31.751Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73ee1b460d4fca7fb954d5641.jpg
@@ -186,3 +186,7 @@ Client is liable for any Personal Data that is provided or otherwise made availa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->

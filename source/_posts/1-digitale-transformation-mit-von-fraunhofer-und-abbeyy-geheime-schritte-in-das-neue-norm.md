@@ -1,7 +1,7 @@
 ---
 title: 1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'
-date: 2024-08-20 15:24:20
-updated: 2024-08-22 12:56:51
+date: 2024-08-21T15:02:32.732Z
+updated: 2024-08-22T15:02:32.732Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -21,14 +21,23 @@ Prozesstechnologien wie Process Mining, Robotic Process Automation oder Process 
 
 Unsere aktuelle Studie in Zusammenarbeit mit dem Fraunhofer-Institut für Angewandte Informationstechnik FIT zeigt allerdings, dass viele Unternehmen mit dem aktuellen Stand ihrer Geschäftsprozesse noch nicht zufrieden sind und großes Verbesserungspotenzial sehen. Im Rahmen der Studie wurden Unternehmen der Branchen Versicherungen und Banken sowie Logistik und Produktion befragt.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Laden Sie die Studie jetzt herunter, um mehr über den aktuellen Stand zum Einsatz von Prozesstechnologien und damit einhergehende Handlungsempfehlungen zu erfahren.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Danke für Ihr Interesse an ABBYY.
 
 [Studie lesen](https://digital.abbyy.com/hubfs/documents/content/report-processintelligence-fraunhoferfitstudydigitalizationprocesses-de.pdf "Studie lesen") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Haben Sie Fragen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
 #### Obtenez votre exemplaire en complétant le formulaire.

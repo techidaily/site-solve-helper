@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Triumphs with Prestigious Accolade: Securing Five Distinctive Mobile Star Awards"
-date: 2024-08-20 18:16:40
-updated: 2024-08-22 11:19:52
+date: 2024-08-21T15:02:31.956Z
+updated: 2024-08-22T15:02:31.956Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f440ead1dafd4f608890d169.png
@@ -68,3 +68,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->

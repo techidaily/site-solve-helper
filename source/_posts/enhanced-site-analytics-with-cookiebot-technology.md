@@ -1,7 +1,7 @@
 ---
 title: Enhanced Site Analytics with Cookiebot Technology
-date: 2024-08-19 16:38:24
-updated: 2024-08-22 11:59:22
+date: 2024-08-21T15:02:32.062Z
+updated: 2024-08-22T15:02:32.062Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03454856c62819bb5612b0808.jpg
@@ -77,3 +77,8 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->

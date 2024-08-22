@@ -1,7 +1,7 @@
 ---
 title: Erhöhung Der Prozesseffizienz Um 70%% - Deutsche Post DHL Nutzt RPA Und ABBYY IDP
-date: 2024-08-19 17:46:44
-updated: 2024-08-22 12:51:21
+date: 2024-08-21T15:02:32.805Z
+updated: 2024-08-22T15:02:32.805Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a4821dff69d11f95fe1acb0191f.jpg
@@ -35,6 +35,10 @@ Deutsche Post DHL suchte nach einer Lösung, um:
 * die Komplexität verschiedener Formate zu bewältigen
 * eine Integration mit der Robotic Process Automation (RPA) des Unternehmens umzusetzen
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Lösung
 
 Mit ABBYY Intelligent Document Processing (IDP) kann die RPA semistrukturierte und unstrukturierte Dokumenteninhalte verstehen und verarbeiten. Optical Character Recognition – eine intelligente Optische Zeichenerkennung (OCR) und IDP-Technologien erkennen, klassifizieren und extrahieren automatisch und präzise große Mengen wichtiger Daten, die so für RPA nutzbar gemacht werden.
@@ -43,6 +47,9 @@ Die Automatisierung der Verarbeitung von Zahlungsavisen mit ABBYY IDP hat die Ef
 
 Die Deutsche Post war in der Lage, einen Teil des Prozesses zu automatisieren, der noch viel manuelle Arbeit erforderte, um so Mitarbeiter für höherwertige Aufgaben freizusetzen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Ergebnis
 
 * Geringere Transaktionskosten durch standardisierte globale Prozesse
@@ -55,18 +62,34 @@ Die Deutsche Post war in der Lage, einen Teil des Prozesses zu automatisieren, d
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 #### ABBYY Solutions for Accounts Payable Automation
 
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 #### PDF Version
 
 [Zum Dokument](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/customer-story-intelligent-document-processing-transportation-deutsche-post-dhl-group-de.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Erfahren Sie mehr über ABBYY
 
 [Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)

@@ -1,7 +1,7 @@
 ---
 title: Historische Texte Im Netz - Die Frankfurter Uni Bringt Mit ABBEY Historie Zur Hand
-date: 2024-08-19 20:26:29
-updated: 2024-08-22 11:32:58
+date: 2024-08-21T15:02:32.272Z
+updated: 2024-08-22T15:02:32.272Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
@@ -102,6 +102,9 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

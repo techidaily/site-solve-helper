@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Twins: An In-Depth Guide From ABBYY Perspectives"
-date: 2024-08-21 10:23:56
-updated: 2024-08-22 12:31:59
+date: 2024-08-21T15:02:33.268Z
+updated: 2024-08-22T15:02:33.268Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
@@ -29,10 +29,16 @@ In this article, we’ll unpack what a [digital twin](https://tools.techidaily.c
 
 The primary purpose of a digital twin is to remotely monitor an object’s performance, enabling you to identify potential problems and make informed decisions to enhance the original physical asset.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How does a digital twin work?
 
 ![What Is a Digital Twin-content](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/what-is-a-digital-twin/what-is-a-digital-twin-content.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 A [digital twin](https://tools.techidaily.com/abbyy/products/) works by creating a virtual representation of a physical object or system, mirroring its real-time behavior, performance and features. To create a digital twin, the physical object – for example an aircraft engine – is fitted with smart sensors to collect data on its functionality. This data could include its temperature, energy output, pressure, and more. The system will process and actively apply this information to the virtual model.
 
 Once it has all the relevant data, the virtual model can be used across the object’s lifecycle to:
@@ -63,6 +69,9 @@ ML creates statistical models and algorithms, enabling computer systems to perfo
 
 [Simulation](https://tools.techidaily.com/abbyy/products/) of business processes to test potential improvements can help businesses avoid wasting human resources to correct poor performance not anticipated by process designers. Process simulation enables the automatic creation of a true process digital twin that allows businesses to understand the impact of changes before they are made.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Types of digital twins
 
 There are various types of [digital twin](https://tools.techidaily.com/abbyy/products/) —some of which only replicate one part of an object’s performance, while others offer insights on how overall systems work together. Multiple types of digital twins can run together within a system or process because they each provide crucial virtual representations.
@@ -77,10 +86,17 @@ Component twins, also known as parts twins, are digital representations of indiv
 
 According to digital twin technology, an asset is formed when two or more components work together within a system. Asset twins provide a virtual model of these interconnected components, so you can analyze their interactions and build actionable performance insights to inform decision-making.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### System twins
 
 System twins are a higher-level digital twin, which show how different assets come together to form a larger functioning system. A system twin provides visibility of how assets interact, enabling you to identify performance enhancement opportunities.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Process twins
 
 Process twins provide a big picture view of how multiple components, units, and assets collaborate to create an entire system, while also enabling the user to inspect different, individual parts of the process. Process twins can blend together multiple process twins to represent a part of the process or the overall process in one. For example, you can virtually reproduce a manufacturing facility to gain insight into how units work together. At this level of magnification, you’ll identify asynchronism, inefficiencies, and delays that may be affecting your system.
@@ -97,6 +113,9 @@ Digital twins differ from traditional, retrospective process views by offering r
 
 Digital twins provide full digital visibility of an object or system, whether it’s an engine in a machine or a whole manufacturing facility. With insight into how thousands of components work together, you can predict timings of activities and process outcomes with greater accuracy and confidence.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Increased speed of innovation
 
 You can accelerate your physical prototyping and production phase by creating a digital twin to run scenarios on.
@@ -123,16 +142,34 @@ Banks and [financial services](https://tools.techidaily.com/abbyy/products/) org
 
 For instance, a bank may want to speed up its account opening process to reduce application abandonment rates. It can use a digital twin to visualize its current process and simulate potential improvements, to support its digital transformation and monitor the overall customer experience over time.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Healthcare
 
 Hospitals and [healthcare](https://tools.techidaily.com/abbyy/products/) facilities have countless use cases for digital twins.
 
 A single patient journey involves several components, which can be mapped out through process discovery. Before making adjustments, such as modifying treatment schedules or staff allocation at peak times, the hospital can use a digital model of its patient experience to run simulations. The model will illustrate the impact of proposed solutions on quality standards and the patient experience.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Insurance
 
 The process-driven nature of [insurance](https://tools.techidaily.com/abbyy/products/) functions makes it particularly valuable to find opportunities for optimizing efficiency. Insurance organizations can use a digital twin to model their claims cycle. You’ll be able to identify and address bottlenecks or slow manual processes that will speed up workflows and improve customer wait times.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get started with a digital twin 
 
 Unlock the full transformative potential of your business processes with [ABBYY Timeline](https://tools.techidaily.com/abbyy/products/). Our process intelligence solution utilizes the digital twin concept to provide an interactive visualization of your business processes, with real-time data updates and 100 percent visibility.
@@ -151,6 +188,9 @@ Connect with Tamas on [LinkedIn](https://www.linkedin.com/in/tamasmahr/).
 
 _Editorial note: This blog post was originally published on July 21, 2021\. On March 30, 2023, we updated this blog to reflect the new capabilities of ABBYY Timeline 6.0 including new UI, deeper analytics, and an advancement of ABBYY's process intelligence capabilities, process simulation. On June 25, 2024, we updated this blog with insights on four key steps of process mining and benefits why to use process mining, we provided clarified explanations of how process mining works with process intelligence and how to optimize business processes, and answered three frequently asked questions all around process mining, RPA, and AI._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Frequently asked questions
 
 ##### What’s an example of a digital twin?

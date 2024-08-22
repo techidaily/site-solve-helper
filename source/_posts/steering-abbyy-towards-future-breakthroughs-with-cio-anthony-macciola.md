@@ -1,7 +1,7 @@
 ---
 title: Steering ABBYY Towards Future Breakthroughs with CIO Anthony Macciola
-date: 2024-08-19 19:37:56
-updated: 2024-08-22 10:52:23
+date: 2024-08-21T15:02:33.872Z
+updated: 2024-08-22T15:02:33.872Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ee509985fa8ab0e5a1522d3ddaaa35b579b8ee6b6edaefb4d7205a810da0e219.jpg
@@ -83,3 +83,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

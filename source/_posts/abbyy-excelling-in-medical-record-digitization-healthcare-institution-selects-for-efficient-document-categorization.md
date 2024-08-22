@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization"
-date: 2024-08-19 12:12:25
-updated: 2024-08-22 10:45:16
+date: 2024-08-21T15:02:31.735Z
+updated: 2024-08-22T15:02:31.735Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38aadd635d4ed1887b04b3b67e.jpg
@@ -72,3 +72,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "OCR (Optical Character Recognition) Vs. IDP (Image-Based Document Processing): Understanding the Key Differences"
-date: 2024-08-20 13:53:14
-updated: 2024-08-22 11:41:43
+date: 2024-08-21T15:02:33.664Z
+updated: 2024-08-22T15:02:33.664Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be51903da30b25fcaaa8ed089bda.jpg
@@ -62,6 +62,9 @@ OCRソリューションの一般的な使用例としては、大量の紙文�
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 仕組み
 
 IDPは、光学式文字認識（OCR）をを活用して、印刷物や手書き文字をテキスト化し、コンピューターが読み取れるフォーマットに変換します。さらに、人工知能（AI）と機械学習（ML）の技術を応用して、定型、準定型、非定型データの文書を人間のように読み取り、理解・処理します。
@@ -72,6 +75,9 @@ IDPは、機械学習モデルを使用して、文書をその内容、レイ�
 
 The [IDPプラットフォーム](https://tools.techidaily.com/abbyy/products/)は、ERPやCRMなど、さまざまなビジネスシステムに簡単に統合することができます。新しいローコード／ノーコードのプラットフォームを活用すれば、シチズンデベロッパー (非エンジニア開発者) でも、大規模な IT インフラ構築や保守をクライアント側で行う必要がなく、IDP テクノロジーを数日で導入することが可能です。
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### IDPのメリット
 
 あらゆる業界において、企業は、より少ないスキルリソースで、より多くのことを、より迅速にこなさなければならないというプレッシャーに直面しています。企業は収益、利益率、定着率を向上させる鍵として、顧客と従業員の体験を改善することに注力しています。インテリジェント文書処理（IDP）は、その両面で大きなメリットをもたらし、企業のデジタルトランスフォーメーションを成功に導きます。
@@ -88,6 +94,11 @@ IDPテクノロジーは、人間がドキュメントを理解し管理する�
 * **拡張性。**業務が拡大するにつれ、処理すべき文書の量も増加します。IDPソリューションは、容易に拡張ができ、より大量の文書を処理できるため、拡大の規模に応じて人件費を増加させる必要もありません。
 * **会社のワークフローに簡単に統合。**IDPは他のデジタルシステムやワークフローとの統合が可能で、社内各部署や組織全体のビジネスプロセスをシームレスかつ効率的にデジタル化できます。
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## OCRとIDPの違いとは？
 
 光学式文字認識（OCR）は古くから存在する技術で、文書キャプチャに関連する技術として知られています。OCR は主に、紙の書類、スキャンされた画像や写真からテキストを抽出して、コンピュータで編集可能なデジタルテキストに変換するために用いられます。
@@ -121,6 +132,9 @@ IDPテクノロジーは、人間がドキュメントを理解し管理する�
 
 インテリジェント文書処理で、デジタル化がうまくいかない原因となるボトルネックを解消することができます。[企業はIDP技術を利用して身元証明や](https://tools.techidaily.com/abbyy/products/)身元確認を行うことができ、顧客にとってはより簡単に、企業にとってはより安全になります。IDPは、運転免許証やパスポートのようなID文書、あるいは銀行取引明細書や公共料金請求書のような住所証明に必要な文書を取り込み、分類することができます。例えば、自動車局（DMV）が運転免許証の更新に使ったり、銀行が住宅ローンの申請に使ったりすることができます。
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## OCR vs IDP： 貴社のビジネスに最適な導入手段とは？
 
 **OCRは時にIDPプラットフォームと誤解されることがありますが、実際にはIDPの方がはるかに幅広い機能を備えています。**OCRは主に、画像や文書から全文を抽出し、コンピューター画面上で転送・編集できるようにすることに重点を置いています。さまざまなフォントスタイル、画像、手書きメモを認識し、編集・検索可能なデジタルテキストに変換します。デジタル・アーカイブ・ソリューションや、優れたテキスト認識、PDF変換、データキャプチャ機能を必要とする支援技術の開発を目指す企業には、OCRソリューションが最適です。[ABBYYのOCRソフトウェア開発キット](https://tools.techidaily.com/abbyy/products/)（SDK）を使用して、優れた文書キャプチャ機能を得ることができます。
@@ -169,6 +183,9 @@ OCR（光学式文字認識）とIDP（インテリジェント文書処理）�
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Slavena Hristova
 
 ABBYY Vantageグループ、 製品マーケティングディレクター
@@ -177,6 +194,9 @@ ABBYY Vantageグループ、 製品マーケティングディレクター
 
 [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/)でスラベナと繋がりませんか。
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### いいね、シェア、再投稿
 
 Share 

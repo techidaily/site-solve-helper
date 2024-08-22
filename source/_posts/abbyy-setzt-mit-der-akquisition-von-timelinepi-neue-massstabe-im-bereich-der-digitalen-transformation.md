@@ -1,7 +1,7 @@
 ---
 title: ABBYY Setzt Mit Der Akquisition Von TimelinePI Neue Maßstäbe Im Bereich Der Digitalen Transformation
-date: 2024-08-20 15:33:25
-updated: 2024-08-22 10:14:52
+date: 2024-08-21T15:02:33.498Z
+updated: 2024-08-22T15:02:33.498Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a39490ac9b4d8ff28e70d8e5.jfif
@@ -80,3 +80,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->

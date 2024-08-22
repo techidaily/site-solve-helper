@@ -1,7 +1,7 @@
 ---
 title: Understanding ABBYY's Approach to Data Privacy & User Consent
-date: 2024-08-21 16:37:41
-updated: 2024-08-22 10:16:38
+date: 2024-08-21T15:02:33.433Z
+updated: 2024-08-22T15:02:33.433Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/614e0e5c423fbfce776b4242bea85cadda084bd0ef851e6cf9024dcc8525ee26.jpg
@@ -144,3 +144,7 @@ Retargeting ermöglicht es uns, Internetnutzer anzusprechen, die sich für unser
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->

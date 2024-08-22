@@ -1,7 +1,7 @@
 ---
 title: "Essential Expertise: Mastering Core Skills for Transportation & Logistics Professionals in the Dynamic ABBYY Ecosystem"
-date: 2024-08-20 22:11:38
-updated: 2024-08-22 12:34:43
+date: 2024-08-21T15:02:32.811Z
+updated: 2024-08-22T15:02:32.811Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23c97d33e5069a1776373f52c.jpg
@@ -39,3 +39,7 @@ Select an ABBYY Document Skill and get started today Air Waybill Extract and ver
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

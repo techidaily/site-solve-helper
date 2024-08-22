@@ -1,7 +1,7 @@
 ---
 title: ABBYY Erzielt Im Dritten Jahr In Folge Ein Zwei-Stelliges Jahresumsatzwachstum
-date: 2024-08-20 10:11:18
-updated: 2024-08-22 12:30:54
+date: 2024-08-21T15:02:33.481Z
+updated: 2024-08-22T15:02:33.481Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d50fa969981b4673868840ed3.JPG
@@ -68,3 +68,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->

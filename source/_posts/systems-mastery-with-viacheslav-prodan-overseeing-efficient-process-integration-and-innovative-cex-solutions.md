@@ -1,7 +1,7 @@
 ---
 title: Systems Mastery with Viacheslav Prodan - Overseeing Efficient Process Integration & Innovative CEx Solutions
-date: 2024-08-21 22:49:19
-updated: 2024-08-22 11:20:46
+date: 2024-08-21T15:02:33.775Z
+updated: 2024-08-22T15:02:33.775Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a691177fb2bbb8430f5442ba8e06.jpg
@@ -33,6 +33,9 @@ My career at ABBYY began five years ago in 2018, when I became Team Leader of th
 
 My main role now is in the automation and optimization of processes and systems in our company. This requires meetings with people from different teams and departments. Also, I always need to have a complete picture of how everything works in the company so that changes do not affect the processes of other teams.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### What does a typical day look like for you at ABBYY?
 
 Every day I wake up with thoughts of ‘what else can be done better’ and fall asleep with thoughts of what I managed to achieve.
@@ -41,6 +44,12 @@ With a free schedule, my morning starts with deciding where I will work today—
 
 ![ABBYY Customer Excellence team](https://static1.abbyy.com/abbyycommedia/36641/abbyy-team.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What keeps you going, and what do you enjoy the most in your role, any highlights?
 
 I can honestly say that I love what I do and have confidence in my own abilities to do a great job. It’s very fulfilling to see the results of our work and helping to improve the lives of employees around the world. I am also grateful for the support of my colleagues and manager. I’m certainly living by the phrase: “Do what you love, and you’ll never work another day in your life.”
@@ -49,6 +58,9 @@ I can honestly say that I love what I do and have confidence in my own abilities
 
 I was head of technical support at the largest private logistics company in Ukraine—working my way up from being a systems administrator. It was there that I discovered my love for automation and optimization. I saw the first results of automating repetitive manual tasks and was awestruck at how much time and effort it could save employees.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY in your function?
 
 Sometimes you need to take a step back and look at what you're doing to determine if everything is right. Self-analysis, the desire to do something for people, and not be afraid to voice the most daring proposals are key attributes. And most importantly, enjoy what you do and how you do it. This is what I expect from an employee on my team.
@@ -67,6 +79,9 @@ I would like people to have the opportunity to do what they want and what they e
 
 ![Slava Prodan ABBYY](https://static1.abbyy.com/abbyycommedia/36640/slava-prodan-abbyy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 People who don’t learn from their mistakes. This is important so that you can take those lessons forward to improve.
@@ -75,6 +90,9 @@ People who don’t learn from their mistakes. This is important so that you can 
 
 The “Intouchables” movie—it's an incredible story.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)

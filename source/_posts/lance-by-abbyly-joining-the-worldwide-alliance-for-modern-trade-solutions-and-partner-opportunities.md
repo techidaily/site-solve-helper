@@ -1,7 +1,7 @@
 ---
 title: Lance by Abbyly - Joining the Worldwide Alliance for Modern Trade Solutions and Partner Opportunities
-date: 2024-08-21 21:17:56
-updated: 2024-08-22 12:36:10
+date: 2024-08-21T15:02:33.237Z
+updated: 2024-08-22T15:02:33.237Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393d17dd26d0130a00b3701a6a.JPG
@@ -35,10 +35,19 @@ _« Nous sommes ravis du partenariat que nous entretenons avec ABBYY depuis plus
 
 ABBYY permet aux entreprises d’appréhender de manière précise leurs processus et contenus via ses solutions d’[Intelligent Process Automation](https://tools.techidaily.com/abbyy/products/). Les technologies d’ABBYY équipent plus de 5 000 entreprises, dont un grand nombre figurent dans le classement Fortune 500\. L’entreprise est reconnue pour ses solutions de pointe dans les domaines de l'[Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) et du [Process Intelligence](https://tools.techidaily.com/abbyy/products/) qui ont pour vocation d’améliorer l’efficacité, la rentabilité et la compétitivité des entreprises ainsi que l’expérience client. ABBYY possède des bureaux dans 14 pays. Pour davantage d’informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Contact presse
 
 ![02-NoPhoto-99x99](https://static1.abbyy.com/abbyycommedia/25632/02-nophoto-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_

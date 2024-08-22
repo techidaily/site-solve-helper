@@ -1,7 +1,7 @@
 ---
 title: ABBYY-Umfragen Entdecken Frühwarnzeichen Von Burnout Bei Jungen Führungskräften Durch Schlechte Prozesse Und Veraltete Technologien Im Vergleich Zu Erfahrenen Kollegen
-date: 2024-08-20 15:16:27
-updated: 2024-08-22 12:28:21
+date: 2024-08-21T15:02:32.945Z
+updated: 2024-08-22T15:02:32.945Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c8438011d2d41a4363ede19ca9.jpg
@@ -84,3 +84,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

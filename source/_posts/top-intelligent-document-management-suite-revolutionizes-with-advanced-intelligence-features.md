@@ -1,7 +1,7 @@
 ---
 title: Top Intelligent Document Management Suite Revolutionizes with Advanced Intelligence Features
-date: 2024-08-19 18:57:34
-updated: 2024-08-22 10:32:19
+date: 2024-08-21T15:02:32.143Z
+updated: 2024-08-22T15:02:32.143Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acafd7a9691ad956f89a6aa172b.jpg
@@ -54,6 +54,9 @@ The latest set of new document skills include:
 
 All these skills are available to try out simply by downloading them from the [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Vantage release 2.3 highlights
 
 **Latest release delivers on performance, accuracy, and speed**
@@ -62,6 +65,10 @@ In the latest [Vantage release](https://tools.techidaily.com/abbyy/products/), w
 
 Together, these enhancements make it easier to deploy IDP solutions taking a no-code / low-code approach. Take, for example, processing data from invoices. This not only starts with identifying the vendor invoice and extracting data but often requires detecting the start and end of many invoices in one PDF file. Available in the Vantage release is a new document splitting skill, where Vantage will auto-detect the start and end of a multi-page document like an invoice, eliminating any manual work that would otherwise be required.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Turn your documents into actionable data
 
 There's a skill for that.
@@ -72,6 +79,9 @@ The ability to extract table data can be challenging with documents like invoice
 
 It is also worth highlighting the latest ABBYY announcement on [ABBYY Proof of Identity](https://tools.techidaily.com/abbyy/products/), delivering instant identity proofing and affirmation as part of customer onboarding, new account opening, claims, and enrollment processes. It is the point where the customer provides proof of their identity via ID cards, photos, and supporting documents, so the business can determine that they are who they say they are.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Get started today!
 
 We’re very excited about the latest [Vantage](https://tools.techidaily.com/abbyy/products/) 2.3 release as we continue to advance the core AI document understanding technology, build pre-trained skills (models), and align with businesses to simplify document automation. You can learn more about all this exciting release by registering for the upcoming [Vantage 2.3 webinar](https://tools.techidaily.com/abbyy/products/) and try out the new capabilities in your Vantage tenant or [request a demo](https://tools.techidaily.com/abbyy/products/).
@@ -80,8 +90,14 @@ We’re very excited about the latest [Vantage](https://tools.techidaily.com/abb
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Galusha
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

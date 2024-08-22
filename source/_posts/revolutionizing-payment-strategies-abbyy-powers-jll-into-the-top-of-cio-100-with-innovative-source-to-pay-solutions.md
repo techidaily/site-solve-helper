@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Payment Strategies - ABBYY Powers JLL Into the Top of CIO 100 with Innovative Source-to-Pay Solutions
-date: 2024-08-21 18:24:50
-updated: 2024-08-22 10:27:35
+date: 2024-08-21T15:02:33.420Z
+updated: 2024-08-22T15:02:33.420Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b07791104399fd4c0b5ca08b831fc4c.jpg
@@ -37,6 +37,9 @@ It was an enormous project that achieved high automation goals and improved thei
 
 _Bruce Orcutt, SVP of Product Marketing at ABBYY_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Let Intelligent Process Automation Work for You
 
 ABBYY’s [intelligent process automation platform](https://tools.techidaily.com/abbyy/products/) includes industry-leading intelligent document processing (IDP) and process mining and task mining solutions. These include [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), the industry’s first low-code/no-code platform that applies AI to understand your documents in a fast and simple way. Vantage makes today’s digital worker and processes smarter by delivering skills that read, understand, and extract insights from documents, helping enterprises accelerate digital transformation.
@@ -49,6 +52,9 @@ ABBYY’s [intelligent process automation platform](https://tools.techidaily.com
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

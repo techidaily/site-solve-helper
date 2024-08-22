@@ -1,7 +1,7 @@
 ---
 title: "Erschließung Der Patentdokumente: Wie Das DPMA Die ABBYY FineReader Engine Nutzt"
-date: 2024-08-21 20:44:38
-updated: 2024-08-22 10:36:43
+date: 2024-08-21T15:02:33.036Z
+updated: 2024-08-22T15:02:33.036Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eaca41f020a72559cf27e30f77.jpg
@@ -96,6 +96,9 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

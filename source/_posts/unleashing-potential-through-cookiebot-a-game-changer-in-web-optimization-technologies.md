@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Potential Through Cookiebot: A Game-Changer in Web Optimization Technologies"
-date: 2024-08-20 20:26:39
-updated: 2024-08-22 10:44:18
+date: 2024-08-21T15:02:32.332Z
+updated: 2024-08-22T15:02:32.332Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6447b480a9b0d3148ed090af.jpeg
@@ -29,6 +29,9 @@ In this blog post, we want to provide insight into a few of the technology integ
 
 One of the first connector integrations we love is incorporating the ABBYY Vantage experience with a virtual assistant to take the customer journey to the next level. By combining voice, conversational AI, and document intelligence by way of Vantage Document Skills into a unified mobile experience, virtual assistants are able to deliver great service to a customer without needing an agent. Take a look at the [Cognigy](https://www.cognigy.com/) video explaining it below!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automation of screens and IT operations
 
 [Micro Focus](https://www.microfocus.com/en-us/products/robotic-process-automation/overview) RPA is a powerful automation and orchestration platform that combines screen automation and IT operation steps to automate entire enterprise processes. Orchestrating different IT systems, APIs, and desktop applications is exactly what Micro Focus excels in. With their low-code/no-code design studio, you can create bots to automate tasks with ease. And now, with the additional asset of Vantage Skills, available from within the ABBYY Marketplace, they have just reached a new level of cognitive awareness. Take a look at the video below to see the powerful combination in action!
@@ -39,10 +42,22 @@ RPA bots are great for automating simple, repetitive tasks, but imagine if robot
 
 ![Kyron ABBYY skills for rpa](https://static1.abbyy.com/abbyycommedia/32872/abbyy-kryon-customer-story.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Leveraging the power of SAP Business Technology Platform
 
 If you are looking to enhance and upgrade your SAP cloud environment, Incutre's [Cherrywork platform](https://incture.com/cherrywork-intelligent-digital-applications/) provides enterprises with pre-packaged and ready-to-deploy intelligent digital applications, and also seamlessly integrates with ABBYY Vantage. With a click of a button, you can enable your SAP cloud with the ability to understand documents and structure data that can be integrated into your SAP processes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Tapping into the power of the Microsoft Power platform
 
 Power Automate has made big strides in bringing automation to every business user, providing Microsoft partners with an opportunity to connect other technologies and services into the automation platform. One ABBYY partner who has done just that is [Roborana](https://roborana.be/), who has developed a Vantage Connector to the Power Automate platform for building an end-to-end solution. Take a look below to see how this great Power App came together and how easy and seamless it is to connect Vantage to the Power Automate platform.
@@ -53,6 +68,9 @@ The [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) offers an 
 
 ![preview ABBYY Marketplace](https://static1.abbyy.com/abbyycommedia/32870/marketplace.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 Do you have a great idea for a new Cognitive skill? Want to build a connector for your platform? Reach out to us and we’ll gladly help you get started!
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -65,6 +83,9 @@ Bill Galusha
 
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -77,6 +98,9 @@ Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 Stefan Schmainta
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Optimize Your Site with Advanced Tracking"
-date: 2024-08-21 21:31:39
-updated: 2024-08-22 11:18:22
+date: 2024-08-21T15:02:33.828Z
+updated: 2024-08-22T15:02:33.828Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c3cb24735a325c59b374deb74baa7c6af50100c3f603092c99cb6f1def444289.jpg
@@ -39,12 +39,18 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Über den Geschäftsbereich Alaris von Kodak Alaris
 
 Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, die Unternehmensprozesse vereinfachen. Wir unterstützen Unternehmen, Informationen sinnvoll mit intelligenten, vernetzten Lösungen zu nutzen, basierend auf innovativer Bildwissenschaft, die seit Jahrzehnten unsere Kernkompetenz darstellt. Unsere [ausgezeichneten](https://www.alarisworld.com/de-de/about-us/industry-recognition?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=brand) Scanner, Software und Services sind weltweit über unsere Channelpartner verfügbar. Für weitere Informationen besuchen Sie bitte [AlarisWorld.com](http://www.alarisworld.com/) und folgen uns unter [@AlarisDACH](https://twitter.com/AlarisDACH).
 
 ©2022 Kodak Alaris Inc. TM/MC/MR: Alaris. Alle Marken und Markennamen sind Eigentum ihrer jeweiligen Inhaber. Die Marke Kodak und das Logo von Kodak werden unter Lizenz von der Eastman Kodak Company verwendet.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unternehmenskontakt:
 
 Kodak Alaris Germany GmbH
@@ -61,6 +67,9 @@ E-Mail: [scannerfamilie@kodakalaris.com](https://tools.techidaily.com/abbyy/prod
 
 Internet: <http://www.AlarisWorld.com>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Pressekontakt:
 
 public touch –

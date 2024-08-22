@@ -1,7 +1,7 @@
 ---
 title: "From Cartography to Smart Data: The Surprising Link Between Map Books and Advancing Process Intelligence | Exploring with ABBYY"
-date: 2024-08-20 21:42:26
-updated: 2024-08-22 11:31:49
+date: 2024-08-21T15:02:31.876Z
+updated: 2024-08-22T15:02:31.876Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
@@ -111,3 +111,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->

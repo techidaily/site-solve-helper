@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Efficiency: A Deep Dive Into Process Intelligence Vs. Conventional Business Intelligence Strategies"
-date: 2024-08-20 21:19:23
-updated: 2024-08-22 12:34:22
+date: 2024-08-21T15:02:33.795Z
+updated: 2024-08-22T15:02:33.795Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e01d0d5b5d3b87f43d01c2dd.jpg
@@ -47,6 +47,9 @@ Lorsque l’on se penche sur les processus de trésorerie avec les lunettes de l
 
 Par exemple, la Process Intelligence peut révéler qu’une étape spécifique du processus, comme la vérification d’une commande, prend trop de temps et entraîne ainsi des retards qui ont des répercussions sur l’ensemble du processus. Ou bien, la PI peut révéler des cas où des étapes capitales telles que la vérification des crédits sont oubliées, ce qui se traduit par un risque financier accru pour l’entreprise. La Process intelligence offre une perspective globale et peut fournir des informations essentielles sur la dynamique des processus et les possibilités d’optimisation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Qu’est-ce que la business intelligence (BI) ?
 
 **La Business intelligence, pour sa part, est un processus technologique qui couvre l’analyse et la présentation des informations de l’entreprise.**  Son premier objectif est d’aider les entreprises à prendre des décisions éclairées en leur fournissant des renseignements sur leurs opérations, le comportement de leurs clients, les tendances du marché et le paysage concurrentiel.
@@ -64,14 +67,24 @@ Par exemple, pouvez-vous déterminer, dans les cas où certains vendeurs ont re�
 
 ## Différences-clés entre la process intelligence et la business intelligence
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Focus
 
 La **Process intelligence** se focalise sur l’analyse et l’optimisation des processus métier, en se penchant sur l’intégralité du cycle de vie du processus. La **Business intelligence** se concentre sur l’analyse en profondeur des étapes individuelles d’un processus.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Sources de données
 
 La **Process intelligence** utilise les journaux des événements, les tableaux d’audit, les interactions des utilisateurs et les activités de l’ordinateur comme premières sources de données. La **Business intelligence** utilise les données tirées de différentes sources en lien avec une étape/une partie spécifique d’un processus métier, afin d’analyser et de visualiser les schémas, les tendances et les anomalies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Résultats
 
 La **Process intelligence** fournit des renseignements qui aident les entreprises à optimiser leurs processus métier, en leur offrant une meilleure compréhension du contexte global des étapes spécifiques et des variations entre les différents processus. La **Business intelligence** fournit des renseignements qui aident les entreprises à prendre des décisions éclairées, basées sur les données.
@@ -86,6 +99,12 @@ La Process intelligence et la Business intelligence ont des similitudes : les de
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/process-intelligence-vs-business-intelligence/process-intelligence-and-business-intelligence-differences-and-similarities-fr.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Process intelligence et business intelligence : laquelle est la meilleure ?
 
 Bien que business intelligence (BI) et process intelligence (PI) puissent paraître identiques de prime abord, elles servent des objectifs différents dans l’étude et l’analyse des opérations des entreprises. La BI fournit des informations sur les étapes individuelles d’un processus, une par une, permettant une analyse détaillée et contextualisée des incidents conventionnels, tandis que la PI apporte une compréhension globale des processus métier, ainsi que des informations sur les améliorations qui auront le plus d’impact.

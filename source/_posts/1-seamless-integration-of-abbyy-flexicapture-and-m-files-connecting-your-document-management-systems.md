@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Integration of ABBYY FlexiCapture and M-Files: Connecting Your Document Management Systems"
-date: 2024-08-20 20:27:13
-updated: 2024-08-22 11:56:51
+date: 2024-08-21T15:02:31.951Z
+updated: 2024-08-22T15:02:31.951Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b4af374350d9a6e5be665eb8.jpg
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 New integrations bolster AI-powered intelligent information management solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Connector Integrates ABBYY FlexiCapture for Invoices with M-Files
 
 The combination of ABBYY FlexiCapture for Invoices and M-Files delivers a compelling solution that automates the entire end-to-end invoice process from arrival to approval and payment.

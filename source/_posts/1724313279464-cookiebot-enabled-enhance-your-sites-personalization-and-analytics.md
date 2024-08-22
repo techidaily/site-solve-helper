@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Site's Personalization & Analytics"
-date: 2024-08-21 15:38:33
-updated: 2024-08-22 10:38:53
+date: 2024-08-21T15:02:33.311Z
+updated: 2024-08-22T15:02:33.311Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b565f942655d5f5347ebbc9b.jpg
@@ -49,6 +49,9 @@ This blog is an abridged version of an article (The Impact of RPA on GDPR) that 
 
 Anthony Macciola
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

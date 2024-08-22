@@ -1,7 +1,7 @@
 ---
 title: "Transforming Traditional Banking: Leveraging RPA and NLP for Modern Financial Challenges"
-date: 2024-08-19 20:42:46
-updated: 2024-08-22 12:52:32
+date: 2024-08-21T15:02:33.784Z
+updated: 2024-08-22T15:02:33.784Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f1007e9c52f968a63abc439ec92.jpg
@@ -25,6 +25,12 @@ Process Intelligence Lead, **ABBYY**
 
 ![21 Mikesimon 198X198](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Michael Simon
 
 Independent Consultant and Attorney
@@ -33,6 +39,9 @@ Independent Consultant and Attorney
 
 ![RPA and NLP: New technology (and new acronyms!) solving old problems](https://static1.abbyy.com/abbyycommedia/32783/41-rpa-and-nlp-en-360x232.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 The COVID-19 pandemic slowed many businesses. Unfortunately, fraud has not declined. Cybercriminals adapt quickly. They are among the first to adopt new technology. Your institution’s defense strategy needs to move just as fast to stay ahead of them. In this session, we explored how new technologies can help fight financial crimes and protect your enterprise. 
 
 ### Watch it now!
@@ -43,13 +52,22 @@ Included in this recording:
 * How to create automated workflows in KYC/AML to mitigate new risks imposed by remote business
 * How to respond to change with banker-focused solutions to lead your institution through times of vulnerability
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fill in the form to register for the webinar now
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Thank you for registering!
 
 [![02 RPA And NLP 643X363](https://static4.abbyy.com/abbyycommedia/32782/02-rpa-and-nlp-643x363.jpg)](https://www.youtube.com/watch?v=fyPyOyTqRAg) 
@@ -60,6 +78,9 @@ Please check your inbox, we have sent you a confirmation email.
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### You might also be interested in these assets
 
 [![Cards Financialservices 360X232](https://static2.abbyy.com/abbyycommedia/34945/cards-financialservices-360x232.jpg) Shared Services & Outsourcing Woche 2021 ![ABBYY Logo Forcards](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) ![Fraunhofer Logo Forcards 118X33 (1)](https://static2.abbyy.com/abbyycommedia/35533/fraunhofer-logo-forcards-118x33.png) German Watch webinar](https://www.abbyy.com/webinars/on-demand/handelsblatt-podcast-so-klingt-wirtschaft/) 

@@ -1,7 +1,7 @@
 ---
 title: Discover How ABBYY Shaped Future Financial Tactics at the 2017 StrategieTage Conference
-date: 2024-08-20 14:40:50
-updated: 2024-08-22 10:24:18
+date: 2024-08-21T15:02:33.981Z
+updated: 2024-08-22T15:02:33.981Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f436c06a6dbfb919bff2eedd.jpg
@@ -68,3 +68,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->

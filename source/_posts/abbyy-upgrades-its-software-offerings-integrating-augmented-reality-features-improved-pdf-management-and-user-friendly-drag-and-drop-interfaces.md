@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Upgrades Its Software Offerings: Integrating Augmented Reality Features, Improved PDF Management, and User-Friendly Drag-and-Drop Interfaces"
-date: 2024-08-21 12:57:33
-updated: 2024-08-22 11:51:40
+date: 2024-08-21T15:02:33.901Z
+updated: 2024-08-22T15:02:33.901Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade887d9ca113bdc2705c649d5d.png
@@ -77,3 +77,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->

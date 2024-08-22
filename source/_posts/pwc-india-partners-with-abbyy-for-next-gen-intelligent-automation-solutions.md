@@ -1,7 +1,7 @@
 ---
 title: PwC India Partners with ABBYY for Next-Gen Intelligent Automation Solutions
-date: 2024-08-21 10:42:27
-updated: 2024-08-22 10:28:45
+date: 2024-08-21T15:02:33.411Z
+updated: 2024-08-22T15:02:33.411Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec232353dd58129a9184ba8b76a.jpg
@@ -60,3 +60,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->

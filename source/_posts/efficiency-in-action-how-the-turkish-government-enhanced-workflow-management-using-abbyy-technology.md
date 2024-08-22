@@ -1,7 +1,7 @@
 ---
 title: "Efficiency in Action: How the Turkish Government Enhanced Workflow Management Using ABBYY Technology"
-date: 2024-08-19 12:10:37
-updated: 2024-08-22 12:23:14
+date: 2024-08-21T15:02:33.835Z
+updated: 2024-08-22T15:02:33.835Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c502adbe4dde73c3482b6b83.jpg
@@ -92,6 +92,9 @@ Increased effectiveness of document processes and significantly reduced the tota
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

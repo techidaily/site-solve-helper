@@ -1,7 +1,7 @@
 ---
 title: Empowering Online Advertising with Cookiebot Technology Solutions
-date: 2024-08-19 11:13:41
-updated: 2024-08-22 11:58:37
+date: 2024-08-21T15:02:32.626Z
+updated: 2024-08-22T15:02:32.626Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499747b0b476c4253bd9b978c9.jpg
@@ -47,6 +47,9 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 

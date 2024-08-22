@@ -1,7 +1,7 @@
 ---
 title: Comprendre L'Impact Des Politiques De Cookies D'ABBYY
-date: 2024-08-20 10:57:38
-updated: 2024-08-22 11:48:14
+date: 2024-08-21T15:02:31.984Z
+updated: 2024-08-22T15:02:31.984Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd56c746767b53b83551e6f78.jpg
@@ -144,3 +144,7 @@ Le reciblage nous permet de cibler les internautes qui s'intéressent à nos pro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

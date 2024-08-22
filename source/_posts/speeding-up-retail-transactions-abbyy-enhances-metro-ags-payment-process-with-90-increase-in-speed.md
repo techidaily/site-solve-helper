@@ -1,7 +1,7 @@
 ---
 title: Speeding Up Retail Transactions - ABBYY Enhances METRO AG's Payment Process with 90%% Increase in Speed
-date: 2024-08-21 20:20:39
-updated: 2024-08-22 12:27:29
+date: 2024-08-21T15:02:32.319Z
+updated: 2024-08-22T15:02:32.319Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41c01b4f05dc48044320b63e0.jpg
@@ -33,6 +33,9 @@ _Stefan Rödder, Product Owner at METRO Digital_
 
 "We are pleased to have been able to accompany METRO on its journey to a digital future for several years now," said Neil Murphy, Senior Vice President EMEA Sales at ABBYY. "As a pioneer in wholesale, METRO Digital has revolutionized an entire industry, and we are proud to be a technology partner that can exceed our customer's quality demands and expectations with our intelligent process automation solutions."
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -43,16 +46,27 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### ABBYY Editorial Contact
 
 ![Bianca 110X110](https://static2.abbyy.com/abbyycommedia/36222/bianca-110x110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_
 
 [bianca.stupp@abbyy.com](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### About METRO Digital
 
 METRO Digital is the tech product-led company of METRO, the leading international specialist for wholesale and food trade. With longstanding experience in global wholesale, METRO.digital develops customized IT services and products worldwide for all METRO countries. Located in Germany, Romania and Vietnam, the METRO.digital employees are working continuously on one goal: digitalizing the wholesale industry.

@@ -1,7 +1,7 @@
 ---
 title: "Nina Walker: Leading the Charge as ABBYY's Chief Customer Experience Officer"
-date: 2024-08-19 16:15:37
-updated: 2024-08-22 10:24:11
+date: 2024-08-21T15:02:34.052Z
+updated: 2024-08-22T15:02:34.052Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c92486865748e3041e969fe09697c07c0.jpg
@@ -37,6 +37,10 @@ I joined ABBYY in 2016\. Initially I started in marketing, then moved into an op
 
 Last year I was given the exciting opportunity to become Head of Customer Experience at ABBYY. It is a brand-new role and a super interesting position that enables me to grow professionally. There is a lot of cross-departmental collaboration, analysis, and strategic input required. Some of my niche responsibilities include Voice of the Customer such as knowing our customers, their expectations, and how we meet them, as well as understanding how we can improve and operationalize the whole customer journey.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### What does a typical day look like for you at ABBYY?
 
 A typical day for me starts with an early morning coffee and checking emails and messages that have come in overnight. Next, I get my kids sorted, and off to school then it’s back to my desk. About once a month, I travel to the Munich office, but most of the time I work from home. Typically, I’ll have a mixture of meetings with colleagues, discussing and brainstorming new and existing initiatives, as well as having some set focus time, getting into the weeds, and moving existing projects along.
@@ -49,26 +53,41 @@ Secondly, I have a brilliant set of colleagues around me. From a very transparen
 
 ![Life At ABBYY - Nina Walker and Colleagues](https://static1.abbyy.com/abbyycommedia/36837/nina-walker-v2-c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What was your previous experience before ABBYY?
 
 Before joining ABBYY I was a Sales, Marketing and Event Manager living in Oxfordshire in the UK. It has been a journey that I wouldn’t want to miss. Every job I’ve held has taught me something that I was able to apply to the next position.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY in your function?
 
 Giving one piece of advice is a bit tricky, but in principle I believe ‘Nothing is more expensive than a missed opportunity’. It has been guiding me well and, in my opinion, comes with the attitude of being proactive, hands on, trying and sometimes failing, being open to explore something outside your comfort zone and willing to learn. Also, there is a lot of great knowledge among our colleagues that you can learn from and contribute to, which is a powerful asset for growing professionally.
 
 [Nine Customer Success Operations Questions Answered by Experts featuring Nina Walker, ABBYY | ChurnZero Blog](https://churnzero.com/blog/customer-success-operations-experts-answer-questions/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do you spend your free time?
 
 I really enjoy being outdoors with my kids, socializing and visiting new places.
 
 ![Life at ABBYY - Nina Walker](https://static1.abbyy.com/abbyycommedia/36832/nina-walker-ski-family.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If you could have one wish come true, what would it be?
 
 That we, as human beings, stopped comparing each other, but instead started tolerating and accepting one another for who we really are. I believe it would lead to a much more colorful and peaceful life.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 I find it hard when people complain a lot. There might always be things that do not go to plan, but in my opinion, it is all about perspective. Most of the time there is something positive you can find in any situation.
@@ -87,6 +106,9 @@ Some advice I would like to give to female colleagues who might experience chall
 
 ![Women at ABBYY - Oktoberfest](https://static1.abbyy.com/abbyycommedia/36835/nina-walker-v2-a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
@@ -105,6 +127,9 @@ Share
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates

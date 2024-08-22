@@ -1,7 +1,7 @@
 ---
 title: Leveraging Cookiebot for Enhanced User Experience and Compliance
-date: 2024-08-19 21:36:13
-updated: 2024-08-22 10:50:49
+date: 2024-08-21T15:02:33.627Z
+updated: 2024-08-22T15:02:33.627Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744ac8a56e3cf77b13e5726b02.png
@@ -100,6 +100,9 @@ The solution let’s Scena:
 
 [Read the document](https://static5.abbyy.com/abbyycommedia/31959/12622-case-study-scena-eng.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

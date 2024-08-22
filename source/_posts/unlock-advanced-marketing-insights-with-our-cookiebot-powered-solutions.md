@@ -1,7 +1,7 @@
 ---
 title: Unlock Advanced Marketing Insights with Our Cookiebot Powered Solutions
-date: 2024-08-19 12:33:49
-updated: 2024-08-22 12:24:21
+date: 2024-08-21T15:02:31.945Z
+updated: 2024-08-22T15:02:31.945Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980aff8421c8d4c222923ee3bc.jpg
@@ -19,26 +19,41 @@ English
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/33102/83-richardrabin-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Richard Rabin
 
 Process Intelligence Lead, **ABBYY**  
 
 ![Ananth Avva 198x198](https://static2.abbyy.com/abbyycommedia/34128/ananth-avva.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ananth Avva
 
 President, **Pipefy**  
 
 ![Jennifer Faria 198x198](https://static2.abbyy.com/abbyycommedia/34129/jennifer-faria.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Jennifer Faria
 
 Digital Enablement & Automation Services Program Lead, AVP, **FM Global**  
 
 ![Webinar: Digital Transformation Strategy](https://static1.abbyy.com/abbyycommedia/34220/106-digital-transformation-strategy-en-360x232.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If the events of the past year have taught us anything, it is to be prepared for the unexpected: How can we develop a strategy for Digital Transformation that is robust and flexible? What were the main lessons learned from the shockwave that the pandemic sent?
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Watch it now!
 
 Lessons like:
@@ -56,6 +71,10 @@ Take your digital transformation strategy and your business beyond the pandemic.
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Thank you for registering!
 
 Please check your inbox, we have sent you a confirmation email.

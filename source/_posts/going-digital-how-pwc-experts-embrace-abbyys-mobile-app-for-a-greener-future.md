@@ -1,7 +1,7 @@
 ---
 title: "Going Digital: How PwC Experts Embrace ABBYY's Mobile App for a Greener Future"
-date: 2024-08-20 19:56:21
-updated: 2024-08-22 10:45:53
+date: 2024-08-21T15:02:32.082Z
+updated: 2024-08-22T15:02:32.082Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7c449e035329be0645d91538.png
@@ -106,6 +106,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

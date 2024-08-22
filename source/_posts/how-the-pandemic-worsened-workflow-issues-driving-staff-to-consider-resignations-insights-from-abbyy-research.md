@@ -1,7 +1,7 @@
 ---
 title: How the Pandemic Worsened Workflow Issues, Driving Staff to Consider Resignations - Insights From ABBYY Research
-date: 2024-08-20 21:15:49
-updated: 2024-08-22 12:47:54
+date: 2024-08-21T15:02:31.909Z
+updated: 2024-08-22T15:02:31.909Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea7e0bf45a6a316b50b831479.jpg
@@ -71,3 +71,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Claims Management with ABBYY's Digital Expertise at Ecclesia Gruppe – An SEO-Optimized Approach to Insurance Services
-date: 2024-08-19 23:20:50
-updated: 2024-08-22 10:36:15
+date: 2024-08-21T15:02:31.850Z
+updated: 2024-08-22T15:02:31.850Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a757fb94ecaebe8d1775e8b5.jpg
@@ -94,6 +94,10 @@ _→ Eine höhere Genauigkeit bei der Dokumentenverarbeitung und daraus resultie
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.

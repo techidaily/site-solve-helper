@@ -1,7 +1,7 @@
 ---
 title: 電子ビルからの飛躍：ABBYYの自動請求・e文書処理解決、「eドキュメントジャパン2016」出展
-date: 2024-08-19 18:26:52
-updated: 2024-08-22 10:39:58
+date: 2024-08-21T15:02:32.580Z
+updated: 2024-08-22T15:02:32.580Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a19222b7cb69d0ec540888707.jpg
@@ -76,3 +76,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Enhance Digital Engagement Using the Cookiebot Platform
-date: 2024-08-21 14:18:52
-updated: 2024-08-22 11:59:21
+date: 2024-08-21T15:02:32.641Z
+updated: 2024-08-22T15:02:32.641Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf05f0435bf5618af5d7b42ae3.jpg
@@ -23,12 +23,18 @@ June 03, 2022
 
 Intelligent Process Automation leverages artificial intelligence (AI) and machine learning (ML) to bring together two powerful capabilities: Process Intelligence and Intelligent Document Processing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Why is IPA important?
 
 From the dawn of the digital age, businesses have been chasing the goal of true process automation—enabling machines to take on entire processes and freeing human workers to focus on more interesting, value-added pursuits. For a time, robotic process automation (RPA) appeared to hold the answer, but it failed to live up to its potential as a standalone solution. In a recent survey on intelligent automation, [RPA proved to be the least-implemented solution](https://tools.techidaily.com/abbyy/products/) over the past year.
 
 Today, organizations seeking true process automation are finding the answer in an approach that’s both simpler and more complex: complex in its multifaceted nature, but simple for humans to implement and manage. Welcome to [Intelligent Process Automation (IPA).](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What are the capabilities of Intelligent Process Automation?
 
 #### **Process Intelligence**
@@ -49,6 +55,9 @@ While many traditional approaches to process automation focused on data flows, m
 
 ![what is IDP vs legacy tech](https://static1.abbyy.com/abbyycommedia/34935/14000_what-is-intelligent-document-processing-blog-post-scheme-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 [Intelligent Document Processing (IDP)](https://tools.techidaily.com/abbyy/products/) applies AI-based document processing “skills” to read and understand documents in a way that humans understand and manage content. As a result, the information contained in documents becomes immediately available and actionable, when and where it's needed, with little to no human intervention required. In addition to saving time and money, IDP reduces the risk of costly errors and frees employees to focus on more challenging work.
 
 [Learn more about ABBYY Vantage, the industry’s only low-code / no-code intelligent document processing platform.](https://tools.techidaily.com/abbyy/products/)
@@ -61,12 +70,24 @@ As the initial shock of the pandemic faded and the economy began to recover, bus
 
 Over the last two years, businesses have faced ample incentives to light a fire under their automation journeys, and they wasted no time taking action. According to a recent survey, [98 percent of IT decision makers have implemented new automation technologies in the last two years](https://tools.techidaily.com/abbyy/products/), spurred by the pandemic. Better preparing the company to adapt to remote and hybrid working was the top cited reason for the change, followed by alleviating employee burnout and (somewhat surprisingly) pressure from employees to implement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## What's the difference between IPA and RPA?
 
 There’s no question that [robotic process automation](https://tools.techidaily.com/abbyy/products/) paved the way for Intelligent Process Automation, and RPA remains a viable if limited solution. RPA is primarily a task-oriented approach, aiming to replicate human actions in accomplishing specific, rule-based tasks. RPA solutions cannot, however, understand content on their own, nor are they equipped to manage the complexities of end-to-end processes.
 
 ![Icon with gears, paper, and a head representing how intelligent process automation encompasses the &quot;big picture&quot; of applying AI technologies to mirror human decision-making at every stage with Intelligent Process Automation. And a description of what is IPA, text repeated below.](https://static1.abbyy.com/abbyycommedia/35771/what-is-ipa-technology-lg-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Intelligent Process Automation encompasses the “big picture” of business processes, applying AI technologies (e.g., Intelligent Document Processing, process mining, task mining, natural language processing, machine learning, advanced analytics) to mirror human decision-making at every stage. When and where relatively simple, rules-based decision-making is required, RPA can be an appropriate solution and may be used quite successfully. IPA capabilities allow you to [scale RPA projects](https://tools.techidaily.com/abbyy/products/) by expanding automation further.
 
 ## What can Intelligent Process Automation do for businesses?
@@ -95,6 +116,9 @@ While earlier approaches to automation required significant infrastructure inves
 3. Intelligently automate where it makes sense, prioritizing processes that offer the greatest potential ROI from automation
 4. Automate monitoring of results to enable continuous improvement.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The future of process automation is intelligent
 
 By blending the unique capabilities of Process Intelligence and Intelligent Document Processing, Intelligent Process Automation (IPA) is ushering in a new era for business processes optimization. Organizations seeking to bridge the gaps encountered in earlier approaches and tap into the full power of AI are uncovering new possibilities—without having to make huge infrastructure investments or hire entire teams of data scientists.

@@ -1,7 +1,7 @@
 ---
 title: Digitaliser Et Analyser Les Documents D'Approvisionnement Chez Gaches Chimie À L'aide D'ABBYY FlexiCapture
-date: 2024-08-21 20:33:45
-updated: 2024-08-22 11:17:32
+date: 2024-08-21T15:02:32.048Z
+updated: 2024-08-22T15:02:32.048Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bbabbb54d3c500910e24c2679e705faf485aa6e3dec58c98406031448135ca6a.jpg
@@ -67,6 +67,9 @@ convivialité de la recherche)
 
 #### Utilisation de la Solution
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Alimentation de la solution en documents
 
 Les 15 000 documents réception fournisseurs qui arrivent chaque année dans l’entreprise au format papier sont numérisés sur chaque site par les 2 ou 3 personnes habilitées et non informaticiens (magasiniers formés par le service informatique de Gaches Chimie), et intégrés au fil de l’eau. Leur « identité » est automatiquement déterminée par ABBYY Flexicapture: bulletin d'analyse de matières chimiques versus certificat de conformité.
@@ -75,6 +78,9 @@ Les informations qu’ils contiennent sont également reconnues automatiquement 
 
 Les documents clients sont intégrés automatiquement dans la solution depuis l’ERP ; tous les mois, 5 documents sont archivés après avoir été traités dans le logiciel « maison » : bon de livraison client, certificat de conformité Gaches Chimie, facture client, commande fournisseur et réception fournisseur : ils sont exportés au format PDF dans Documind, accompagnés de leurs méta-données et deviennent immédiatement disponibles en consultation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 2\. Stockage
 
 Les documents sont stockés dans Documind Advanced Solution : classés dans un plan de classement métier et indexés par des critères personnalisés selon le type de documents. Alors que le délai de purge est de 30 mois dans l’ERP, les documents sont conservés 10 ans dans Documind, car pendant cette période ils peuvent être demandés par la douane, la police…
@@ -87,6 +93,9 @@ Tous les profils de collaborateurs sont amenés à rechercher les documents gér
 
 Les documents peuvent être ponctuellement envoyés par mail aux clients et fournisseurs « à la demande » après une recherche dans Documind. En outre, au moment de l’édition du bon de livraison client dans l’ERP, les documents fournisseurs associés (certificat de conformité…) sont automatiquement envoyés.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Données clés
 
 * 150 utilisateurs, de tous les profils (magasiniers, comptables…)
@@ -96,6 +105,9 @@ par l’ERP au format PDF), et 15 000 documents fournisseurs par an (documents p
 numérisés et intégrés au fil de l’eau depuis chaque site après traitement par ABBYY FlexiCapture)
 * Délai de purge des documents: 30 mois dans l’ERP, 10 ans dans Documind.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Bénéfices
 
 La solution mise en place par la DSI de Gaches Chimie permet à l’entreprise :
@@ -110,6 +122,9 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### À propos d’ABBYY et contact
 
 [Vers la description d’ABBYY ›](https://tools.techidaily.com/abbyy/products/)
@@ -118,6 +133,10 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 Partager 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.

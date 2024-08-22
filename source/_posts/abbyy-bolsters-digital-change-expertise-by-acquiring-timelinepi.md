@@ -1,7 +1,7 @@
 ---
 title: ABBYY Bolsters Digital Change Expertise by Acquiring TimelinePI
-date: 2024-08-21 18:52:11
-updated: 2024-08-22 10:24:58
+date: 2024-08-21T15:02:33.473Z
+updated: 2024-08-22T15:02:33.473Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37095d266ecb3ccb4c8e95c38.jpg
@@ -74,3 +74,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Unveiling ABBYY's Breakthrough Cognitive Docu-Processing Tech at London Event
-date: 2024-08-20 20:35:34
-updated: 2024-08-22 11:24:33
+date: 2024-08-21T15:02:32.725Z
+updated: 2024-08-22T15:02:32.725Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5a5f384c827d740eb2982c66293aa6c9bc671df021cb53f6fa2aeac5cd13c6bc.jpg
@@ -57,3 +57,7 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

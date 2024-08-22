@@ -1,7 +1,7 @@
 ---
 title: "Heading Up ABBYY Europe: Christian Marquardt Spearheads Revolutionary NewChannel Platform"
-date: 2024-08-19 18:20:41
-updated: 2024-08-22 11:48:55
+date: 2024-08-21T15:02:33.231Z
+updated: 2024-08-22T15:02:33.231Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf462fe90ad515f1ed2896ad3.jpg
@@ -71,3 +71,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

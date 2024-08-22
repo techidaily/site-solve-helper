@@ -1,7 +1,7 @@
 ---
 title: Fender Boosts Workplace Productivity & Contentment by Implementing ABBYY's Smart Process Automation
-date: 2024-08-20 11:31:51
-updated: 2024-08-22 11:23:13
+date: 2024-08-21T15:02:33.219Z
+updated: 2024-08-22T15:02:33.219Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee668702387fa9476707bc049.jpg
@@ -98,6 +98,9 @@ Staff time is now redirected to activities that optimize operations and strength
 
 [Read the document](https://static3.abbyy.com/abbyycommedia/32958/fender-musical-instrument-manufacture-case-study-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.

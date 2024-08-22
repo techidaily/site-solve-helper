@@ -1,7 +1,7 @@
 ---
 title: "NeoML: ABBYY's New Free Machine Learning Library"
-date: 2024-08-21 21:16:57
-updated: 2024-08-22 12:34:54
+date: 2024-08-21T15:02:34.039Z
+updated: 2024-08-22T15:02:34.039Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961da236a4542ceaa49684d0f3.jpg
@@ -69,3 +69,7 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->

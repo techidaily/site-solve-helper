@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Phone Into a Portable Law Office – Insights From an ABBYY Specialist
-date: 2024-08-20 11:22:33
-updated: 2024-08-22 12:46:44
+date: 2024-08-21T15:02:32.057Z
+updated: 2024-08-22T15:02:32.057Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191cb1e756a607d3720738205f.png
@@ -19,6 +19,9 @@ English
 
 ![21 Mikesimon 198X198](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Mike Simon
 
 Attorney at Law
@@ -27,14 +30,23 @@ Attorney at Law
 
 ![20 Andrewpery 198X198](https://static4.abbyy.com/abbyycommedia/25498/20-andrewpery-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Andrew Pery
 
 Digital Intelligence Consultant, **ABBYY**
 
 ![19 Annakoltsova 198X198](https://static4.abbyy.com/abbyycommedia/25121/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![19 Annakoltsova 198X198](https://static4.abbyy.com/abbyycommedia/25496/19-annakoltsova-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Anna Koltsova
 
 Director, Product Marketing, Mobile and FineReader, **ABBYY**
@@ -43,6 +55,9 @@ Director, Product Marketing, Mobile and FineReader, **ABBYY**
 
 In this 30-minute webinar, see how you can use ABBYY FineScanner to go from paper documents to virtual using your mobile device to manage your transactional work regardless of where you are.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Learn how your mobile device may be transformed into your virtual office:
 
 * Scan any document to create perfect, searchable PDFs;
@@ -55,6 +70,9 @@ In this 30-minute webinar, see how you can use ABBYY FineScanner to go from pape
 * Add digital signatures; and
 * Share and collaborate around your scanned documents with your clients and your colleagues on the go: email, print, or save to your matter management applications.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Watch now
 
 ### Get in touch with us
@@ -68,6 +86,9 @@ All personal information collected via this method is under full scope of all pr
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:

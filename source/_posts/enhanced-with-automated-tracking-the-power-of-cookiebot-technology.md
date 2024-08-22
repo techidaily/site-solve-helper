@@ -1,7 +1,7 @@
 ---
 title: "Enhanced with Automated Tracking: The Power of Cookiebot Technology"
-date: 2024-08-19 19:54:36
-updated: 2024-08-22 10:14:28
+date: 2024-08-21T15:02:32.261Z
+updated: 2024-08-22T15:02:32.261Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
@@ -27,6 +27,12 @@ Directrice Commerciale, **ABBYY France**
 
 ![76 Sabinegermain 198X198](https://static3.abbyy.com/abbyycommedia/32940/76-sabinegermain-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Sabine Germain
 
 Journaliste, **L’Argus de l'Assurance**
@@ -35,8 +41,14 @@ Journaliste, **L’Argus de l'Assurance**
 
 De plus en plus d’assureurs mettent en place des solutions de Business Intelligence. Mais 60 à 70 % des données restent non structurées, ce qui les rende non exploitables d’un point de vue opérationnel et stratégique. Dans cette interview menée par L’Argus de l’Assurance, nous adresserons les points clés à tenir en compte pour mettre en place des outils de transformation numérique qui permettent de mettre le client ainsi que les équipes business au centre des opérations.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Regardez maintenant
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
@@ -46,8 +58,14 @@ All personal information collected via this method is under full scope of all pr
 
 [![L’Assurance De Demain 750X422](https://static5.abbyy.com/abbyycommedia/32960/l-assurance-de-demain-750x422.jpg)](https://www.youtube.com/watch?v=9uJo7sCI46U) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:

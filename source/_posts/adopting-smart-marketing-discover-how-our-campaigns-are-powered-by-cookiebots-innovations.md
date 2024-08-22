@@ -1,7 +1,7 @@
 ---
 title: "Adopting Smart Marketing: Discover How Our Campaigns Are Powered by Cookiebot's Innovations"
-date: 2024-08-19 12:48:14
-updated: 2024-08-22 12:34:17
+date: 2024-08-21T15:02:33.504Z
+updated: 2024-08-22T15:02:33.504Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
@@ -99,6 +99,9 @@ ABBYY’s intelligent automation platform is the only solution that automates th
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
