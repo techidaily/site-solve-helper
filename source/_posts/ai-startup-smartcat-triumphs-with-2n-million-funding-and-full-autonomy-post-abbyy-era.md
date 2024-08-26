@@ -1,7 +1,7 @@
 ---
 title: AI Startup SmartCAT Triumphs with $2.n Million Funding & Full Autonomy Post-ABBYY Era
-date: 2024-08-21T15:02:32.748Z
-updated: 2024-08-22T15:02:32.748Z
+date: 2024-08-25T22:48:15.265Z
+updated: 2024-08-26T22:48:15.265Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb9d9c4cb9258cac1b011715e.png
@@ -70,3 +70,47 @@ Connect with us
 <!-- affiliate ads begin -->
 <a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-share-enjoy-for-2024/"><u>[New] Capture, Share, Enjoy for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-updated-compilation-prime-top-10-android-apps-for-facebook-video-download/"><u>[New] In 2024, Updated Compilation  Prime Top 10 Android Apps for Facebook Video Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram/"><u>[New] The Secrets of Squaring Up  Making Square-Format Videos with iMovie for Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-editing-excellence-the-ultimate-guide-to-top-notebooks-for-2024/"><u>[Updated] Editing Excellence  The Ultimate Guide to Top Notebooks for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>[Updated] Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-streams-tips-and-tricks/"><u>[Updated] In 2024, Boosting Vimeo Streams  Tips & Tricks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-digitale-transformation-mit-von-fraunhofer-und-abbeyy-geheime-schritte-in-das-neue-norm/"><u>1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-zooming-in-a-videoleap-approach/"><u>2024 Approved  The Art of Zooming In  A Videoleap Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>2024 Approved  The Ultimate Guide to Video Cuts  Windows Edition, Made Simple</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m14-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M14 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/be-the-artist-drawing-animated-characters-on-phones/"><u>Be the Artist  Drawing Animated Characters on Phones</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-site-engagement-using-cookiebots-smart-analytics-technology/"><u>Boost Site Engagement Using Cookiebot's Smart Analytics Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-site-with-cookiebot-technology-enhanced-performance-and-engagement/"><u>Boost Your Site with Cookiebot Technology – Enhanced Performance and Engagement!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boosting-visibility-with-cookiebot-a-revolutionary-approach-to-web-analytics-and-optimization/"><u>Boosting Visibility with Cookiebot: A Revolutionary Approach to Web Analytics and Optimization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>Captivate Viewers  Learn to Perfectly Border IG Videos</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-features-enhancing-user-experience-and-data-accuracy/"><u>Cookiebot-Enabled Features: Enhancing User Experience and Data Accuracy</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-delivering-next-level-personalization-and-engagement-online/"><u>Cookiebot: Delivering Next-Level Personalization & Engagement Online</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-analytics-using-advanced-cookiebot-systems/"><u>Enhance Your Analytics Using Advanced Cookiebot Systems</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-website-with-our-advanced-cookiebot-driven-analytics/"><u>Enhance Your Website with Our Advanced Cookiebot-Driven Analytics</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-analytics-via-cookiebot-driven-data-collection-solutions/"><u>Enhancing Analytics via Cookiebot-Driven Data Collection Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/erhohung-der-prozesseffizienz-um-70-deutsche-post-dhl-nutzt-rpa-und-abbyy-idp/"><u>Erhöhung Der Prozesseffizienz Um 70%% - Deutsche Post DHL Nutzt RPA Und ABBYY IDP</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/erschliessung-der-patentdokumente-wie-das-dpma-die-abbyy-finereader-engine-nutzt/"><u>Erschließung Der Patentdokumente: Wie Das DPMA Die ABBYY FineReader Engine Nutzt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-considerations-prior-to-utilizing-chatgpt-for-therajournaling-support/"><u>Essential Considerations Prior to Utilizing ChatGPT for Therajournaling Support</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/essential-expertise-mastering-core-skills-for-transportation-and-logistics-professionals-in-the-dynamic-abbyy-ecosystem/"><u>Essential Expertise: Mastering Core Skills for Transportation & Logistics Professionals in the Dynamic ABBYY Ecosystem</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-web-analytics-and-marketing-automation/"><u>Harnessing the Power of Cookiebot for Enhanced Web Analytics & Marketing Automation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-open-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Open Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-t2x-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo T2x 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprerancial-free-imagery-tips-and-tricks/"><u>In 2024, Comprerancial Free Imagery  Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>In 2024, Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-it-provides-how-it-stands-out-and-why-companerates-need-it/"><u>Inside ChatGPT Enterprise: What It Provides, How It Stands Out, and Why Companerates Need It</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/invoice-management-expense-and-return-on-investment-analysis-tool/"><u>Invoice Management Expense and Return on Investment Analysis Tool</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iphone-based-pdfjpg-scanning-and-ocr-for-easy-digital-access-to-printed-materials/"><u>IPhone-Based PDF/JPG Scanning & OCR for Easy Digital Access to Printed Materials</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-artificial-intelligence-for-enhanced-staff-involvement-navigating-information-within-company-papers/"><u>Leveraging Artificial Intelligence for Enhanced Staff Involvement: Navigating Information Within Company Papers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-hospital-billing-systems-using-abbyy-insights-from-the-art-of-revenue-cycle-management-in-healthcare/"><u>Optimize Hospital Billing Systems Using ABBYY Insights From 'The Art of Revenue Cycle Management in Healthcare'</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme )</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-crucial-role-of-data-insights-in-advancing-process-optimization-techniques/"><u>The Crucial Role of Data Insights in Advancing Process Optimization Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-shift-towards-digital-communication-amongst-millennials-analysis-by-abbyy-newsroom/"><u>The Shift Towards Digital Communication Amongst Millennials – Analysis by ABBYY Newsroom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992172690-tips-for-fixing-the-dreaded-black-screen-glitch-on-electronics-solved/"><u>Tips for Fixing the Dreaded Black Screen Glitch on Electronics – Solved!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-compliance-challenges-the-impact-of-gdpr-on-blockchain-innovations-explored-abbyy-blog/"><u>Unraveling Compliance Challenges: The Impact of GDPR on Blockchain Innovations - Explored | ABBYY Blog</u></a></li>
+</ul></div>

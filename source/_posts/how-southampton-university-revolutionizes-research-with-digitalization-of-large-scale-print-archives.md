@@ -1,7 +1,7 @@
 ---
 title: How Southampton University Revolutionizes Research with Digitalization of Large-Scale Print Archives
-date: 2024-08-21T15:02:34.022Z
-updated: 2024-08-22T15:02:34.022Z
+date: 2024-08-25T22:50:58.791Z
+updated: 2024-08-26T22:50:58.791Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143743513f29d02bcd22967183.jpg
@@ -117,3 +117,73 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfecting-the-instagram-story-format-with-youtube-integration/"><u>[New] 2024 Approved  Perfecting the Instagram Story Format with YouTube Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategies-to-bypass-edgenuity-videos-with-minimal-hassle/"><u>[New] 2024 Approved  Strategies to Bypass Edgenuity Videos with Minimal Hassle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>[New] 2024 Approved  Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/unding-fantasies-or-fiscal-facts/"><u>[New] Funding Fantasies or Fiscal Facts?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-tips-to-record-videos-in-silence/"><u>[New] Leading Tips to Record Videos in Silence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>[Updated] In 2024, Effortlessly Enhanced Images  Learn the Insider Snapchat Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-mac-screen-saving-the-shortcut-guide/"><u>[Updated] In 2024, Mastering Mac Screen Saving  The Shortcut Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-advice-preserving-gotomeetings-with-minimal-fuss/"><u>[Updated] In 2024, Quick Advice  Preserving GoToMeetings with Minimal Fuss</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[Updated] Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-chipset-selection-for-uhd-rendering/"><u>2024 Approved  Ideal Chipset Selection for UHD Rendering</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-8-collaborative-video-collage-android-apps-freepremium/"><u>2024 Approved  Unveiling Top 8 Collaborative Video Collage Android Apps (Free/Premium)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-bolsters-digital-change-expertise-by-acquiring-timelinepi/"><u>ABBYY Bolsters Digital Change Expertise by Acquiring TimelinePI</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-corporations-global-survey-reveals-key-success-factors-in-digital-transformation-projects/"><u>ABBYY Corporation's Global Survey Reveals Key Success Factors in Digital Transformation Projects</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-data-integration-seminar-mastering-advanced-data-processing-techniques-for-business-excellence/"><u>ABBYY Data Integration Seminar – Mastering Advanced Data Processing Techniques for Business Excellence</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-erzielt-im-dritten-jahr-in-folge-ein-zwei-stelliges-jahresumsatzwachstum/"><u>ABBYY Erzielt Im Dritten Jahr In Folge Ein Zwei-Stelliges Jahresumsatzwachstum</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-ocr-boosting-workflow-efficiency-in-recruitment-software-solutions/"><u>ABBYY OCR: Boosting Workflow Efficiency in Recruitment Software Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-setzt-mit-der-akquisition-von-timelinepi-neue-massstabe-im-bereich-der-digitalen-transformation/"><u>ABBYY Setzt Mit Der Akquisition Von TimelinePI Neue Maßstäbe Im Bereich Der Digitalen Transformation</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-upgrades-its-software-offerings-integrating-augmented-reality-features-improved-pdf-management-and-user-friendly-drag-and-drop-interfaces/"><u>ABBYY Upgrades Its Software Offerings: Integrating Augmented Reality Features, Improved PDF Management, and User-Friendly Drag-and-Drop Interfaces</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1724312879963-abby/"><u>ABBYチェックリストを使ってデジタルネイティブな金融サービスの競争優位性を高める方法</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/adopting-smart-marketing-discover-how-our-campaigns-are-powered-by-cookiebots-innovations/"><u>Adopting Smart Marketing: Discover How Our Campaigns Are Powered by Cookiebot's Innovations</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/advanced-ocr-technology-with-abbyy-sdk-the-future-of-automatic-document-digitization/"><u>Advanced OCR Technology with ABBYY SDK: The Future of Automatic Document Digitization</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automated-with-cookiebot-boosting-your-online-marketing-success/"><u>Automated with Cookiebot: Boosting Your Online Marketing Success</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automation-cognitive-des-documents-en-5-etapes-avec-abbyy-un-guide-pratique/"><u>Automation Cognitive Des Documents en 5 Étapes Avec ABBYY: Un Guide Pratique</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-custom-user-experiences-the-cutting-edge-approach/"><u>Cookiebot Driven Custom User Experiences: The Cutting-Edge Approach</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-for-enhanced-web-marketing/"><u>Cookiebot-Driven Solutions for Enhanced Web Marketing</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-website-personalization-and-tracking-solutions/"><u>Cookiebot-Driven Website Personalization and Tracking Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-and-data-collection/"><u>Cookiebot-Enabled: Enhancing User Experience and Data Collection</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-tracking/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-optimized-site-performance-through-advanced-tracking/"><u>Cookiebot-Enhanced: Optimized Site Performance Through Advanced Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-the-secret-ingredient-for-enhanced-web-analytics-and-conversions/"><u>Cookiebot: The Secret Ingredient for Enhanced Web Analytics and Conversions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-your-leading-solution-for-powerful-automated-marketing-campaigns/"><u>Cookiebot: Your Leading Solution for Powerful Automated Marketing Campaigns</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-an-iphone-photo-mosaic-a-step-by-step-guide-for-2024/"><u>Creating an iPhone Photo Mosaic  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/customized-user-experience-with-advanced-analytics-using-cookiebot-technology/"><u>Customized User Experience with Advanced Analytics Using Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/discover-how-abbyy-shaped-future-financial-tactics-at-the-2017-strategietage-conference/"><u>Discover How ABBYY Shaped Future Financial Tactics at the 2017 StrategieTage Conference</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/efficiency-in-action-how-the-turkish-government-enhanced-workflow-management-using-abbyy-technology/"><u>Efficiency in Action: How the Turkish Government Enhanced Workflow Management Using ABBYY Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-financial-data-extraction-with-abbyys-advanced-ocr-technology/"><u>Enhance Financial Data Extraction with ABBYY's Advanced OCR Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-website-with-cookiebots-powerful-analytics-solutions/"><u>Enhance Your Website with Cookiebot's Powerful Analytics Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-site-engagement-with-powerful-cookiebot-technology/"><u>Enhanced Site Engagement with Powerful Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/explore-top-notch-robotic-process-automation-with-our-coe-masterclass-online-session/"><u>Explore Top-Notch Robotic Process Automation with Our CoE Masterclass Online Session</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-spectrum-of-picture-alteration/"><u>Exploring the Spectrum of Picture Alteration</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/global-food-conglomerate-enhances-billing-accuracy-with-advanced-ai-powered-invoice-management/"><u>Global Food Conglomerate Enhances Billing Accuracy with Advanced AI-Powered Invoice Management</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-hearthstone-from-freezing-and-crashing-on-your-computer-expert-tips/"><u>How to Prevent Hearthstone From Freezing and Crashing on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-t2x-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo T2x 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-audiences-choice-for-best-action-capture-tools/"><u>In 2024, Audience's Choice for Best Action Capture Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>In 2024, The Ultimate Method  Changing Account Numbers on TikTok</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-trendsetters-in-virtual-reality-headsets/"><u>In 2024, Trendsetters in Virtual Reality Headsets</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/la-revolution-des-technologies-de-traitement-intellectuel-des-documents-une-ere-nouvelle-commence/"><u>La Révolution Des Technologies De Traitement Intellectuel Des Documents: Une Ère Nouvelle Commence</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-fistn-balumbu-your-go-to-midmarket-sales-strategist-at-leading-software-giant-abbyy/"><u>Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/neoml-abbyys-new-free-machine-learning-library/"><u>NeoML: ABBYY's New Free Machine Learning Library</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-virtualdub-a-review-of-its-capabilities-and-limitations-plus-top-alternative-video-editors/"><u>New Virtualdub A Review of Its Capabilities and Limitations, Plus Top Alternative Video Editors</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/nina-walker-leading-the-charge-as-abbyys-chief-customer-experience-officer/"><u>Nina Walker: Leading the Charge as ABBYY's Chief Customer Experience Officer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nocturnal-tales-on-the-silver-screen/"><u>Nocturnal Tales on the Silver Screen</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-with-cookiebot-technology-smart-personalization-at-scale/"><u>Optimize with Cookiebot Technology: Smart Personalization at Scale</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-boost-website-insights-and-performance/"><u>Optimized With Cookiebot Technology: Boost Website Insights & Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-roblox-boot-up-obstacles-a-comprehensive-guide-updated/"><u>Overcoming Roblox Boot-Up Obstacles: A Comprehensive Guide [Updated ]</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/steering-abbyy-towards-future-breakthroughs-with-cio-anthony-macciola/"><u>Steering ABBYY Towards Future Breakthroughs with CIO Anthony Macciola</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-leading-websites-a-comprehensive-ranking-of-global-internet-giants/"><u>Top 10 Leading Websites: A Comprehensive Ranking of Global Internet Giants</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-s18e-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo S18e Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-the-power-of-gpt-for-google-sheets-and-documents-tips-and-tricks-for-effortless-automation/"><u>Unleash the Power of GPT for Google Sheets and Documents: Tips and Tricks for Effortless Automation</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unleashing-user-insights-discover-how-our-platform-is-boosted-by-cookiebot-innovations/"><u>Unleashing User Insights: Discover How Our Platform Is Boosted by Cookiebot Innovations</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unlock-advanced-marketing-insights-with-our-cookiebot-powered-solutions/"><u>Unlock Advanced Marketing Insights with Our Cookiebot Powered Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-g22s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia G22s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-content-mastering-youtube-ads-for-earnings-for-2024/"><u>Yield Your Content  Mastering YouTube Ads for Earnings for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-timeline-connector/"><u>アルテックスとのシームレスな連携: ABBYY Timeline Connectorによるデータ統合</u></a></li>
+</ul></div>
