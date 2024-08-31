@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed"
-date: 2024-08-28 10:47:45
-updated: 2024-08-29 11:47:11
+date: 2024-08-30T11:15:09.435Z
+updated: 2024-08-31T11:15:09.435Z
 tags:
   - product-reviews
 categories:
@@ -87,6 +87,9 @@ Expand
 
 ![Autonomous SmartDesk Levidesk out of packaging and ready for assembly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-assembly.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Mark LoProto / How-to Geek
 
  I needed to wire each leg to its counterpart, which meant fussing with tight built-in wire wells and various connectors. Making matters worse, the instructions weren't accurate to the actual assembly. As I got to the second to last step, I realized the instructions had mislabeled two legs, which meant they had mismatched wires. I stepped away for a minute before returning to break the table down to the initial steps.
@@ -95,12 +98,18 @@ Mark LoProto / How-to Geek
 
 Mark LoProto / How-to Geek
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Durable Frame and Sturdy Desktop
 
  A two-motor setup would have been infinitely easier to assemble. I tend to find the thicker dual legs on models like [FlexiSpots Q8](https://youtube-videos.techidaily.com/new-essential-tips-for-youtube-shorts-success/) and [SecretLab's Magnus Pro](https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/) offer better stability. The SmartDesk Levitate’s frame is made of thick steel, so while the legs were a little shaky, I was confident it wouldn’t randomly collapse. I was surprised by the 310-pound weight limit, even at its maximum height of 44.1 inches. I expected it to be lower, especially considering the Magnus Pro tops at 265lbs and feels like a more stable desk.
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Levitate Sensor: Who Asked for This?
 
  I ask earnestly and not with an air of sarcasm. There must have been a roundtable at Autonomous where the creative leads addressed some users' concerns about the current standing desk controls. Otherwise, I can’t fathom why they’d dilute an easy-to-use control panel to a singular button that frequently glitches and a sensor that makes part of the desk completely unusable.
@@ -111,6 +120,9 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
@@ -121,6 +133,9 @@ Mark LoProto / How-to Geek
 
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
@@ -143,6 +158,9 @@ Mark LoProto / How-to Geek
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 #####  Autonomous SmartDesk Levitate
 
 5/ 10 
@@ -165,3 +183,53 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-journey-into-the-archives-downloading-fbs-live-feed-chronicles/"><u>[New] 2024 Approved  Journey Into the Archives  Downloading FB's Live Feed Chronicles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-access-10-free-thumbnail-downloader-apps-for-2024/"><u>[New] Access 10 Free Thumbnail Downloader Apps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>[New] Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-ranked-youtube-extractors-pc-mobile-and-more-tips/"><u>[New] Top-Ranked YouTube Extractors - PC, Mobile, and More Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-voice-clarity-overcoming-skype-noise-issues/"><u>[New] Voice Clarity  Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-engagement-top-10-video-response-insights/"><u>[Updated] 2024 Approved  Elevate Your Engagement  Top 10 Video Response Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-digitale-transformation-mit-von-fraunhofer-und-abbeyy-geheime-schritte-in-das-neue-norm/"><u>1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>2024 Approved  Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-announces-hiring-of-anthony-macciola-as-new-chief-innovation-officer/"><u>ABBYY Announces Hiring of Anthony Macciola as New Chief Innovation Officer</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-lance-version-5-nouveau-module-de-reconnaissance-des-taches-integre/"><u>ABBYY Lance Version 5 : Nouveau Module De Reconnaissance Des Tâches Intégré</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-umfragen-entdecken-fruhwarnzeichen-von-burnout-bei-jungen-fuhrungskraften-durch-schlechte-prozesse-und-veraltete-technologien-im-vergleich-zu-erfahren3/"><u>ABBYY-Umfragen Entdecken Frühwarnzeichen Von Burnout Bei Jungen Führungskräften Durch Schlechte Prozesse Und Veraltete Technologien Im Vergleich Zu Erfahrenen Kollegen</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyyntt/"><u>ABBYYがNTTドコモ向けに開発した画像からテキストを抽出する多言語翻訳ツールのイノベーション</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ai-startup-smartcat-triumphs-with-2n-million-funding-and-full-autonomy-post-abbyy-era/"><u>AI Startup SmartCAT Triumphs with $2.n Million Funding & Full Autonomy Post-ABBYY Era</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/avec-abbyy-kodak-alaris-et-renforce-sunissent-pour-une-alliance-mondiale/"><u>Avec ABBYY, Kodak Alaris Et Renforce S'unissent Pour Une Alliance Mondiale</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-site-engagement-using-cookiebots-smart-analytics-technology/"><u>Boost Site Engagement Using Cookiebot's Smart Analytics Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-enhancing-your-site-with-intelligent-analytics/"><u>Cookiebot-Driven Solutions: Enhancing Your Site with Intelligent Analytics</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-smart-ppc-management-solutions/"><u>Cookiebot-Enhanced: Smart PPC Management Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-fueled-success-mastering-online-tracking/"><u>Cookiebot-Fueled Success: Mastering Online Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/crafting-an-unshakeable-cyber-centric-evolution-blueprint/"><u>Crafting an Unshakeable Cyber-Centric Evolution Blueprint</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/drive-your-digital-marketing-with-cookiebot-enabled-solutions/"><u>Drive Your Digital Marketing with Cookiebot-Enabled Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1724313335936-dx/"><u>DXによるビジネスプロセス改革: 白板時代を超えた可視化戦略</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effective-methods-unlinking-from-your-discord-servers-for-2024/"><u>Effective Methods  Unlinking From Your Discord Servers for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-conversions-smart-analytics-via-cookiebot-technology/"><u>Elevate Conversions: Smart Analytics via Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-site-analytics-with-cookiebot-integration-boosting-visitor-insights-and-seo-performance/"><u>Elevate Site Analytics with Cookiebot Integration – Boosting Visitor Insights and SEO Performance</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-analytics-using-advanced-cookiebot-systems/"><u>Enhance Your Analytics Using Advanced Cookiebot Systems</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-analytics-via-cookiebot-driven-data-collection-solutions/"><u>Enhancing Analytics via Cookiebot-Driven Data Collection Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/erschliessung-der-patentdokumente-wie-das-dpma-die-abbyy-finereader-engine-nutzt/"><u>Erschließung Der Patentdokumente: Wie Das DPMA Die ABBYY FineReader Engine Nutzt</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-obtaining-and-installing-epson-xp-430-drivers-for-windows-users/"><u>Guide to Obtaining and Installing Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>In 2024, Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>In 2024, Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-key-elements-in-achieving-proficient-interview-performance/"><u>In 2024, The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-success-starts-with-these-strategies/"><u>Instagram Success Starts with These Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iphone-based-pdfjpg-scanning-and-ocr-for-easy-digital-access-to-printed-materials/"><u>IPhone-Based PDF/JPG Scanning & OCR for Easy Digital Access to Printed Materials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/laughlounge-beginner-friendly-content-creation-for-2024/"><u>LaughLounge  Beginner-Friendly Content Creation for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-artificial-intelligence-for-enhanced-staff-involvement-navigating-information-within-company-papers/"><u>Leveraging Artificial Intelligence for Enhanced Staff Involvement: Navigating Information Within Company Papers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp3-transformation-of-mov-videos-for-pc-mac-and-mobile-the-ultimate-tutorial/"><u>MP3 Transformation of MOV Videos for PC, Mac, and Mobile - The Ultimate Tutorial</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-hospital-billing-systems-using-abbyy-insights-from-the-art-of-revenue-cycle-management-in-healthcare/"><u>Optimize Hospital Billing Systems Using ABBYY Insights From 'The Art of Revenue Cycle Management in Healthcare'</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/record-rapidly-innovative-iphone-time-lapse-methods-for-2024/"><u>Record Rapidly  Innovative iPhone Time-Lapse Methods for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165662348-revive-gbadvance-games-seamlessly-on-iphone-and-ipad/"><u>Revive GBAdvance Games Seamlessly on iPhone & iPad!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-crucial-role-of-data-insights-in-advancing-process-optimization-techniques/"><u>The Crucial Role of Data Insights in Advancing Process Optimization Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-shift-towards-digital-communication-amongst-millennials-analysis-by-abbyy-newsroom/"><u>The Shift Towards Digital Communication Amongst Millennials – Analysis by ABBYY Newsroom</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unleash-your-phones-potential-effortless-organization-and-math-made-simple-insights-from-the-abbyy-experts/"><u>Unleash Your Phone's Potential: Effortless Organization & Math Made Simple – Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-compliance-challenges-the-impact-of-gdpr-on-blockchain-innovations-explored-abbyy-blog/"><u>Unraveling Compliance Challenges: The Impact of GDPR on Blockchain Innovations - Explored | ABBYY Blog</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-need-caution-with-ai-the-6-critical-risks/"><u>Why You Need Caution with AI: The 6 Critical Risks</u></a></li>
+</ul></div>
