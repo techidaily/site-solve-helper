@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed"
-date: 2024-08-30T11:15:09.435Z
-updated: 2024-08-31T11:15:09.435Z
+date: 2024-09-10T10:10:06.918Z
+updated: 2024-09-11T10:10:06.918Z
 tags:
   - product-reviews
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cfd7b5126052dee0bd06c1845.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -20,6 +48,20 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 [Autonomous SmartDesk Levitate](http://www.autonomous.ai/standing-desks/smartdesk-levitate) really missed the mark by swapping out a traditional standing desk control panel for an overly sensitive, poorly placed motion sensor that adjusts the desk based on hand movements. Rather than optimizing space, the sensor takes too much away and actively intrudes on the user experience.
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Autonomous SmartDesk Levitate
 
@@ -40,6 +82,20 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 [$999 at Autonomous](https://www.autonomous.ai/standing-desks/smartdesk-levitate) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Price and Availability
 
@@ -81,15 +137,26 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 Expand 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Assembly: More of a Chore Than Needed
 
  Before getting to the meat of it, assembly is key when considering office furniture. I have assembled [quite a few standing desks](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-fe-by-drfone-android/) over the past year alone. I'm used to the flow and, for the most part, can do it without much assistance from the manual. That was not the case with the SmartDesk Levitate. I question going with four individual legs, as that added more opportunity for a malfunction and made the assembly that much more difficult.
 
 ![Autonomous SmartDesk Levidesk out of packaging and ready for assembly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-assembly.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Mark LoProto / How-to Geek
 
  I needed to wire each leg to its counterpart, which meant fussing with tight built-in wire wells and various connectors. Making matters worse, the instructions weren't accurate to the actual assembly. As I got to the second to last step, I realized the instructions had mislabeled two legs, which meant they had mismatched wires. I stepped away for a minute before returning to break the table down to the initial steps.
@@ -98,18 +165,26 @@ Mark LoProto / How-to Geek
 
 Mark LoProto / How-to Geek
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Durable Frame and Sturdy Desktop
 
  A two-motor setup would have been infinitely easier to assemble. I tend to find the thicker dual legs on models like [FlexiSpots Q8](https://youtube-videos.techidaily.com/new-essential-tips-for-youtube-shorts-success/) and [SecretLab's Magnus Pro](https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/) offer better stability. The SmartDesk Levitate’s frame is made of thick steel, so while the legs were a little shaky, I was confident it wouldn’t randomly collapse. I was surprised by the 310-pound weight limit, even at its maximum height of 44.1 inches. I expected it to be lower, especially considering the Magnus Pro tops at 265lbs and feels like a more stable desk.
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Levitate Sensor: Who Asked for This?
 
  I ask earnestly and not with an air of sarcasm. There must have been a roundtable at Autonomous where the creative leads addressed some users' concerns about the current standing desk controls. Otherwise, I can’t fathom why they’d dilute an easy-to-use control panel to a singular button that frequently glitches and a sensor that makes part of the desk completely unusable.
@@ -120,9 +195,20 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
@@ -133,9 +219,6 @@ Mark LoProto / How-to Geek
 
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
@@ -158,9 +241,6 @@ Mark LoProto / How-to Geek
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 #####  Autonomous SmartDesk Levitate
 
 5/ 10 

@@ -1,13 +1,27 @@
 ---
 title: Discover Why the New Gen G Electrically Powered Dual Zone Barbecue Is Worth Its Higher Price Tag for Culinary Enthusiasts
-date: 2024-08-30T11:15:05.606Z
-updated: 2024-08-31T11:15:05.606Z
+date: 2024-09-10T10:10:06.823Z
+updated: 2024-09-11T10:10:06.823Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-closed.JPG
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Discover Why the New Gen G Electrically Powered Dual Zone Barbecue Is Worth Its Higher Price Tag for Culinary Enthusiasts
 
@@ -18,6 +32,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * Despite its functionality, the $899 Model G is not exciting to use & may not be worth the investment compared to gas or wood pellet grills.
 
  It’s tempting to re-evaluate your outdoor cooking setup when grilling season rolls around each year. I thought I would fall in love with the [Current Model G Dual Zone Grill](https://www.currentbackyard.com/current-330-dual-zone-grill-cart) with its convenient electric power. In the end, it performed okay, but I wasn’t blown away like I was expecting to be.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What’s the Current Model G and How Does It Work?
 
@@ -39,13 +67,44 @@ Close
 
  I didn’t mind the app’s minimal approach, but often the sparseness didn’t result in easier-to-find controls, just limited ones. The app lacked substance too, with few recipes and discovery items. Still, I liked being able to control the dual zones with my phone, either locally or remotely.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  I’m Not Trading In My Pellet Smoker Just Yet
 
 ![the front of the Current Model G Dual Zone Grill with the lid open, nothing on the grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-open-nothing-on-the-grill.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  I cooked the basics on the grill. Burgers and steaks were covered right away. I also tried bacon right on the grates, which worked surprisingly well. The food I cooked didn’t lack flavor and tasted fine, but using electricity to grill felt more sterile and, whether in actuality or perception, the meals often felt lackluster.
@@ -56,10 +115,6 @@ Tyler Hayes / How-To Geek
 
 ![Burgers cooking on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/burgers-cooking-on-the-current-model-g-dual-zone-grill.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  While the unit is small enough for an apartment balcony or a condo patio, I thought its 422-inch cooking area was sufficient for a family meal. It might not be ideal for a big party, but I don’t think this is one of its weak points.
@@ -72,30 +127,44 @@ Tyler Hayes / How-To Geek
 
 ![Looking at the clip inside the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/looking-at-the-clip-inside-the-current-model-g-dual-zone-grill.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
 The black plastic clip kept coming out of its square hole.
 
  Although the grill was easy to assemble, I did notice a few things that concerned me about its long-term durability. At least one plastic clip holding the side panel in place had become detached and wouldn’t stay clipped after about a month. The overall ricketiness of the frame while rolling it on my (relatively flush) backyard pavers gave me pause. The add-on side panels provided a nice storage area, but they didn't keep wind-blown dirt and drops off rain from getting inside.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Is the Current Model G Dual Zone Grill Worth Spending Money On?
 
 ![the front of the Current Model G Dual Zone Grill with its cabinet door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-its-cabinet-door-open.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  If you’re set on electric grilling, for whatever reason, then don’t let me talk you out of the [Current Model G Dual Zone Grill](https://www.currentbackyard.com/current-330-dual-zone-grill-cart). I used it; it worked as advertised. I had no problem with the essentials, like its 12-foot cord length or it holding its temperature. But if you’re trying to decide between this $899 grill and a gas or wood pellet grill, I would advise you to go with one of the latter.
@@ -104,9 +173,6 @@ Tyler Hayes / How-To Geek
 
 ![Current 330 Grill Cart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/current-330-grill-cart.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Current Model G Dual Zone Grill
 
 6/ 10 

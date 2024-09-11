@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Verdict on EarFun Air 2: High-Quality, Cost-Effective Wireless Buds for All Hearing Needs"
-date: 2024-08-30T11:15:10.392Z
-updated: 2024-08-31T11:15:10.392Z
+date: 2024-09-10T10:10:06.942Z
+updated: 2024-09-11T10:10:06.942Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ---
 
 ## The Ultimate Verdict on EarFun Air 2: High-Quality, Cost-Effective Wireless Buds for All Hearing Needs
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -20,6 +34,26 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  It wasn't all that long ago that buying cheap wireless earbuds meant putting up with sub-par sound and connectivity issues. Fortunately, they've come a long way in a short time, as evidenced by the [EarFun Air 2](https://www.amazon.com/EarFun-Air-Multipoint-Connection-Customization/dp/B0CR8XTJDW/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002106&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fearfun-air-2-review%2F&asc%5Fcampaign=Authority), a set of quality affordable earbuds with surprisingly few downsides for less than $50.
 
 ![EarFun Air 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/earfun-air-2.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  EarFun Air 2
 
@@ -107,13 +141,24 @@ Jerome Thomas / How-To Geek
 
  The included charging case is slim and easily pocketable. This didn't come as a surprise to me as I've reviewed other EarFun earbuds before. If you're used to other affordable earbuds, you may be impressed with just how thin and light the case is.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Surprisingly Good Sound
 
 ![Close up of the Air 2 earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-air-2-earbudsjpg_53519675860_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The EarFun Air 2 use Bluetooth 5.3 and feature 10mm drivers, fairly common for wireless earbuds. While the size may be common, the sound wasn't as these relatively small drivers were able to push out a decent amount of bass in my listening tests.
@@ -124,22 +169,50 @@ Jerome Thomas / How-To Geek
 
  Something I didn't expect to see on this class of earbuds was support for Sony's [LDAC Bluetooth codec](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-with-a-mask-on-drfone-by-drfone-ios/). This can make for better audio fidelity over Bluetooth, but it's only supported on Windows 10 or 11 and some Android devices, including Sony's Walkman line of digital audio players.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  No ANC, But Decent Microphones
 
 ![Close up of the mic and charging contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-the-mic-and-charging-contactsjpg_53518356717_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  One missing feature here may be a major dealbreaker for some: there is no [active noise cancellation (ANC)](https://facebook-clips.techidaily.com/updated-step-by-step-sharing-twitch-on-your-fb-page-for-2024/) of any kind here. You get some passive noise isolation from having the earbuds in your ears, but the Air 2 earbuds aren't using any [DSP](https://visual-screen-recording.techidaily.com/navigating-the-world-of-zoom-audio-to-text-tools-for-2024/) trickery to keep you from hearing your surroundings.
 
  On the other hand, there appears to be some cleverness at work when it comes to the built-in microphones, as they sound pretty good, and deal well enough with wind noise on a relatively breezy day. They likely won't become your go-to earbuds if you spend a lot of time on the phone, but they're perfect for quick calls. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Unreliable Controls, But Solid Software
 
 ![Single Earfun Air 2 earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/single-earfun-air-2-earbudjpg_53518357507_o.jpg) 
@@ -152,17 +225,23 @@ Jerome Thomas / How-To Geek
 
  The EarFun Air 2 are supported in the EarFun app, available for [iPhone](https://apps.apple.com/us/app/earfun-audio/id1612795156) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002106/https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en%5FUS&gl=US). You don't get the ANC controls that you may expect from other EarFun models, but you can change between EQ presets and even customize the touch controls.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  Solid Battery Life and Wireless Charging
 
 ![Earfun Air 2 inside the charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/earfun-air-2-inside-the-charging-casejpg_53519675645_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -170,19 +249,26 @@ Jerome Thomas / How-To Geek
 
  Recharging is relatively quick and convenient, with a full charge for the earbuds taking around 90 minutes in the case. Plugging in the case to recharge takes only slightly longer. Surprisingly, the EarFun Air 2 charging case supports wireless Qi charging, which is not only convenient but something I relatively see left out of earbuds that sell for double the price.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Pricing and Availability
 
  The EarFun Air 2 earbuds are only available in a black finish, and they retail for $49.99\. That's already fairly affordable, but you'll also see them discounted, meaning you can get them for even less.
 
  In terms of competition, the main competition these face comes from the [Moondrop Space Travel](https://www.amazon.com/Moondrop-Space-Travel-TWS-Earphone/dp/B0CKW5JY9Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002106&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fearfun-air-2-review%2F&asc%5Fcampaign=Authority). This is a set of wireless earbuds that features ANC as well as a wear sensor, which the EarFun Air 2 lacks. On the other hand, I haven't actually had the chance to test these, so the jury is still out on how they sound.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the EarFun Air 2?
 
  For as low as they're priced, the [EarFun Air 2](https://www.amazon.com/EarFun-Air-Multipoint-Connection-Customization/dp/B0CR8XTJDW/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002106&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fearfun-air-2-review%2F&asc%5Fcampaign=Authority) earbuds pack an impressively fun sound signature. They're not aimed at audiophiles, but your average music or podcast fan, and for this, they punch above their weight in terms of quality. Throw in a microphone array that works well enough for calls and substantial battery life, and they've got a lot going for them.
@@ -192,6 +278,26 @@ Jerome Thomas / How-To Geek
  If you're looking for a set of cheap wireless buds that you won't regret spending your money on, the Air 2 are a solid buy. Even if you just pick them up as a backup set or to use while working out, they're well worth the asking price.
 
 ![EarFun Air 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/earfun-air-2.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  EarFun Air 2
 

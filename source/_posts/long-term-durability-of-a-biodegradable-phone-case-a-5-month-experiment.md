@@ -1,13 +1,27 @@
 ---
 title: Long-Term Durability of a Biodegradable Phone Case - A 5-Month Experiment
-date: 2024-08-30T11:15:08.484Z
-updated: 2024-08-31T11:15:08.484Z
+date: 2024-09-10T10:10:06.899Z
+updated: 2024-09-11T10:10:06.899Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-being-held-by-a-human-hand.JPG
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Long-Term Durability of a Biodegradable Phone Case - A 5-Month Experiment
 
@@ -19,6 +33,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Talk about long-term testing. It took me over five months to check whether [Bellroy’s Bio Phone Case](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU2002249&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fbio-phone-case%3Fcolor%3Dbiscuit%26material%3Dbio%5Fbased%5Fpolymer%26size%3Di14promax) would actually disintegrate. Surprisingly, when I pulled it out of the ground to check on its status, nothing had changed. It looked like it did when I buried it.
 
 ![Bellroy Bio iPhone 14 Pro Case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bellroy-bio-iphone-14-pro-case.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Bellroy Bio Phone Case
 
@@ -50,6 +84,20 @@ This super slim case protects your phone from the daily grind, and can be fully 
 
 ![Bellroy Bio Phone Case buried in dirt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-buried-in-dirt.JPG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
 Bellroy Bio Phone Case in the dirt in September 2023.
@@ -62,22 +110,58 @@ Bellroy Bio Phone Case in the dirt in September 2023.
 
 ![Bellroy Bio Phone Case in dirt after being buried for five months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-in-dirt-after-being-buried-for-five-months.JPG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
 Bellroy Bio Phone Case in March 2024.
 
  After plopping the case in the ground I took of picture of it, both for a future comparison and to remember when and where I had buried it.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Happened With the Bio Case?
 
 ![Bellroy Bio Phone Case with mud on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-with-mud-on-it.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  About a week into March 2024, I dug it up. When I started scraping the dirt away, I worried about separating pieces of the deteriorating case. That didn’t happen. Instead, I pulled the whole case up right away. It was muddy and had a slight warp to it from the weight of the dirt on top of it, but otherwise, it was fully intact.
@@ -92,9 +176,6 @@ Tyler Hayes / How-To Geek
 
  This isn’t some gotcha moment. It merely seemed implied that the Bio Phone Case could be disposed of anywhere outside, naturally, but it didn’t turn out that way. I might see if I can find someone with a compose bin and try again. Or maybe even this Bio Case is too much work to get rid of naturally.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sustainability in Tech Accessories
 
 Close 
