@@ -1,7 +1,7 @@
 ---
 title: 無限制網路上免费转换TS文件为WAV - 使用Movavi工具
-date: 2024-09-14T23:17:16.804Z
-updated: 2024-09-16T13:35:38.144Z
+date: 2024-09-15T16:38:57.820Z
+updated: 2024-09-21T16:29:08.367Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75fa0f9477ced64a556e7eef7.jpg
@@ -176,20 +176,27 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -217,23 +224,9 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -359,19 +352,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -395,6 +375,19 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -437,13 +430,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -451,6 +437,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -464,6 +457,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -586,14 +586,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-simplifying-your-snapchat-experience-3-essential-steps/"><u>[New] Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/inyl-virtuoso-access-to-premium-dj-video-samples-for-2024/"><u>[New] Vinyl Virtuoso Access to Premium DJ Video Samples for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-prior-upgrades-key-points-revisited/"><u>[Updated] Prior Upgrades? Key Points Revisited</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-m54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy M54 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/simple-and-fast-youtube-download-wizard-the-ultimate-guide-to-easy-video-clipping/"><u>Simple and Fast YouTube Download Wizard - The Ultimate Guide to Easy Video Clipping!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/solving-the-problem-of-vlc-not-playing-dvds-on-windows-1011/"><u>Solving the Problem of VLC Not Playing DVDs on Windows 10/11</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-capturing-your-world-of-warcraft-adventures-on-windows/"><u>Step-by-Step Guide: Capturing Your World of Warcraft Adventures on Windows</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-creating-video-collages-using-windows-operating-system/"><u>Step-by-Step Guide: Creating Video Collages Using Windows Operating System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-integrated-laptop-gpu-on-windows-11/"><u>Successfully Integrated: Laptop GPU on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-take-screenshots-on-a-chromebook/"><u>[Updated] In 2024, How to Take Screenshots on A Chromebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>[Updated] Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/como-convertir-archivos-flac-en-formato-wmv-libremente-en-linea-con-movavi-paso-a-paso/"><u>Cómo Convertir Archivos FLAC en Formato WMV Libremente en Línea Con Movavi: Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s21-fe-5g-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S21 FE 5G (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/descargue-y-transforme-su-video-3g2-directamente-en-mov-sin-costo-usando-el-convertidor-online-de-movavi/"><u>Descargue Y Transforme Su Video 3G2 Directamente en MOV Sin Costo Usando El Convertidor Online De Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/die-besten-aufzeichnungsprogramme-unter-windows-11-entdecken-empfehlungen-von-movavi/"><u>Die Besten Aufzeichnungsprogramme Unter Windows 11 Entdecken - Empfehlungen Von Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0xc00d36b4-from-win11-devices/"><u>Eliminating Error 0XC00D36B4 From Win11 Devices</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fai-il-tuo-download-gratuito-converti-file-dts-in-mp3-con-movietoast/"><u>Fai Il Tuo Download Gratuito: Converti File DTS in MP3 Con MovieToast</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-converter-ts-to-wmv-movavi/"><u>Free Online Converter: TS to WMV - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-nubia-z60-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Nubia Z60 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-instagram-magic-with-professional-edits/"><u>In 2024, Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavis-kostenloses-tool-fur-die-umwandlung-von-modify-in-mpeg-dateien-im-internet/"><u>Movavi's Kostenloses Tool Für Die Umwandlung Von MODIFY in MPEG Dateien Im Internet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-analysis-on-digital-devices-by-toms-technology-experts/"><u>Pioneering Reviews and Analysis on Digital Devices by Tom's Technology Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/procedures-for-revamping-windows-and-intel-devices/"><u>Procedures for Revamping Windows & Intel Devices</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/scarica-e-converte-gratuitamente-file-wma-in-formato-m4v-con-movavi-online/"><u>Scarica E Converte Gratuitamente File WMA in Formato M4V Con Movavi - OnLine</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-reviews-for-affordable-1byone-amplified-tv-antennas-your-ultimate-budget-solution/"><u>Top-Ranking Reviews for Affordable 1byOne Amplified TV Antennas: Your Ultimate Budget Solution</u></a></li>
 </ul></div>
 
