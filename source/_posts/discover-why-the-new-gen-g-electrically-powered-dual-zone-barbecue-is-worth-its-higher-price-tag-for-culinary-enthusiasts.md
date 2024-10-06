@@ -1,27 +1,13 @@
 ---
 title: Discover Why the New Gen G Electrically Powered Dual Zone Barbecue Is Worth Its Higher Price Tag for Culinary Enthusiasts
-date: 2024-09-10T10:10:06.823Z
-updated: 2024-09-11T10:10:06.823Z
+date: 2024-09-30T19:45:37.100Z
+updated: 2024-10-06T00:15:30.207Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-closed.JPG
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Discover Why the New Gen G Electrically Powered Dual Zone Barbecue Is Worth Its Higher Price Tag for Culinary Enthusiasts
 
@@ -32,20 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * Despite its functionality, the $899 Model G is not exciting to use & may not be worth the investment compared to gas or wood pellet grills.
 
  It’s tempting to re-evaluate your outdoor cooking setup when grilling season rolls around each year. I thought I would fall in love with the [Current Model G Dual Zone Grill](https://www.currentbackyard.com/current-330-dual-zone-grill-cart) with its convenient electric power. In the end, it performed okay, but I wasn’t blown away like I was expecting to be.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  What’s the Current Model G and How Does It Work?
 
@@ -67,43 +39,16 @@ Close
 
  I didn’t mind the app’s minimal approach, but often the sparseness didn’t result in easier-to-find controls, just limited ones. The app lacked substance too, with few recipes and discovery items. Still, I liked being able to control the dual zones with my phone, either locally or remotely.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  I’m Not Trading In My Pellet Smoker Just Yet
 
 ![the front of the Current Model G Dual Zone Grill with the lid open, nothing on the grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-open-nothing-on-the-grill.JPG) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -114,6 +59,13 @@ Tyler Hayes / How-To Geek
  The grill can reach temperatures of 700F, but even setting it in the 400F to 500F range took longer to reach than I would have liked. The company advertises “as little as 10 minutes” but my experience was closer to 15 minutes, or longer for the higher temps.
 
 ![Burgers cooking on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/burgers-cooking-on-the-current-model-g-dual-zone-grill.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -127,19 +79,12 @@ Tyler Hayes / How-To Geek
 
 ![Looking at the clip inside the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/looking-at-the-clip-inside-the-current-model-g-dual-zone-grill.JPG) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -151,19 +96,12 @@ The black plastic clip kept coming out of its square hole.
 
 ![the front of the Current Model G Dual Zone Grill with its cabinet door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-its-cabinet-door-open.JPG) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -217,8 +155,6 @@ This grill has a max temperature of 700F for ultimate searing performance. It is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +162,23 @@ This grill has a max temperature of 700F for ultimate searing performance. It is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[New] 2024 Approved The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>[New] Honorable Warriors, Reimagined Best Matching Gaming Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-conserve-continue-a-guide-to-saving-snapchat-content-for-2024/"><u>[Updated] Capture, Conserve, Continue A Guide to Saving Snapchat Content for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/m4a-to-aac-movavi/"><u>無料M4A to AAC変換サービス: オンラインでシームレスな音楽圧縮 - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavim2pmp4/"><u>線上無障礙，Movavi即時將M2P影片轉換成MP4 - 輕量型視頻編譯器</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brainy-entertainment-roundup-selective-trivia-haven-for-2024/"><u>Brainy Entertainment Roundup Selective Trivia Haven for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/bringing-favorite-manga-characters-to-life-in-tiktok/"><u>Bringing Favorite Manga Characters to Life in TikTok</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/como-convertir-archivos-mpe-a-formatos-wmv-online-de-manera-gratuita-con-herramientas-como-movavi/"><u>Cómo Convertir Archivos MPE a Formatos WMV Online De Manera Gratuita Con Herramientas Como Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/como-convertirte-en-un-creador-exitoso-de-banners-online-para-tu-canal-de-youtube-los-mejores-profesionales-a-seguir/"><u>Cómo Convertirte en Un Creador Exitoso De Banners Online Para Tu Canal De Youtube | Los Mejores Profesionales a Seguir</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/conversione-gratuita-mp3-a-wav-tramite-lutilita-online-di-movavi-ottienilo-oggi/"><u>Conversione Gratuita MP3 a WAV Tramite L'utilità Online Di Movavi – Ottienilo Oggi!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-conversion-change-mp3-files-into-high-quality-wav-or-aiff/"><u>Free Online Conversion: Change MP3 Files Into High-Quality WAV or AIFF</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nubia-red-magic-9-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nubia Red Magic 9 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-understanding-the-disparities-youtube-versus-dailymotion/"><u>In 2024, Understanding the Disparities YouTube Versus Dailymotion</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/m4vflv-moveavi/"><u>M4V/FLV フリーオンラインコンバート - MoveAVI</u></a></li>
+</ul></div>
 

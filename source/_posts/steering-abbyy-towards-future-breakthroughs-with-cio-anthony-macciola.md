@@ -1,7 +1,7 @@
 ---
 title: Steering ABBYY Towards Future Breakthroughs with CIO Anthony Macciola
-date: 2024-08-25T22:50:38.609Z
-updated: 2024-08-26T22:50:38.609Z
+date: 2024-10-03T19:53:16.649Z
+updated: 2024-10-05T17:18:36.742Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ee509985fa8ab0e5a1522d3ddaaa35b579b8ee6b6edaefb4d7205a810da0e219.jpg
@@ -75,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,7 +82,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>[New] Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vimeo-shorts-to-professional-mp4-a-comprehensive-tutorial/"><u>[New] In 2024, From Vimeo Shorts to Professional MP4 A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quick-tips-for-quality-animation-in-movie-maker-for-2024/"><u>[Updated] Quick Tips for Quality Animation in Movie Maker for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/advance-your-enterprise-services-with-smart-document-management-techniques/"><u>Advance Your Enterprise Services with Smart Document Management Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-sites-performance-using-cookiebot-driven-data-insights-for-targeted-seo-strategies/"><u>Boost Your Site's Performance Using Cookiebot-Driven Data Insights for Targeted SEO Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-analytics-for-smarter-digital-marketing-strategies/"><u>Cookiebot-Driven Analytics for Smarter Digital Marketing Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-and-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience and Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-tracking-solutions/"><u>Cookiebot-Enhanced User Tracking Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/customized-marketing-insights-with-the-help-of-cookiebot-technology/"><u>Customized Marketing Insights with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-scanning-and-conversion-transform-documents-into-pdfjpg-using-finereader-on-ios/"><u>Effortless Scanning & Conversion: Transform Documents Into PDF/JPG Using FineReader on iOS</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-read-only-filters-in-win-os/"><u>Eliminating Read-Only Filters in Win OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-computer-when-it-cant-see-your-hard-drive-solution-guide/"><u>How to Fix Your Computer When It Can't See Your Hard Drive (Solution Guide)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-se-2020-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone SE (2020) with 3 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-xcover-6-pro-tactical-editions-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy XCover 6 Pro Tactical Editions Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-workspace-adding-an-indicator-of-the-current-weather-on-windows-11-taskbar/"><u>Personalize Your Workspace: Adding an Indicator of the Current Weather on Windows 11 Taskbar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picart-strategies-for-stunning-image-purification-for-2024/"><u>PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transform-your-pdfs-and-jpeg-book-pages-into-editable-files-using-finereader-mobile-ios-compatible/"><u>Transform Your PDFs & JPEG Book Pages Into Editable Files Using FineReader Mobile - iOS Compatible</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-the-power-of-idp-understanding-advanced-document-management-by-abbyy/"><u>Unraveling the Power of IDP: Understanding Advanced Document Management by ABBYY</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

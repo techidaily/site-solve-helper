@@ -1,7 +1,7 @@
 ---
 title: Demystifying the Advanced Technology of ABYY IDP for Optimal Document Management
-date: 2024-08-25T22:46:45.560Z
-updated: 2024-08-26T22:46:45.560Z
+date: 2024-10-02T02:22:26.361Z
+updated: 2024-10-06T00:00:26.357Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9bd34731fb80416cf28c2a508.jpg
@@ -49,9 +49,24 @@ Pour comprendre ce qu’est l’IDP et comment il profite aux entreprises, il es
 * **L’IDP ne se limite pas à l’OCR ou à la capture de données.**  Bien que l’IDP intègre la technologie d’OCR et de capture des données, il ne s’agit que d’une partie d’un ensemble plus large de fonctionnalités qui ajoutent plus d’expertise et d’aide à la prise de décision pour traiter le contenu.
 * **L’IDP n’est pas la RPA (robotic process automation).**  La RPA consiste en une automatisation de base des tâches au sein de processus définis qui reposent sur les données. Le contenu étant une source de ces données, il est essentiel de contextualiser ce contenu avant d’en extraire les données pour différents processus en aval. La [RPA](https://tools.techidaily.com/abbyy/products/) ne peut le faire seule et il faut donc l’appui de l’IDP pour prendre des décisions pertinentes sur le contenu.
 * **L’IDP n’est pas la même chose que ChatGPT.** De nombreuses personnes pensent que ChatGPT est la même chose que l’OCR (reconnaissance optique de caractères), mais ce n’est pas le cas ; en fait, il s’agit d’un modèle de traitement du langage naturel (NLP) qui utilise des algorithmes de deep learning pour générer, sous forme de texte ressemblant à du texte rédigé par un humain, des réponses aux demandes des utilisateurs. ABBYY Vantage, pour sa part, est une [solution d’IDP](https://tools.techidaily.com/abbyy/products/) qui utilise la technologie OCR pour extraire les données de différents types de documents, y compris les [factures](https://tools.techidaily.com/abbyy/products/), les bons de commandes, les contrats, et plus encore.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## L’évolution de l’IDP  
     
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/intelligent-document-processing/14000_what-is-intelligent-document-processing-blog-post-scheme-graphics-fr.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comment fonctionne le traitement intelligent des documents ? 
 
@@ -59,14 +74,8 @@ L’IDP utilise des techniques de traitement du langage naturel (NLP) et de cont
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/intelligent-document-processing/idp-scheme-848x444-b-fr.png?h=444&w=848)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Grâce au [FastML](https://tools.techidaily.com/abbyy/products/), nouveau mécanisme d’apprentissage côté client, des méthodes visuelles et textuelles d’extraction sont appliquées, ce qui permet d’atteindre une plus grande précision dans l’extraction des données. Les entreprises qui cherchent à garder un avantage concurrentiel peuvent le faire en laissant de côté la charge de travail fastidieuse, transactionnelle et avec beaucoup de contenu, au profit du traitement intelligent des documents et de solutions intelligentes d’automatisation. Cela dégage du temps pour les salariés qui peuvent alors se consacrer à des tâches plus gratifiantes et offrir une meilleure expérience client.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Quels sont les avantages du traitement intelligent des documents ? 
 
 Dans tous les secteurs d’activité, les entreprises subissent la pression de devoir faire plus – et plus vite – avec moins de ressources qualifiées. En même temps, davantage d’entreprises se concentrent sur l’amélioration de l’expérience pour les clients et pour les employés et y voient la clef de l’amélioration de leur chiffre d’affaires, de leurs marges et de la fidélisation.[Le traitement intelligent des documents (IDP)](https://www.abbyy.com/fr/vantage/?itm%5Fsource=coprblog-fr "Intelligent document processing (IDP)") présente des avantages importants sur les deux aspects. En utilisant des compétences de document qui s’approchent de la façon dont les humains comprennent et gèrent les contenus, l’IDP offre les avantages suivants :
@@ -78,6 +87,13 @@ Dans tous les secteurs d’activité, les entreprises subissent la pression de d
 
 **[Related content: Contenu associé : Automatisation intelligente – rapport sur les leviers et les points faibles de l’onboarding client](https://tools.techidaily.com/abbyy/products/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comment l’association du process mining & de l’IDP permet de dégager plus de valeur ? 
 
 Le contenu n’existe pas au milieu du vide : il fait partie intégrante des processus métier qui alimentent le travail quotidien des entreprises, tous secteurs d’activité confondus. Si l’on considère plus largement l’importance du contenu pour la prise de décision et l’expérience client, se contenter d’incorporer le traitement intelligent des documents aux processus existants produira, au mieux, des résultats limités, principalement parce que ces processus ne seront pas faits pour cela. Aussi, pour que l’IDP soit une réussite, il faut l’appliquer à des processus numériques optimisés, et c’est là que le [process mining](https://tools.techidaily.com/abbyy/products/) entre en jeu.
@@ -85,10 +101,12 @@ Le contenu n’existe pas au milieu du vide : il fait partie intégrante des pro
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/intelligent-document-processing/process-intelligence-how-it-works-fr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Le [**process mining**](https://tools.techidaily.com/abbyy/products/) **aide les entreprises à « disséquer » leurs processus pour prendre des décisions intelligentes quant à où automatiser le traitement des documents. Il extrait les données d’horodatage des systèmes d’information et a recours à l’IA pour obtenir un modèle visuel du processus, du début à la fin, avec tous ses méandres.** Les détenteurs de ces processus sont alors en mesure de voir clairement comment le contenu irrigue un processus et ils obtiennent les informations dont ils ont besoin pour identifier les inefficiences qui pourraient entraver la réussite de la mise en place de l’IDP et pour y remédier.
 
 Servant de base à une automatisation réussie, le [process mining](https://tools.techidaily.com/abbyy/products/) fonctionne de concert avec l’IDP pour permettre aux entreprises de :
@@ -129,8 +147,18 @@ L’entreprise allemande internationale de [logistique](https://tools.techidaily
 Cette entreprise, qui a généré 100 milliards USD en 2022, avait précédemment un système de comptabilité très manuel pour traiter des centaines de milliers de factures chaque année. En mettant en place le traitement intelligent des documents ABBYY, elle a pu traiter automatiquement les factures de 124 fournisseurs, dans différentes langues — réduisant ainsi les erreurs et gagnant en productivité. Le groupe a ensuite étendu ce projet d’automatisation via l’IDP à d’autres départements pour profiter d’une augmentation incroyable de 70% de son efficience. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comment choisir le bon logiciel de traitement intelligent des documents 
 
 Avec tellement de bruit autour de l’intelligence artificielle et un paysage technologique en constante évolution, choisir le bon logiciel de traitement intelligent des documents est une décision capitale pour vous assurer d’être sur les bons rails, pour une transformation numérique optimale de vos processus métier. Voici quelques points essentiels à prendre en compte. 
@@ -142,10 +170,6 @@ Avec tellement de bruit autour de l’intelligence artificielle et un paysage te
 * **3\. Cherchez une solution répondant à vos exigences.**  
  Une fois que vous aurez défini vos besoins spécifiques, il sera plus facile de trouver une solution répondant à vos contraintes. Par exemple, il se peut que vous ayez des données dans différentes langues, ayant besoin d’être traduites avant d’être analysées ou transmises à un autre système. Il peut y avoir des consignes strictes pour le respect de la vie privée dans l’utilisation des données ; dans ce cas, les fonctionnalités d’authentification et de validation de votre plateforme d’IDP seront une priorité. La classification et l’intégration des données sont aussi un élément important pour le transfert automatique vers les workflows existants. L’IDP peut classer les documents en catégories prédéfinies pour organiser et prioriser la charge de travail. Par exemple, il peut trier les demandes par date ou classer les emails dans différents dossiers en fonction de leur contenu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## L’avenir du traitement des documents 
 
 Le traitement intelligent des documents offre aux entreprises un grand nombre d’avantages financiers — s’il est mis en place de façon stratégique, en tant que contributeur essentiel à l’expérience client, et si les processus sont construits en fonction de lui. En commençant par exploiter au mieux le process mining et en posant des bases solides pour sa mise en œuvre, les entreprises peuvent engranger tous les bénéfices de l’IDP, y compris des coûts réduits, une amélioration de l’efficacité, de la conformité réglementaire, ainsi que de l’expérience client et salarié. 
@@ -160,9 +184,6 @@ Avec [Vantage](https://tools.techidaily.com/abbyy/products/), il est possible de
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foire aux questions 
 
 [Quelle est la différence entre l’IDP et l’OCR ?](https://tools.techidaily.com/abbyy/products/)
@@ -261,8 +282,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +289,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-crafting-winning-collaboration-plans-on-youtube/"><u>[New] 2024 Approved Crafting Winning Collaboration Plans on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-psp-emulator-ios-top-5-picks-on-2023/"><u>[New] 2024 Approved PSP Emulator iOS Top 5 Picks on 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-video-privacy-measures-blurring-and-concealing-details/"><u>[New] 2024 Approved Video Privacy Measures Blurring and Concealing Details</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-no-cost-countdown-trackers-for-2024/"><u>[New] Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-write-a-hit-podcast-script-10plus-examples-revealed/"><u>2024 Approved How to Write a Hit Podcast Script (10+ Examples Revealed)</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ipad-dvd-5/"><u>安心・使いやすくてスマートな iPad DVD再生ガイド - 上位5選！</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-xr21-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia XR21</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dive-into-the-world-of-soft-news-with-wonderfox-the-top-source-for-gentle-updates-and-stories/"><u>Dive Into the World of Soft News with WonderFox - The Top Source for Gentle Updates & Stories</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-your-favorite-tv-series-and-episodes-enjoy-unlimited-offline-viewing/"><u>Download Your Favorite TV Series and Episodes: Enjoy Unlimited Offline Viewing</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/easy-steps-to-transform-your-pva-videos-into-mp4-format-effortlessly/"><u>Easy Steps to Transform Your PVA Videos Into MP4 Format Effortlessly</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/guide-to-converting-aac-files-into-m4r-format-offline-or-online/"><u>Guide to Converting AAC Files Into M4R Format Offline or Online</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-load-your-m4a-sound-clips-onto-the-audacity-platform-efficiently/"><u>How to Load Your M4A Sound Clips Onto the Audacity Platform Efficiently</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevating-visual-content-a-guide-to-adding-descriptions-on-instagram/"><u>In 2024, Elevating Visual Content A Guide to Adding Descriptions on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/master-the-fixes-solving-problems-with-non-playable-videos-on-android-phones/"><u>Master the Fixes: Solving Problems with Non-Playable Videos on Android Phones</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mastering-the-art-of-video-mosaics-techniques-and-tips-for-stunning-results/"><u>Mastering the Art of Video Mosaics: Techniques and Tips for Stunning Results</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-blueprint-for-finding-hidden-youtube-files-for-2024/"><u>The Insider's Blueprint for Finding Hidden YouTube Files for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fb/"><u>うまくいかないFB動画：トラブルシューティングのコツとヒント</u></a></li>
+</ul></div>
 

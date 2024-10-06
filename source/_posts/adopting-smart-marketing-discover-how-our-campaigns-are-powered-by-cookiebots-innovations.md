@@ -1,7 +1,7 @@
 ---
 title: "Adopting Smart Marketing: Discover How Our Campaigns Are Powered by Cookiebot's Innovations"
-date: 2024-08-25T22:49:52.825Z
-updated: 2024-08-26T22:49:52.825Z
+date: 2024-10-04T16:28:17.729Z
+updated: 2024-10-05T19:12:46.571Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
@@ -28,6 +28,13 @@ Transportation & Logistics | Accounts Payable Automation
 #### Customer Overview
 
 ![East Midlands Railway](https://static2.abbyy.com/abbyycommedia/31982/03c-emr-logo-182x50.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | East Midlands Railway                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------- |
@@ -85,9 +92,23 @@ ABBYY’s intelligent automation platform is the only solution that automates th
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY solutions for accounts payable automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY Solutions for Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -100,8 +121,12 @@ ABBYY’s intelligent automation platform is the only solution that automates th
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -114,8 +139,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +146,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[New] 2024 Approved Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>[New] Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726228115118-movavipng/"><u>「MovaviのようなフリーウェブベースのPNG転換サービス」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-much-money-does-mr-beast-make/"><u>2024 Approved How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-profit-power-for-the-uninitiated-top-13-income-tips-on-reddit/"><u>2024 Approved Profit Power for the Uninitiated! Top 13 Income Tips on Reddit</u></a></li>
+<li><a href="https://article-files.techidaily.com/audiovisual-decision-making-is-podcast-or-youtube-more-appealing/"><u>Audiovisual Decision-Making Is Podcast or YouTube More Appealing?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/beste-kostenlose-untertitelungsprogramme-fur-das-jahr-2024/"><u>Beste Kostenlose Untertitelungsprogramme Für Das Jahr 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/can-instant-subscription-lead-to-higher-watch-time/"><u>Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-and-running-an-uncensored-gpt-clone-a-step-by-step-tutorial-for-windows-users-with-freedomgpt/"><u>Creating and Running an Uncensored GPT Clone: A Step-by-Step Tutorial for Windows Users with FreedomGPT</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/creating-slow-motion-videos-effortlessly-with-movavi/"><u>Creating Slow-Motion Videos Effortlessly with Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/discover-the-ultimate-7-automatic-video-editing-tools-for-flawless-videa-projects/"><u>Discover the Ultimate 7 Automatic Video Editing Tools for Flawless Videa Projects!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortlessly-convert-avi-videos-to-mov-on-the-web-for-free-a-step-by-step-guide/"><u>Effortlessly Convert AVI Videos to MOV on the Web for Free – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-chivalry-2-crashing-issues-solutions-found/"><u>How to Fix Chivalry 2 Crashing Issues - Solutions Found</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-glitches-with-samsung-tv-applications-a-users-guide/"><u>Overcoming Glitches with Samsung TV Applications: A User's Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/trasforma-immagini-raw-cr2-in-formati-png-e-jpeg-con-convertitore-on-line-gratuito-da-movavi/"><u>Trasforma Immagini RAW CR2 in Formati PNG E JPEG Con Convertitore On-Line Gratuito Da Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/vrije-en-gemakkelijke-mkv-naar-flv-vervanging-ophefferen-online-gratuit-via-moviecraft/"><u>Vrije en Gemakkelijke MKV Naar FLV Vervanging Ophefferen Online - Gratuit via MovieCraft</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726227027185-flacm4a-movavi/"><u>オンライン音楽ファイルの容易なFLAC/M4A変換 - Movavi無料ツール</u></a></li>
+</ul></div>
 

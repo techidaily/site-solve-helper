@@ -1,7 +1,7 @@
 ---
 title: "OCR (Optical Character Recognition) Vs. IDP (Image-Based Document Processing): Understanding the Key Differences"
-date: 2024-08-25T22:50:15.348Z
-updated: 2024-08-26T22:50:15.348Z
+date: 2024-10-04T02:14:58.638Z
+updated: 2024-10-06T02:09:40.717Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be51903da30b25fcaaa8ed089bda.jpg
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
 OCRが導入される前は、データをコンピューターシステムに取り込むために、手作業でテキストを入力する必要がありました。OCRソフトウェアは、画像内の文字を分析し、それらを抽出し、機械が読み取り・編集可能なテキストに変換します。IDPは、OCRを組み込んで文字を認識し、人工知能（AI）と機械学習を使ってテキストを読み取り、解釈し、価値ある情報を抽出して、その情報を人間のように処理します。この技術は、例えば、請求書を確認して支払いのために転送するといったビジネスプロセスを完了するために使用されます。IDPは、定型・非定型を問わず、多様なコンテンツを扱っているため、文書主体のワークフロー全体を自動化することができます。これにより企業のデジタルトランスフォーメーションへの道が切り開かれます。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## OCRとは？
 
 **OCRは「[光学式文字認識（Optical Character Recognition）](https://tools.techidaily.com/abbyy/products/)」の略称です。OCR技術は、スキャンされた文書や画像のテキストを読み取り、分析・抽出し、機械が読み取り可能なテキストに変換するために使用されます。** 印刷された書籍や記事のデジタル化、請求書や領収書などの紙媒体の文書を扱う業務プロセスにおいて、テキスト内容を編集、検索、電子的に保存できるようにするために広く活用されています。OCR 技術は、インテリジェント文書処理 (IDP) など他のアプリケーションと連携して、より広範なインテリジェント オートメーション プロセスの一段階として機能します。
@@ -56,6 +63,13 @@ OCR 処理は、情報抽出したいファイルから始まります。この�
 
 OCRソリューションの一般的な使用例としては、大量の紙文書やデジタル文書をアクセシブルで検索可能なフォーマットに変換することで、政府や企業の規制へのコンプライアンスを促進する組織、検索、eDiscovery、データ分析のために紙の契約書を編集可能なデジタルフォーマットに変換する法律事務所、HIPAAコンプライアンスを維持するために患者の記録をコンピュータシステムに転送するヘルスケア企業などが挙げられます。 図書館や公文書館では、歴史的文書をデジタル形式で保存することで、スタッフが日々のさまざまな文書関連業務を効率的に行えるようにします。ソフトウェア開発会社では、コンテンツサービス、デジタルアーカイブ、文書管理システム（DMS）、エンタープライズコンテンツ管理（ECM）ソリューションなどを開発しています。
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## IDPとは？
 
 [インテリジェント文書処理](https://tools.techidaily.com/abbyy/products/)**(IDP) は**、あらゆる業界のあらゆるプロセスにおいて、ビジネス文書に埋め込まれたデータを自動的に取り込み、抽出・処理することで、文書のストレートスルー処理を可能にします。
@@ -63,8 +77,12 @@ OCRソリューションの一般的な使用例としては、大量の紙文�
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 仕組み
 
 IDPは、光学式文字認識（OCR）をを活用して、印刷物や手書き文字をテキスト化し、コンピューターが読み取れるフォーマットに変換します。さらに、人工知能（AI）と機械学習（ML）の技術を応用して、定型、準定型、非定型データの文書を人間のように読み取り、理解・処理します。
@@ -75,9 +93,6 @@ IDPは、機械学習モデルを使用して、文書をその内容、レイ�
 
 The [IDPプラットフォーム](https://tools.techidaily.com/abbyy/products/)は、ERPやCRMなど、さまざまなビジネスシステムに簡単に統合することができます。新しいローコード／ノーコードのプラットフォームを活用すれば、シチズンデベロッパー (非エンジニア開発者) でも、大規模な IT インフラ構築や保守をクライアント側で行う必要がなく、IDP テクノロジーを数日で導入することが可能です。
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### IDPのメリット
 
 あらゆる業界において、企業は、より少ないスキルリソースで、より多くのことを、より迅速にこなさなければならないというプレッシャーに直面しています。企業は収益、利益率、定着率を向上させる鍵として、顧客と従業員の体験を改善することに注力しています。インテリジェント文書処理（IDP）は、その両面で大きなメリットをもたらし、企業のデジタルトランスフォーメーションを成功に導きます。
@@ -94,11 +109,6 @@ IDPテクノロジーは、人間がドキュメントを理解し管理する�
 * **拡張性。**業務が拡大するにつれ、処理すべき文書の量も増加します。IDPソリューションは、容易に拡張ができ、より大量の文書を処理できるため、拡大の規模に応じて人件費を増加させる必要もありません。
 * **会社のワークフローに簡単に統合。**IDPは他のデジタルシステムやワークフローとの統合が可能で、社内各部署や組織全体のビジネスプロセスをシームレスかつ効率的にデジタル化できます。
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## OCRとIDPの違いとは？
 
 光学式文字認識（OCR）は古くから存在する技術で、文書キャプチャに関連する技術として知られています。OCR は主に、紙の書類、スキャンされた画像や写真からテキストを抽出して、コンピュータで編集可能なデジタルテキストに変換するために用いられます。
@@ -132,9 +142,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 インテリジェント文書処理で、デジタル化がうまくいかない原因となるボトルネックを解消することができます。[企業はIDP技術を利用して身元証明や](https://tools.techidaily.com/abbyy/products/)身元確認を行うことができ、顧客にとってはより簡単に、企業にとってはより安全になります。IDPは、運転免許証やパスポートのようなID文書、あるいは銀行取引明細書や公共料金請求書のような住所証明に必要な文書を取り込み、分類することができます。例えば、自動車局（DMV）が運転免許証の更新に使ったり、銀行が住宅ローンの申請に使ったりすることができます。
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## OCR vs IDP： 貴社のビジネスに最適な導入手段とは？
 
 **OCRは時にIDPプラットフォームと誤解されることがありますが、実際にはIDPの方がはるかに幅広い機能を備えています。**OCRは主に、画像や文書から全文を抽出し、コンピューター画面上で転送・編集できるようにすることに重点を置いています。さまざまなフォントスタイル、画像、手書きメモを認識し、編集・検索可能なデジタルテキストに変換します。デジタル・アーカイブ・ソリューションや、優れたテキスト認識、PDF変換、データキャプチャ機能を必要とする支援技術の開発を目指す企業には、OCRソリューションが最適です。[ABBYYのOCRソフトウェア開発キット](https://tools.techidaily.com/abbyy/products/)（SDK）を使用して、優れた文書キャプチャ機能を得ることができます。
@@ -142,6 +149,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 **IDPはOCR技術を包含していますが、人間のようにテキストを分析・解釈できる点において、さらに一歩進んでいます。** 自然言語処理、機械学習、人工知能などの高度な技術を駆使し、文書の内容をより包括的に理解します。したがって、IDPは単にテキストを抽出するだけでなく、文脈の理解、データの検証、発見した情報に基づく意思決定を可能にします。IDPは、高度な文書処理、ワークフローの自動化、コンテンツに基づく意思決定を必要とする組織に適しています。[ABBYY Vantage](https://tools.techidaily.com/abbyy/products/)のような新しいローコード／ノーコードソリューションを使用することで、企業は事前に学習されたすぐに使用可能な文書処理モデルが搭載されたIDPを導入することができます。あるいは、文書の種類やビジネスニーズに固有の要件に基づいて独自の抽出モデルを迅速かつ簡単に作成することも可能です。
 
 [デモを申し込む](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## よくある質問
 
@@ -184,8 +198,12 @@ OCR（光学式文字認識）とIDP（インテリジェント文書処理）�
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Slavena Hristova
 
 ABBYY Vantageグループ、 製品マーケティングディレクター
@@ -194,9 +212,6 @@ ABBYY Vantageグループ、 製品マーケティングディレクター
 
 [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/)でスラベナと繋がりませんか。
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### いいね、シェア、再投稿
 
 Share 
@@ -251,8 +266,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +273,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-high-performance-gpus-for-4k-vision/"><u>[New] 2024 Approved High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-can-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[Updated] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>[Updated] The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensuring-complete-file-removal-in-windows-11-without-recovery/"><u>Ensuring Complete File Removal in Windows 11 Without Recovery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-getting-rid-of-the-ai-copilot-add-on-from-windows-11-computers/"><u>Expert Tips for Getting Rid of the AI Copilot Add-On From Windows 11 Computers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-s24-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy S24 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-for-enhanced-user-experience-and-compliance/"><u>Leveraging Cookiebot for Enhanced User Experience and Compliance</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-technology-for-optimized-online-presence-and-seo-success/"><u>Leveraging Cookiebot Technology for Optimized Online Presence and SEO Success</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/master-the-art-of-enhancing-site-pages-for-maximum-online-discoverability/"><u>Master the Art of Enhancing Site Pages for Maximum Online Discoverability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-copilot-tips-and-tricks-to-craft-distinctive-ai-artwork/"><u>Mastering Microsoft Copilot: Tips and Tricks to Craft Distinctive AI Artwork</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/new-study-reveals-uk-workers-spend-more-than-40-days-annually-on-replicable-tasks-opportunity-for-automation-unlocked/"><u>New Study Reveals UK Workers Spend More Than 40 Days Annually on Replicable Tasks - Opportunity for Automation Unlocked</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-web-analytics-and-personalization-using-the-advanced-cookiebot-solution/"><u>Optimize Web Analytics and Personalization Using the Advanced Cookiebot Solution</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-advanced-automated-data-collection-the-power-of-cookiebot/"><u>Optimized with Advanced Automated Data Collection: The Power of Cookiebot</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology/"><u>Optimized with Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-boost-your-online-traffic/"><u>Optimized with Cookiebot Technology: Boost Your Online Traffic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-role-of-burst-mode-in-action-sports-filming-for-2024/"><u>The Role of Burst Mode in Action Sports Filming for 2024</u></a></li>
+</ul></div>
 

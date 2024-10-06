@@ -1,7 +1,7 @@
 ---
 title: "ビール業界リーダーのカールスバーグ: ABBYY 人工知能OCRツールを導入決定"
-date: 2024-08-25T22:47:50.804Z
-updated: 2024-08-26T22:47:50.804Z
+date: 2024-10-02T21:15:12.337Z
+updated: 2024-10-05T22:17:05.538Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac907d2d7a06d83968e5eaef1.jpg
@@ -35,6 +35,19 @@ ABBYY のグローバル・チャネル・チーフであるニール・マー�
 
 ABBYYが提供するインテリジェント・プロセス・オートメーション・プラットフォームには、業界をリードするIDP、プロセスマイニング、およびタスクマイニングソリューションが含まれています。これらには、AIを適用して高速かつシンプルな方法でドキュメントを理解する業界初のローコード／ノーコードプラットフォーム「[ABBYY Vantage（以下、Vantage）](https://tools.techidaily.com/abbyy/products/)」が含まれます。Vantageは、ドキュメントを読み取り、理解し、洞察を抽出するスキルを提供することで、今日のデジタルワーカーとプロセスをよりスマートにし、企業のデジタル変革加速化を支援します。「[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)」は、最新の人工知能（AI）を使用した高度なプロセスマイニングとタスクマイニング技術を搭載しています。これにより、企業は、業務のインタラクティブなデジタルツインを自動的に構築し、リアルタイムで分析、ボトルネックを特定、将来の結果を予測し、技術投資の意思決定を容易にすることができます。詳細については、下記をご覧ください。<https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>。
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -48,17 +61,12 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -74,8 +82,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +89,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-chucklecreators-sign-up-for-fun-filmmaking/"><u>[Updated] ChuckleCreators Sign Up for Fun Filmmaking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-make-a-memorable-impact-with-youtubes-minis-for-2024/"><u>[Updated] How to Make a Memorable Impact with Youtube's Minis for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshot-audio-techniques-for-professional-editors/"><u>[Updated] InShot Audio Techniques for Professional Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>[Updated] Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/embracing-a-digital-future-psa-security-network-enhances-operations-with-electronic-accounts-payable-system/"><u>Embracing a Digital Future: PSA Security Network Enhances Operations with Electronic Accounts Payable System</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/empowering-websites-with-customized-interactions-through-cookiebot-technology/"><u>Empowering Websites with Customized Interactions Through Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-digital-marketing-with-cookiebot-technology-integration/"><u>Enhance Digital Marketing with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fuel-your-online-presence-with-advanced-cookiebot-analytics-solutions/"><u>Fuel Your Online Presence with Advanced Cookiebot Analytics Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harnessing-the-power-of-cookiebot-technology/"><u>Harnessing the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g73-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G73 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c67-4g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C67 4G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-upgrade-the-essence-of-windows-11-installation/"><u>Uncomplicated Upgrade: The Essence of Windows 11 Installation</u></a></li>
+</ul></div>
 

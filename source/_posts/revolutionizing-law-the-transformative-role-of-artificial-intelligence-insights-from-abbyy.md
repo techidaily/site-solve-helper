@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Law: The Transformative Role of Artificial Intelligence - Insights From ABBYY"
-date: 2024-08-25T22:50:23.504Z
-updated: 2024-08-26T22:50:23.504Z
+date: 2024-10-02T22:06:35.808Z
+updated: 2024-10-05T21:41:12.295Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
@@ -48,6 +48,13 @@ Michael Simon
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +110,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,7 +117,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-hit-the-airwaves-with-instagram-lives/"><u>[New] How to Hit the Airwaves with Instagram Lives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[New] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-lost-connection-to-wi-fi-on-windows-11/"><u>[REPAIRED] Lost Connection to Wi-Fi on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-the-features-and-uses-of-chatgpt-copilot/"><u>A Comprehensive Guide to the Features and Uses of ChatGPT Copilot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-overview-where-does-verizon-stand-in-todays-5g-ecosystem/"><u>A Comprehensive Overview: Where Does Verizon Stand in Today's 5G Ecosystem?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-guide-to-action-screening-saving/"><u>Essential Guide to Action Screening Saving</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-personalization-and-insights/"><u>Harness the Power of Cookiebot for Superior Website Personalization and Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/heading-up-abbyy-europe-christian-marquardt-spearheads-revolutionary-newchannel-platform/"><u>Heading Up ABBYY Europe: Christian Marquardt Spearheads Revolutionary NewChannel Platform</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/lance-by-abbyly-joining-the-worldwide-alliance-for-modern-trade-solutions-and-partner-opportunities/"><u>Lance by Abbyly - Joining the Worldwide Alliance for Modern Trade Solutions and Partner Opportunities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-your-images-with-the-best-overlay-apps-for-ios-and-android-for-2024/"><u>Master Your Images with the Best Overlay Apps for iOS & Android for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-the-new-ciso-at-abbyy-introducing-paul-nizov-to-our-leadership-team/"><u>Meet the New CISO at ABBYY: Introducing Paul Nizov to Our Leadership Team</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spot-the-difference-real-vs-fake-why-theres-no-official-chatgpt-for-windows-users/"><u>Spot the Difference: Real Vs. Fake - Why There's No Official ChatGPT for Windows Users</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/streamlining-your-claims-management-the-revolutionary-techniques-from-abbeyys-latest-white-paper/"><u>Streamlining Your Claims Management: The Revolutionary Techniques From ABBEYY's Latest White Paper</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-digital-twins-an-in-depth-guide-from-abbyy-perspectives/"><u>Understanding Digital Twins: An In-Depth Guide From ABBYY Perspectives</u></a></li>
+</ul></div>
 

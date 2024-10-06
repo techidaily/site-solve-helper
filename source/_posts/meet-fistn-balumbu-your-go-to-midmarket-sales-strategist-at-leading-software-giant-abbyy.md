@@ -1,7 +1,7 @@
 ---
 title: Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY
-date: 2024-08-25T22:50:37.560Z
-updated: 2024-08-26T22:50:37.560Z
+date: 2024-10-03T18:58:15.339Z
+updated: 2024-10-06T04:44:52.832Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
@@ -29,20 +29,28 @@ I am a Mid-Market Sales Executive. I manage the southwest region which consist o
 
 I believe there is a lot of untapped potential in the mid-market region right now. Companies are climbing out of COVID pitfalls, looking for solutions to better prepare them for the future and the next pandemic. It’s rewarding to close a deal that helps a company solve a pain point while saving money. This is what excites me about my day-to-day tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What was your previous experience before ABBYY?
 
 Interestingly enough, prior to joining ABBYY, I worked as an Associate Manager Site Merchandising for Walmart's women's department e-commerce website. I was responsible for the imagery and taxonomy of the women’s clothing section. Prior to that, I also worked in e-commerce, but in a different role as a computer hardware and software sales manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Your top advice to someone working in sales?
 
 I’ve learned that it is best to sell a solution to the customer’s pain point rather than a product. Ask a lot of questions and listen to your customer. Seek the assistance of your colleagues as needed, as you may find more success when working as a team.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Do you have any hobbies?
 
 I am a big sports fan and enjoy competing in obstacle courses. You can find me rooting for the San Francisco 49ers, Golden State Warriors and Oakland A’s - my 3 major US sports teams.
@@ -54,11 +62,12 @@ I also enjoy kayaking, and love grilling on the BBQ, as well as many more outdoo
 ![Megan and Fiston](https://static1.abbyy.com/abbyycommedia/34039/fistonbalumbu-meagan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
+
 ## What's your party trick?
 
 I don’t know if I can answer this as I am now married! Just kidding. I simply enjoy having a good time.
@@ -71,9 +80,6 @@ I don’t have any kids, so I would say the wellbeing of my extended family.
 
 That no-one goes to bed hungry by choice or has to sleep outside by choice. I would like those of us who have been blessed to do more to help our fellow human beings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What’s your pet peeve?
 
 Selfishness. Whether it be knowledge, ability, monetary or anything else, we should share what we can with each other especially with those less fortunate. We need to be mindful that not everyone has been dealt the same cards.
@@ -85,10 +91,12 @@ Selfishness. Whether it be knowledge, ability, monetary or anything else, we sho
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -143,8 +151,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +158,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/1725285136851-digiarty/"><u>[公式] Digiartyソフトウェアの満足保証:返金ポリシー詳細解説</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-drones-unleashed-selecting-the-right-supplementary-gear/"><u>[New] 2024 Approved Drones Unleashed Selecting the Right Supplementary Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-film-smoother-companion-2022/"><u>[New] Handheld Film Smoother Companion 2022</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>[New] In 2024, Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[New] Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-photos-come-alive-with-accompanied-melodies/"><u>[Updated] 2024 Approved Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-the-nuances-of-ppt-voiceover-performance/"><u>2024 Approved Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-uncovering-the-currency-behind-product-discussions/"><u>2024 Approved Uncovering the Currency Behind Product Discussions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-marketing-automation-with-the-latest-cookiebot-technology/"><u>Enhanced Marketing Automation with the Latest Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-artificial-intelligence-in-risk-mitigation-strategies-for-banks-and-financial-firms/"><u>Leveraging Artificial Intelligence in Risk Mitigation Strategies for Banks and Financial Firms</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-technology-for-superior-site-personalization-and-tracking/"><u>Leveraging CookieBot Technology for Superior Site Personalization and Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/maximize-organic-visibility-using-cookiebot-technology-a-leading-edge-in-seo-strategies/"><u>Maximize Organic Visibility Using Cookiebot Technology: A Leading Edge in SEO Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-enhancing-user-experience-and-tracking/"><u>Optimized with Cookiebot Technology: Enhancing User Experience and Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/rapid-expansion-expected-study-predicts-50-increase-in-digital-workforce-over-next-24-months/"><u>Rapid Expansion Expected: Study Predicts 50% Increase in Digital Workforce Over Next 24 Months</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/smart-business-tactics-leveraging-customer-insight-for-success/"><u>Smart Business Tactics: Leveraging Customer Insight for Success</u></a></li>
+</ul></div>
 

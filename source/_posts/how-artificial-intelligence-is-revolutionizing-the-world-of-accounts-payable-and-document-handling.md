@@ -1,7 +1,7 @@
 ---
 title: How Artificial Intelligence Is Revolutionizing the World of Accounts Payable and Document Handling
-date: 2024-08-25T22:46:28.427Z
-updated: 2024-08-26T22:46:28.427Z
+date: 2024-10-04T22:24:40.086Z
+updated: 2024-10-05T23:23:38.670Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285f3160a9b70eb170ae6406f1.jpg
@@ -20,6 +20,13 @@ June 07, 2023
 ![](https://static3.abbyy.com/abbyycommedia/37275/abbyy-fic-podcast-maxime-848x444.png) 
 
 Modern finance is broken, forcing finance and accounting teams to work like it was in 1985 (the year Excel was invented). In this podcast episode, ABBYY thought leader Maxime Vermeir joins Jake Jones, Multimedia Producer and Brand Influencer at [Zone & Co](https://www.zoneandco.com/company). on the Finance in the Clouds podcast. This discussion covers how artificial intelligence (AI), machine learning, intelligent document processing (IDP), and optical character recognition (OCR) work together to automate your invoice processing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Episode transcript
 
@@ -67,9 +74,6 @@ From your perspective and from ABBYY's perspective, how can OCR, invoice scannin
 
 And for that, you need to have good insights into what your businesses are doing. And especially finance leaders need elevate the conversation in thinking about what's driving your team; what value is my team delivering? Is that entering data—or is that thinking about our processes delivering the accounting, giving insights to the business? I think it's the latter. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### The Changing Role of the Finance Leader
 
 ABBYY Chief Financial Officer James Ritter shares insights on how finance leaders can adapt to the changing business landscape with the help of intelligent automation.
@@ -111,8 +115,12 @@ A lot of great conversation today, Max. But before we go, is there anything else
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -122,22 +130,27 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -190,8 +203,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +210,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-dslrs-place-among-mirrorless-cameras-for-videos/"><u>[New] In 2024, DSLR's Place Among Mirrorless Cameras for Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-preserving-the-pixels-how-to-download-animated-tweets-from-twitter/"><u>[Updated] 2024 Approved Preserving the Pixels How To Download Animated Tweets From Twitter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-become-a-9gag-meme-connoisseur-with-these-simple-steps-for-2024/"><u>[Updated] Become a 9GAG Meme Connoisseur with These Simple Steps for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-google-pixel-7a-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Google Pixel 7a Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-moto-g84-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Moto G84 5G Device SIM</u></a></li>
+<li><a href="https://video-capture.techidaily.com/echoharvest-app-reviews-step-by-step-guide/"><u>EchoHarvest App Reviews Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/guide-avant-premier-les-meilleures-techniques-pour-telecharger-av1-codec-sous-windows-11/"><u>Guide Avant-Premier: Les Meilleures Techniques Pour Télécharger AV1 Codec Sous Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-gt-5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted GT 5 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-easy-guide-preserve-your-dvds-original-quality-with-a-faster-backup-process/"><u>Quick and Easy Guide: Preserve Your DVDs' Original Quality with a Faster Backup Process!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transform-your-media-step-by-step-guide-to-enhancing-video-quality-from-hd-to-uhd-on-windows-10-or-macos/"><u>Transform Your Media: Step-by-Step Guide to Enhancing Video Quality From HD to UHD on Windows (10) or macOS</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-guide-converting-dvds-to-high-quality-h265-mp4-format/"><u>Ultimate Guide: Converting DVDs to High-Quality H.265 MP4 Format</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-tutorial-for-enabling-hevc-h265-encoding-in-handbrake-software/"><u>Ultimate Tutorial for Enabling HEVC H.265 Encoding in HandBrake Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/visual-learning-experience-quick-edit-tips-for-educators-for-2024/"><u>Visual Learning Experience Quick Edit Tips for Educators for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winx-mediatrans-top-app-for-seamless-transfer-to-iphone-and-ipad/"><u>WinX MediaTrans: Top App for Seamless Transfer to iPhone & iPad</u></a></li>
+</ul></div>
 

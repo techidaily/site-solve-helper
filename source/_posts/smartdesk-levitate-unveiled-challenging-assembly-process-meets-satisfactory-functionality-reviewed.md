@@ -1,7 +1,7 @@
 ---
 title: "SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed"
-date: 2024-09-10T10:10:06.918Z
-updated: 2024-09-11T10:10:06.918Z
+date: 2024-09-29T22:07:32.056Z
+updated: 2024-10-05T18:23:08.202Z
 tags:
   - product-reviews
 categories:
@@ -9,35 +9,7 @@ categories:
 thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cfd7b5126052dee0bd06c1845.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -48,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 [Autonomous SmartDesk Levitate](http://www.autonomous.ai/standing-desks/smartdesk-levitate) really missed the mark by swapping out a traditional standing desk control panel for an overly sensitive, poorly placed motion sensor that adjusts the desk based on hand movements. Rather than optimizing space, the sensor takes too much away and actively intrudes on the user experience.
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Autonomous SmartDesk Levitate
 
@@ -82,20 +40,6 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 [$999 at Autonomous](https://www.autonomous.ai/standing-desks/smartdesk-levitate) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Price and Availability
 
@@ -137,25 +81,18 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 Expand 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Assembly: More of a Chore Than Needed
 
  Before getting to the meat of it, assembly is key when considering office furniture. I have assembled [quite a few standing desks](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-fe-by-drfone-android/) over the past year alone. I'm used to the flow and, for the most part, can do it without much assistance from the manual. That was not the case with the SmartDesk Levitate. I question going with four individual legs, as that added more opportunity for a malfunction and made the assembly that much more difficult.
 
 ![Autonomous SmartDesk Levidesk out of packaging and ready for assembly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-assembly.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -171,19 +108,12 @@ Mark LoProto / How-to Geek
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  The Levitate Sensor: Who Asked for This?
 
@@ -195,20 +125,6 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
@@ -219,9 +135,29 @@ Mark LoProto / How-to Geek
 
  The button also adjusts the desk, but less efficiently than a control panel with directional arrows. Most of the time, pressing it would only move the desk in one direction until it reached the maximum or minimum height. Then, it would shift gears and move in the opposite direction. You are supposed to use the sensor, so I get why this isn’t some fine-tuned mechanic. Still, I think a secondary button to allow for intuitive push-button height adjustment is necessary for the best user experience.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Built-In Power Strip: A Neat But Intrusive Feature
 
 ![Autonomous SmartDesk Levidesk Power Strip with USB and AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-power-strip.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -255,8 +191,6 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +198,24 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-dynamic-content-presentation-via-fb-slideshows/"><u>[New] 2024 Approved Dynamic Content Presentation via FB Slideshows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-evaluating-every-aspect-of-du-recorder-design-and-function-for-2024/"><u>[New] Evaluating Every Aspect of Du Recorder Design & Function for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-techniques-for-audience-engagement-on-twitch-for-2024/"><u>[Updated] Cutting-Edge Techniques for Audience Engagement on Twitch for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-innovative-affordable-online-srt-services-exposed/"><u>[Updated] Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavi-aacmov/"><u>「Movaviで簡単! オンライン無料AAC形式へのMOVファイル変換」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-your-partner-in-pushing-boundaries-of-content/"><u>AI: Your Partner in Pushing Boundaries of Content</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-best-software-solutions-for-fixing-damaged-pictures-pcmac/"><u>Discover the Best Software Solutions for Fixing Damaged Pictures (PC/Mac)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-your-amd-ryzen-processor-now-available/"><u>Download Updated Drivers for Your AMD Ryzen Processor - Now Available</u></a></li>
+<li><a href="https://facebook.techidaily.com/elite-english-soccer-clubs-ditch-social-networks-against-online-violence/"><u>Elite English Soccer Clubs Ditch Social Networks Against Online Violence</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuit-online-convertisseur-pour-les-fichiers-dts-en-format-m4v-movavi/"><u>Gratuit Online Convertisseur Pour Les Fichiers DTS en Format M4V - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuito-e-veloce-come-trasformare-i-file-raw-in-formati-di-immagini-jpg-con-il-convertitore-ideale-per-google-ranking/"><u>Gratuito E Veloce: Come Trasformare I File RAW in Formati Di Immagini JPG Con Il Convertitore Ideale per Google Ranking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ideal-online-daha-buyuk-bir-yapayici-olan-video-boyutunu-belirleme-uzerine-arastirma-ve-cozumler/"><u>İdeal Online Daha Büyük Bir Yapayıcı Olan Video Boyutunu Belirleme Üzerine Araştırma Ve Çözümler</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/methods-to-access-previous-facebook-journeys-mobiledesktop/"><u>Methods to Access Previous Facebook Journeys (Mobile/Desktop)</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavi-online-convertir-de-forma-gratuita-archivos-wma-a-formato-ogg/"><u>Movavi Online - Convertir De Forma Gratuita Archivos WMA a Formato Ogg</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavivobmp4/"><u>Movavi提供的免費線上解決方案：直覺式VOB至MP4格式轉換器</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-5-ideale-videostile-voor-de-optimalisatie-van-uw-youtube-content-onderzoek-door-movavi/"><u>Top 5 Ideale Videostile Voor De Optimalisatie Van Uw YouTube-Content: Onderzoek Door Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transforma-tu-video-quicktime-qt-en-format-mov-gratuito-en-linea-usando-movavi/"><u>Transforma Tu Video QuickTime (QT) en Format MOV Gratuito en Línea Usando Movavi</u></a></li>
+</ul></div>
 

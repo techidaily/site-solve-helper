@@ -1,7 +1,7 @@
 ---
 title: Next-Gen Intelligent Doc Analysis with Newly Released ABBYY Vantage V2.1
-date: 2024-08-25T22:46:30.616Z
-updated: 2024-08-26T22:46:30.616Z
+date: 2024-09-29T21:53:34.565Z
+updated: 2024-10-06T05:35:11.305Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e970aa7acf9eb30479f71c91.jpg
@@ -29,6 +29,13 @@ Now with the release of [Vantage v2.1](https://tools.techidaily.com/abbyy/produc
 
 Let me walk you through some of the key highlights.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Putting the power of AI into the hands of all end users, developers, and partners
 
 The [Vantage v2.1 release](https://tools.techidaily.com/abbyy/products/) includes a variety of enhancements focused on making it easier for developers to build, for end users to find and use simple automations, and for partners to grow revenue streams while serving their clients better.
@@ -46,8 +53,12 @@ Training a skill and then reviewing the results got a lot easier with a redesign
 To get started, users of Vantage can access the FREE [online training and certifications](https://tools.techidaily.com/abbyy/products/) courses.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## New supply chain document skills
 
 No release of Vantage is complete without introducing a new set of pre-trained machine learning (ML) models delivered as document skills. In Vantage v2.1 we’ve added new out-of-the-box, production-ready skills for several documents that are common in supply chain.
@@ -63,9 +74,6 @@ A new set of framework skills for processing tax documents including 1098 and 10
 
 What’s important to point out about the trained skills is that these document skill models can be further trained by users based on their own customer documents. The power of continuously collecting documents and data and retraining the model is built into the Vantage human-in-the-loop capabilities. Once you publish a skill(s) into production and enable online learning, every time a human operator validates exceptions or makes corrections, that information is stored and used to update the learning model. Eventually, your document processes achieve a higher degree of accuracy and straight through processing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Marketplace growing momentum
 
 We first launched the marketplace in August 2021, and since then, 30 more assets have been added by ABBYY and our partners. New assets include pre-trained skills, connectors, and solutions that are simple-to-use and accelerate the deployment of IDP projects. Expect this marketplace to lead the way into the future on how enterprises will want to start every document automation project.
@@ -76,9 +84,6 @@ Technology alliance partners like [Pipefy](https://tools.techidaily.com/abbyy/pr
 
 [Calling ISVs and Partners: Upskill Your Business Solutions to Intelligently Process Documents](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Advancing document skills training for the developer
 
 In this release, we have something for every type of user, including the skilled expert who understands the fine art of machine learning, natural language processing (NLP), and named entity recognition (NER). We are pleased to introduce the new Vantage Advanced Skill Designer (available in controlled release), a point-and-click design studio that opens the door to building out the processing pipeline of a trained document skill model.
@@ -86,11 +91,22 @@ In this release, we have something for every type of user, including the skilled
 ![Advanced Designer ABBYY Vantage interface](https://static1.abbyy.com/abbyycommedia/34963/14194-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The Advanced Skill Designer includes a set of activities for parsing address fields, training NLP for segmentation, or leveraging trained NER to extract entities like names, address, business, dates, and currency. An activity for defining data extraction for edge case document variations that machine learning is unable to pick up at a high degree of accuracy is also possible for a skilled user to create rules.
 
 All this means that no document is too challenging for Vantage to solve. If you have the human skill set, the new advanced designer will give you the tools to show off your expert skills and further developed trained document skills for your business groups.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Building out the delivery of a Cloud native platform with flexibility
 
@@ -100,9 +116,6 @@ Not to worry, Vantage was built from the very beginning around microservices and
 
 Today, organizations are looking for both enterprise software as a service (SaaS) to on-premise deployment models that are not going to turn things upside down and will fit into the new delivery modes that they are adopting. That is why in the v2.1.1 (due out end of December) we are making Vantage deployable in on-premise environments using Red Hat® OpenShift®.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get started today!
 
 As you can see, ABBYY has accomplished a lot since August 2021\. Going into 2022, expect to see much more innovation, with our release cadence being once a quarter. We will continue to focus on advancing our core AI technology while lowering the cost of implementation by focusing on delivering the best low-code / no-code IDP platform.
@@ -115,9 +128,6 @@ If you have a trial of Vantage in the Cloud today, you already have access to al
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Bill Galusha
 
 ### Like, share or repost
@@ -174,8 +184,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +191,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-game-time-capture-essential-tips-for-recording-sports/"><u>[New] 2024 Approved Game-Time Capture Essential Tips for Recording Sports</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leading-mp4-to-facebook-video-processor/"><u>[New] 2024 Approved Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-a-scintillating-trailer-tale/"><u>[Updated] In 2024, Crafting A Scintillating Trailer Tale</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-strategies-to-secure-best-youtube-collaborative-pairs/"><u>[Updated] Strategies to Secure Best YouTube Collaborative Pairs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-freier-high-definition-video-player-fur-die-wiedergabe-von-full-hd-und-hd-inhalten-720p/"><u>Download: Freier High-Definition Video Player Für Die Wiedergabe Von Full HD Und HD-Inhalten (720P)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-canon-pixma-tr8520-printer-drivers-for-windows-machines/"><u>Easy Installation Guide: Canon PIXMA TR8520 Printer Drivers for Windows Machines</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/holiday-celebration-win-a-free-xbox-dvd-player/"><u>Holiday Celebration: Win a Free Xbox DVD Player!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-ensure-smooth-video-playback-on-pcs-macs-android-devices-and-iphones/"><u>How to Ensure Smooth Video Playback on PCs, MACs, Android Devices & iPhones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/secure-your-exclusive-offer-premium-winx-mobile-phone-transformer-set-online-purchase-now/"><u>Secure Your Exclusive Offer: Premium WinX Mobile Phone Transformer Set Online Purchase Now</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-converting-your-vhs-tapes-into-digital-format-using-a-personal-computer/"><u>Step-by-Step Guide: Converting Your VHS Tapes Into Digital Format Using a Personal Computer</u></a></li>
+</ul></div>
 

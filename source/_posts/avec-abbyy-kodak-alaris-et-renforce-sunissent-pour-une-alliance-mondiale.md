@@ -1,7 +1,7 @@
 ---
 title: Avec ABBYY, Kodak Alaris Et Renforce S'unissent Pour Une Alliance Mondiale
-date: 2024-08-25T22:48:42.277Z
-updated: 2024-08-26T22:48:42.277Z
+date: 2024-10-02T01:52:37.041Z
+updated: 2024-10-05T19:06:30.463Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8fe3db6a194aec02ff3403057.jpg
@@ -33,6 +33,13 @@ Le scanner INfuse numérise rapidement des documents de tous types et transmet d
 
 Pour plus d'informations, consultez[AlarisWorld.com](https://www.alarisworld.com/?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=boilerplate).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À propos de la division Alaris de Kodak Alaris
 
 Kodak Alaris domine le marché des solutions de capture de données professionnelles qui simplifient les processus métier. S'appuyant sur des dizaines d'années d'innovation en science de l'image, notre [gamme primée de scanners](https://www.alarisworld.com/about-us/industry-recognition?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=boilerplate), de logiciels et de services est disponible partout dans le monde, au travers de notre réseau de partenaires commerciaux. Pour plus d'informations, rendez-vous sur [AlarisWorld.com](https://www.alarisworld.com/?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=boilerplate) et suivez-nous sur [@AlarisWorld](https://twitter.com/AlarisWorld).
@@ -40,22 +47,34 @@ Kodak Alaris domine le marché des solutions de capture de données professionne
 © 2022 Kodak Alaris Inc. TM/MC/MR : Alaris. Toutes les marques commerciales et les dénominations commerciales utilisées sont la propriété de leurs détenteurs respectifs. La marque commerciale et l'identité visuelle de Kodak sont utilisées sous licence acquise auprès de la société Eastman Kodak Company.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY permet aux entreprises d’appréhender de manière précise leurs process et contenus via sa plateforme d'[intelligence digitale](https://tools.techidaily.com/abbyy/products/). Les technologies d'ABBYY équipent plus de 5 000 entreprises, dont un grand nombre figurent dans le classement Fortune 500\. L’entreprise est reconnue pour ses solutions de pointe dans les domaines du [Content Intelligence](https://tools.techidaily.com/abbyy/products/) et du [Process Intelligence](https://tools.techidaily.com/abbyy/products/) qui ont pour vocation d’améliorer l'efficacité, la rentabilité et la compétitivité des entreprises ainsi que l’expérience client. ABBYY possède des bureaux dans 14 pays. Pour davantage d'informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Brooke Crowe
 
 [Brooke.Leone@kodakalaris.com](https://tools.techidaily.com/abbyy/products/)
@@ -68,8 +87,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +94,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-precision-guided-tour-unearthing-hidden-youtube-gems/"><u>[Updated] Precision-Guided Tour Unearthing Hidden YouTube Gems</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725287030538-2024/"><u>「2024新春旅遊プラン！次回の節分三連休に華やかな国外へ出発」</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/behebung-von-stottern-und-verzogerungen-bei-der-wiedergabe-von-mkv-dateien-unter-windows-und-macos/"><u>Behebung Von Stottern Und Verzögerungen Bei Der Wiedergabe Von MKV-Dateien Unter Windows Und macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-l2540dw-printer-software-for-windows-systems/"><u>Get the Latest Brother L2540DW Printer Software for Windows Systems</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/grandezza-e-qualita-superiore-con-compatibilita-gopro-per-video-a-risoluzione-4k2e7k/"><u>Grandezza E Qualità Superiore Con Compatibilità GoPro per Video a Risoluzione 4K/2.e7K</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pronunciation-pathways-from-canadian-twang-to-british-cockney/"><u>Pronunciation Pathways: From Canadian Twang to British Cockney</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/unable-to-retrieve-your-file-on-flipbuilder-solutions-for-smooth-access/"><u>Unable to Retrieve Your File on FlipBuilder? Solutions for Smooth Access</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/upscale-photos-and-videos-to-ultra-high-resolutions-4k-8k-10k-using-advanced-winxvideo-artificial-intelligence-technology/"><u>Upscale Photos & Videos to Ultra-High Resolutions (4K, 8K, 10K) Using Advanced WinxVideo Artificial Intelligence Technology</u></a></li>
+</ul></div>
 

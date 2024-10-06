@@ -1,27 +1,13 @@
 ---
 title: Long-Term Durability of a Biodegradable Phone Case - A 5-Month Experiment
-date: 2024-09-10T10:10:06.899Z
-updated: 2024-09-11T10:10:06.899Z
+date: 2024-10-01T16:00:07.096Z
+updated: 2024-10-06T00:11:57.884Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-being-held-by-a-human-hand.JPG
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Long-Term Durability of a Biodegradable Phone Case - A 5-Month Experiment
 
@@ -33,26 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Talk about long-term testing. It took me over five months to check whether [Bellroy’s Bio Phone Case](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU2002249&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fbio-phone-case%3Fcolor%3Dbiscuit%26material%3Dbio%5Fbased%5Fpolymer%26size%3Di14promax) would actually disintegrate. Surprisingly, when I pulled it out of the ground to check on its status, nothing had changed. It looked like it did when I buried it.
 
 ![Bellroy Bio iPhone 14 Pro Case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bellroy-bio-iphone-14-pro-case.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Bellroy Bio Phone Case
 
@@ -80,23 +46,16 @@ This super slim case protects your phone from the daily grind, and can be fully 
 
 [See at Amazon](https://www.amazon.com/Bellroy-Phone-Case-iPhone-compostable/dp/B0BDQ2PKRY?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002249&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbellroy-bio-phone-case%2F&asc%5Fcampaign=Authority) [See at Bellroy](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=43345&u1=UUhtgUeUpU2002249&murl=https%3A%2F%2Fbellroy.com%2Fproducts%2Fbio-phone-case%3Fcolor%3Dbiscuit%26material%3Dbio%5Fbased%5Fpolymer%26size%3Di14promax) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What’s the Bellroy Bio Case?
 
 ![Bellroy Bio Phone Case buried in dirt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-buried-in-dirt.JPG) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -110,19 +69,12 @@ Bellroy Bio Phone Case in the dirt in September 2023.
 
 ![Bellroy Bio Phone Case in dirt after being buried for five months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-in-dirt-after-being-buried-for-five-months.JPG) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -130,37 +82,16 @@ Bellroy Bio Phone Case in March 2024.
 
  After plopping the case in the ground I took of picture of it, both for a future comparison and to remember when and where I had buried it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  What Happened With the Bio Case?
 
 ![Bellroy Bio Phone Case with mud on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-with-mud-on-it.JPG) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -175,6 +106,13 @@ Tyler Hayes / How-To Geek
  Instead of focusing on the composting part, I read the scant composition description quoted above, that the case was not only biodegradable but that it was also safe enough not to leave any toxins behind. I guess I was focusing on the wrong parts. And maybe it’s just me, but it seems a little unlikely that most people have access to a compost bin or other appropriate facility.
 
  This isn’t some gotcha moment. It merely seemed implied that the Bio Phone Case could be disposed of anywhere outside, naturally, but it didn’t turn out that way. I might see if I can find someone with a compose bin and try again. Or maybe even this Bio Case is too much work to get rid of naturally.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sustainability in Tech Accessories
 
@@ -200,8 +138,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +145,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[New] In 2024, Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-to-webm-top-tier-conversion-applications-reviewed/"><u>[New] YouTube to WebM Top-Tier Conversion Applications Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-accessing-your-curated-music-lists-on-youtube/"><u>2024 Approved Accessing Your Curated Music Lists on Youtube</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/conversione-gratuita-da-ogg-a-mp3-online-movavi/"><u>Conversione Gratuita Da OGG a MP3 Online - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/geen-kosten-automatisch-konverteren-van-mp4-naar-avi-online-proficient-avi-bewerking-bij-movavi/"><u>Geen Kosten! Automatisch Konverteren Van MP4 Naar AVI Online - Proficiënt AVI-Bewerking Bij Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f23-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F23 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-x100-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo X100 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/m1v-file-conversion-to-mpeg-easy-and-free-methods-with-movavi/"><u>M1V File Conversion to MPEG: Easy and Free Methods with Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/m4v-a-mp4-gratuito-online-convertitore-movavi/"><u>M4V a MP4 Gratuito Online - Convertitore Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-unwanted-camera-request-errors-code-0xa00f4243/"><u>Removing Unwanted Camera Request Errors (Code 0xA00F4243)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-a-new-era-your-guide-to-windows-11-upgrade/"><u>Unveiling a New Era Your Guide to Windows 11 Upgrade</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website's User Experience with Customized Tracking"
-date: 2024-08-25T22:49:07.677Z
-updated: 2024-08-26T22:49:07.677Z
+date: 2024-10-01T04:25:08.471Z
+updated: 2024-10-06T02:59:16.893Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa582bc360a8483bf8c37d216.jpg
@@ -47,21 +47,41 @@ Bruce Orcutt, Chief Marketing Officer d'ABBYY
 
 Après avoir nommé récemment Bruce Orcutt au poste de CMO, ABBYY intensifie ses efforts de R&D grâce à l'intégration d'une nouvelle équipe composée d'ingénieurs expérimentés. Sous la direction de Patrick Jean, CTO/CPO d'ABBYY, l'équipe comprend Sanju Nair, VP des opérations produits et PMO, ainsi que les VP ingénierie Morgan Logue et Andy Wahrenberger.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### À PROPOS D’ABBYY
 
 ABBYY transforme vos données pour les mettre au service de l'entreprise. Nous combinons l'innovation et l'expérience pour transformer les informations issues de documents stratégiques en résultats exploitables et pertinents, dans plus de 200 langues et en temps réel. Nous permettons à plus de 10 000 entreprises dans le monde, y compris de nombreuses entreprises du classement Fortune 500, d'avoir un impact majeur là où cela compte le plus : l'expérience client, l'excellence opérationnelle et la compétitivité. ABBYY est une entreprise mondiale dont le siège social se trouve à Milpitas, en Californie, et qui dispose de bureaux dans 14 pays. ABBYY est le partenaire [officiel d’intelligente automation du club de football féminin d'Arsenal](https://tools.techidaily.com/abbyy/products/). Pour plus d'informations, consultez le site www.abbyy.com/company et rejoignez-nous sur [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware?ref%5Fsrc=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) et [Facebook](https://www.facebook.com/ABBYYsoft/?locale=fr%5FFR).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -77,8 +97,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +104,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-engineering-unique-tiktok-outro-animations/"><u>[New] Engineering Unique TikTok Outro Animations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-inauthentic-affection-impacts-your-feeds-credibility/"><u>[New] In 2024, How Inauthentic Affection Impacts Your Feed's Credibility</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289473643-mp4/"><u>動画容量小さく！MP4ファイルを圧縮する最も便利なテクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-a-course-for-connected-watches-with-gpts-six-keys/"><u>Charting a Course for Connected Watches with GPT's Six Keys</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/contagion-film-guide-how-to-legally-stream-or-download-the-complete-movie/"><u>Contagion Film Guide: How to Legally Stream or Download the Complete Movie</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/convertissez-un-dvd-regionalise-a-laide-de-contourner-le-code-regional-pour-windows-11-8-ou-7/"><u>Convertissez Un DVD Régionalisé À L'aide De Contourner Le Code Régional Pour Windows 11, 8 Ou 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-a1x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo A1x 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-rotation-video-setup/"><u>In 2024, Ultimate Rotation Video Setup</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/launch-cutting-edge-av1-encode-tool-ready-for-immediate-use-on-both-hardware-and-software-platforms/"><u>Launch: Cutting-Edge AV1 Encode Tool Ready for Immediate Use on Both Hardware and Software Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-between-innovation-and-standardization-a-guide-to-engaging-the-millennial-market-in-banking-and-finance-insights-from-abbyy/"><u>Navigating Between Innovation and Standardization: A Guide to Engaging the Millennial Market in Banking & Finance - Insights From ABBYY</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ottimo-decoder-dvd-gratuito-unisciti-alluso-senza-limitazioni-di-dvd-con-questo-strumento-libero/"><u>Ottimo Decoder DVD Gratuito: Unisciti All'uso Senza Limitazioni Di DVD Con Questo Strumento Libero</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/resolved-fixing-issues-with-file-playback-in-windows-media-player-on-windows-11-and-windows-10/"><u>Resolved: Fixing Issues with File Playback in Windows Media Player on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-10-motivations-why-you-should-ditch-facebook/"><u>Top 10 Motivations: Why You Should Ditch Facebook</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-rangierter-kostenloser-dvd-zu-mp3-konvertierungstool-fur-windows-and-macos-2023/"><u>Top-Rangierter Kostenloser DVD Zu MP3-Konvertierungstool Für Windows & macOS - 2023</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-winxvideo-ai-comprehensive-qanda-insights/"><u>Understanding WinxVideo AI: Comprehensive Q&A Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/visioncapture-prox-briefing-for-2024/"><u>VisionCapture ProX Briefing for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725290447784-x-dvd/"><u>ウィンX DVDリッパープラチナムの最新版情報: ダビング用強力ツール</u></a></li>
+</ul></div>
 

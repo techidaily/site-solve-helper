@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Payment Strategies - ABBYY Powers JLL Into the Top of CIO 100 with Innovative Source-to-Pay Solutions
-date: 2024-08-25T22:49:42.688Z
-updated: 2024-08-26T22:49:42.688Z
+date: 2024-09-28T23:07:20.603Z
+updated: 2024-10-05T16:17:24.092Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b07791104399fd4c0b5ca08b831fc4c.jpg
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 September 27, 2022
 
 ![](https://static1.abbyy.com/abbyycommedia/36021/15013_smm_cio-award_jll_linkedin_4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Helping the Fortune 500 company achieve organizational excellence has also won ABBYY recognition with CIO Magazine
 
@@ -38,8 +45,12 @@ It was an enormous project that achieved high automation goals and improved thei
 _Bruce Orcutt, SVP of Product Marketing at ABBYY_
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Let Intelligent Process Automation Work for You
 
 ABBYY’s [intelligent process automation platform](https://tools.techidaily.com/abbyy/products/) includes industry-leading intelligent document processing (IDP) and process mining and task mining solutions. These include [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/), the industry’s first low-code/no-code platform that applies AI to understand your documents in a fast and simple way. Vantage makes today’s digital worker and processes smarter by delivering skills that read, understand, and extract insights from documents, helping enterprises accelerate digital transformation.
@@ -53,8 +64,12 @@ ABBYY’s [intelligent process automation platform](https://tools.techidaily.com
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -109,8 +124,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +131,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-photo-browser-with-lightning-speed/"><u>[New] 2024 Approved Top Photo Browser with Lightning Speed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-simplified-social-media-sharing-youtube-to-facebook/"><u>[New] Simplified Social Media Sharing YouTube to Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-no-money-down-best-free-video-chat-platforms/"><u>[Updated] No Money Down? Best Free Video Chat Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-phantom-footprints-videography-review/"><u>[Updated] Phantom Footprints Videography Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>2024 Approved The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-ai-innovations-for-effective-web-data-retrieval/"><u>Advanced AI Innovations for Effective Web Data Retrieval</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/como-convertir-archivos-flac-en-formato-wmv-libremente-en-linea-con-movavi-paso-a-paso/"><u>Cómo Convertir Archivos FLAC en Formato WMV Libremente en Línea Con Movavi: Paso a Paso</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/descargue-y-transforme-su-video-3g2-directamente-en-mov-sin-costo-usando-el-convertidor-online-de-movavi/"><u>Descargue Y Transforme Su Video 3G2 Directamente en MOV Sin Costo Usando El Convertidor Online De Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/die-besten-aufzeichnungsprogramme-unter-windows-11-entdecken-empfehlungen-von-movavi/"><u>Die Besten Aufzeichnungsprogramme Unter Windows 11 Entdecken - Empfehlungen Von Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fai-il-tuo-download-gratuito-converti-file-dts-in-mp3-con-movietoast/"><u>Fai Il Tuo Download Gratuito: Converti File DTS in MP3 Con MovieToast</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-converter-ts-to-wmv-movavi/"><u>Free Online Converter: TS to WMV - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-video-transformer-effortlessly-convert-mp4-and-other-formats/"><u>Free Online Video Transformer: Effortlessly Convert MP4 & Other Formats</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y17s-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y17s without App | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-iphone-cinematography-ultimate-capture-additions/"><u>In 2024, Optimize iPhone Cinematography Ultimate Capture Additions</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>In 2024, The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/kostenloze-konvertie-van-3gp-naar-wav-audios-online-movavi/"><u>Kostenloze Konvertie Van 3GP Naar WAV-Audios Online - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavis-kostenloses-tool-fur-die-umwandlung-von-modify-in-mpeg-dateien-im-internet/"><u>Movavi's Kostenloses Tool Für Die Umwandlung Von MODIFY in MPEG Dateien Im Internet</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/scarica-e-converte-gratuitamente-file-wma-in-formato-m4v-con-movavi-online/"><u>Scarica E Converte Gratuitamente File WMA in Formato M4V Con Movavi - OnLine</u></a></li>
+</ul></div>
 

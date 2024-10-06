@@ -1,7 +1,7 @@
 ---
 title: Automated Data Collection Enabled by Cookiebot Technology
-date: 2024-08-25T22:46:36.062Z
-updated: 2024-08-26T22:46:36.062Z
+date: 2024-10-04T03:59:58.510Z
+updated: 2024-10-05T23:24:08.392Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac5579a7ef54ad52cac70e587e21.jpg
@@ -35,6 +35,13 @@ Drivers tend to use their iPhones as a sound system, navigation system or even d
 
 ![iOS iPhone at the Wheel siri](https://static1.abbyy.com/abbyycommedia/26285/ios-siri.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Do Not Disturb While Driving**
 
 Another useful feature that comes with iOS 11 is called Do Not Disturb While Driving. It allows iPhone users to block all incoming calls and messages so they may fully dedicate themselves to driving only. When the function is on, iOS sends a message to the caller saying that a driver is at the wheel and unavailable at the moment. The text of the message may be edited in settings as follows:
@@ -55,7 +62,21 @@ And the last option, now for advanced iOS users. [CarPlay](https://www.apple.com
 
 ![CarPlay app ios driving](https://static1.abbyy.com/abbyycommedia/26287/apple-carplay-stock-100720202-large.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Use a USB cable to connect your device. When connected, CarPlay lets you access standard iOS apps and some third-party apps as well. It provides access to the microphone and audio system which is installed in the car. This way you will be able to build routes, receive messages, listen to music while paying attention to driving itself. It must be noted that CarPlay is supported by a limited number of cars.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Android Tip:** **Android Device at the Wheel**
 
@@ -77,19 +98,12 @@ Another way to use your smartphone efficiently without any risk to your health i
 
 ![drive car In-Traffic Reply android](https://static1.abbyy.com/abbyycommedia/26288/in-traffic.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **Android Auto**
 
 Another way to make use of your device while on the road is [Android Auto](https://www.android.com/intl/en%5Fen/auto/). This app shows your phone’s functionalities on a car's display not worse than Apple’s CarPlay.
 
 ![android auto app driving car](https://static1.abbyy.com/abbyycommedia/26289/android-auto.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With Android Auto, you can put your caller on speaker, listen to messages, control your music, and build routes. The advantage of this app over its competitors is that it allows you to use its functionality regardless of whether your car supports this system or not. If your car does not feature a screen, simply place it on the dashboard-installed phone-holder and use the system via your device. The app has a user-friendly interface with large icons and navigation tips.
 
 ## **ABBYY Tip: Location-Based Search for Business Cards**
@@ -107,10 +121,6 @@ Bear in mind that this feature only works if you have allowed access to your geo
 2. Select **Privacy** \> **Location Services** \> **BCR.**
 3. Make sure that you have marked **While Using the App** option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **App of The Week: Evernote**
 
 Evernote is a powerful digital notebook that lets you take your productivity and organizational skills to the next level. Evernote can be installed on your [computer](https://evernote.com/intl/en/download), [Android](https://play.google.com/store/apps/details?id=com.evernote&hl=en) or [iPhone](https://itunes.apple.com/us/app/evernote/id281796108?mt=8) and is also available as a [web version](https://www.evernote.com/Login.action). With Evernote, all your notes are available on any device and are synced between them.
@@ -125,16 +135,10 @@ One of the most incredible features in Evernote is called [Web Clipper](https://
 
 ![evernote webclipper save content web page](https://static1.abbyy.com/abbyycommedia/26292/evernote-webclipper-300x244.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For businesses, the company offers [Evernote Business](https://evernote.com/intl/en/business) which is designed for teamwork, project management, and storing large amounts of working data.
 
 Want to learn more about Evernote? Visit their [Youtube](https://www.youtube.com/user/EvernoteVideos/videos) channel, check [use cases](https://evernote.com/intl/en/business/use-cases) and read [customer stories](https://evernote.com/intl/en/business/customer-stories).
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## First-Hand Experience: Advice From a Colleague
 
 _By Anna Boyko, Marketing Consultant_
@@ -142,8 +146,18 @@ _By Anna Boyko, Marketing Consultant_
 ![arrange picnic nature abbyy advice](https://static1.abbyy.com/abbyycommedia/26293/anna.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Summer is just around the corner and all I want during weekends is leave the city and go camping. I love organizing such events and today I’ll share with you how to arrange a perfect picnic. I believe that there are few things that make an excellent get-together, these are a good mood, positive attitude, and tight-knit group. Now let’s drill down to more details.
 
 **Time and Location**
@@ -190,6 +204,19 @@ That’s all for now, let’s meet here next Monday!
 P.S. To read the previous Mobile Monday, click [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -246,8 +273,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +280,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ive-deep-into-unreal-worlds-with-these-titles/"><u>[New] Dive Deep Into Unreal Worlds with These Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-camstudio-reimagined-the-complete-screen-recorder-review-for-2024/"><u>[Updated] CamStudio Reimagined The Complete Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-reviewing-the-gopro-hero5-session-series/"><u>[Updated] In 2024, Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/44cm44ot44oh44kq44k144kk44oc44o844kw44gn5yuv55s744ks5a6j5ywo44gr5lplusd566h44gz44kl44kz44oe44go44cb5lplusd5a2y5zuw6zuj5pmc44gu44oi44op44ow44or44k344ol44o84491/"><u>「ビデオサイボーグで動画を安全に保管するコツと、保存困難時のトラブルシューティング」</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cant-get-your-avi-video-up-on-youtube-easily-convert-for-instant-sharing/"><u>Can't Get Your AVI Video Up on YouTube? Easily Convert for Instant Sharing!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ensuring-broad-device-support-a-step-by-step-guide-on-converting-xavcs-videos-into-mp4-format/"><u>Ensuring Broad Device Support: A Step-by-Step Guide on Converting XAVC(S) Videos Into MP4 Format</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-silent-mode-glitch-with-our-expert-guide/"><u>Fix Your IPhone's Silent Mode Glitch with Our Expert Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-for-macos-15-sequoia-coming-soon-with-exciting-new-features/"><u>Get Ready for MacOS 15 Sequoia: Coming Soon with Exciting New Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-easily-unlock-nokia-screen-by-drfone-android/"><u>How To Easily Unlock Nokia Screen?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-easy-techniques-to-convert-high-quality-4k-footage-into-hd-format-with-pcmac-applications/"><u>Quick & Easy Techniques to Convert High-Quality 4K Footage Into HD Format with PC/Mac Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplifying-video-production-in-captivate-software-for-2024/"><u>Simplifying Video Production in Captivate Software for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/slash-your-mkv-files-down-top-five-free-compression-techniques-revealed/"><u>Slash Your MKV Files Down: Top Five Free Compression Techniques Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x7b-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor X7b Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winxdvd-partnerschaft-steigern-sie-ihre-dvd-nutzung-mit-unserem-kooperationsprogramm/"><u>WinXDVD-Partnerschaft: Steigern Sie Ihre DVD-Nutzung Mit Unserem Kooperationsprogramm</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725284256212-dvd/"><u>リスクなしで自由にレンタルDVDダビング - 応用無料プログラム提供中!</u></a></li>
+</ul></div>
 

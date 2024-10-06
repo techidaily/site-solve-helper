@@ -1,7 +1,7 @@
 ---
 title: AI Startup SmartCAT Triumphs with $2.n Million Funding & Full Autonomy Post-ABBYY Era
-date: 2024-08-25T22:48:15.265Z
-updated: 2024-08-26T22:48:15.265Z
+date: 2024-10-04T20:22:22.229Z
+updated: 2024-10-06T06:03:39.315Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb9d9c4cb9258cac1b011715e.png
@@ -58,8 +58,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,7 +65,33 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-audio-improvement-for-effective-online-communication/"><u>[New] In 2024, Audio Improvement for Effective Online Communication</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screeneasew11-simplified-windows-11-recording-software/"><u>[New] In 2024, ScreenEaseW11 Simplified Windows 11 Recording Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-number-1-in-the-8th-digital-image-blend-platform/"><u>2024 Approved Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-optimize-your-site-with-cutting-edge-automation/"><u>Cookiebot-Driven Solutions: Optimize Your Site with Cutting-Edge Automation</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-empowered-personalization-enhance-your-website/"><u>Cookiebot-Empowered Personalization: Enhance Your Website</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-your-site-with-advanced-tracking-capabilities/"><u>Cookiebot-Enabled: Enhancing Your Site with Advanced Tracking Capabilities</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-experience-the-future-of-personalized-engagement/"><u>Cookiebot-Enhanced User Experience: The Future of Personalized Engagement</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-the-driving-force-behind-your-successful-site-personalization/"><u>Cookiebot: The Driving Force Behind Your Successful Site Personalization</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/demo-of-mobile-user-input-during-onboarding/"><u>Demo of Mobile User Input During Onboarding</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/demystifying-the-advanced-technology-of-abyy-idp-for-optimal-document-management/"><u>Demystifying the Advanced Technology of ABYY IDP for Optimal Document Management</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/digitaliser-et-analyser-les-documents-dapprovisionnement-chez-gaches-chimie-a-laide-dabbyy-flexicapture/"><u>Digitaliser Et Analyser Les Documents D'Approvisionnement Chez Gaches Chimie À L'aide D'ABBYY FlexiCapture</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-your-phone-into-a-portable-law-office-insights-from-an-abbyy-specialist/"><u>Elevate Your Phone Into a Portable Law Office – Insights From an ABBYY Specialist</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-connectivity-the-miniaturized-yet-powerful-ourlink-u631-wi-fi-adapter-usb/"><u>Enhance Connectivity: The Miniaturized Yet Powerful Ourlink U631 Wi-Fi Adapter (USB)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-iphone-photography-with-time-lapse/"><u>Enhance Your iPhone Photography with Time-Lapse</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-sound-effects-for-fcp-a-beginners-guide-to-elevating-your-video-editing-game/"><u>Free Sound Effects for FCP A Beginners Guide to Elevating Your Video Editing Game</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oneplus-nord-n30-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncharted-territories-in-video-streamer-realm/"><u>In 2024, Uncharted Territories in Video Streamer Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-meaning-behind-an-inactive-user-on-discord/"><u>The Real Meaning Behind an 'Inactive' User on Discord</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

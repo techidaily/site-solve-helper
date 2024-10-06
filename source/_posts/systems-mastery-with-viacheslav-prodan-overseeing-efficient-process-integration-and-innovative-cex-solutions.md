@@ -1,7 +1,7 @@
 ---
 title: Systems Mastery with Viacheslav Prodan - Overseeing Efficient Process Integration & Innovative CEx Solutions
-date: 2024-08-25T22:50:27.824Z
-updated: 2024-08-26T22:50:27.824Z
+date: 2024-10-01T22:41:51.608Z
+updated: 2024-10-05T23:54:56.333Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a691177fb2bbb8430f5442ba8e06.jpg
@@ -27,6 +27,13 @@ Find out why he’s so happy, and why, unlike most of us, he doesn’t hate traf
 
 I was attracted to the challenge that was offered to me—to create a team that can provide support to customers 24 hours a day, seven days a week, in a large international company. ABBYY’s profile in the [market](https://tools.techidaily.com/abbyy/products/), the new challenges of the job, and stepping outside my comfort zone all motivated me to take a risk and demonstrate my skills. And I’m glad I took the chance.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tell us your title and a bit about your role and journey at ABBYY so far
 
 My career at ABBYY began five years ago in 2018, when I became Team Leader of the Incident Response Desk Team. I then progressed to Head of 1st Line Technical Support before going on to become Head of Customer Support EMEA (Europe, the Middle East and Africa) & the Enterprise Support Team. Luckily, I was moved up again and became Director of Global Customer Support Operations, then in September 2022, I had another promotion! I am now Director Customer Excellence (CEx) Systems, Processes and Automations. That’s the great benefit of [working at ABBYY](https://tools.techidaily.com/abbyy/products/)—you have options for growth and can move up the ladder quickly.
@@ -34,8 +41,12 @@ My career at ABBYY began five years ago in 2018, when I became Team Leader of th
 My main role now is in the automation and optimization of processes and systems in our company. This requires meetings with people from different teams and departments. Also, I always need to have a complete picture of how everything works in the company so that changes do not affect the processes of other teams.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What does a typical day look like for you at ABBYY?
 
 Every day I wake up with thoughts of ‘what else can be done better’ and fall asleep with thoughts of what I managed to achieve.
@@ -44,12 +55,6 @@ With a free schedule, my morning starts with deciding where I will work today—
 
 ![ABBYY Customer Excellence team](https://static1.abbyy.com/abbyycommedia/36641/abbyy-team.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What keeps you going, and what do you enjoy the most in your role, any highlights?
 
 I can honestly say that I love what I do and have confidence in my own abilities to do a great job. It’s very fulfilling to see the results of our work and helping to improve the lives of employees around the world. I am also grateful for the support of my colleagues and manager. I’m certainly living by the phrase: “Do what you love, and you’ll never work another day in your life.”
@@ -58,18 +63,29 @@ I can honestly say that I love what I do and have confidence in my own abilities
 
 I was head of technical support at the largest private logistics company in Ukraine—working my way up from being a systems administrator. It was there that I discovered my love for automation and optimization. I saw the first results of automating repetitive manual tasks and was awestruck at how much time and effort it could save employees.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY in your function?
 
 Sometimes you need to take a step back and look at what you're doing to determine if everything is right. Self-analysis, the desire to do something for people, and not be afraid to voice the most daring proposals are key attributes. And most importantly, enjoy what you do and how you do it. This is what I expect from an employee on my team.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do you spend your free time?
 
 In recent years, I have been trying to spend more time in nature and have been camping with friends. It’s great to put up a tent in the woods and escape. I also like long drives exploring new places. For me, the drive itself and being on the road is a separate pleasure and adventure in itself, no matter what the traffic! My dream is to make a road trip in my car across Europe and see many different countries and landscapes.
 
 ![camping](https://static1.abbyy.com/abbyycommedia/36643/camping-abbyy-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When I’m not taking trips or camping breaks, I love to play board games with friends. I’m also guilty of spending hours online just looking for information about new technologies or breakthroughs in IT (information technology) or what tech companies are doing. I have a real thirst for tech news.
 
@@ -79,9 +95,6 @@ I would like people to have the opportunity to do what they want and what they e
 
 ![Slava Prodan ABBYY](https://static1.abbyy.com/abbyycommedia/36640/slava-prodan-abbyy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 People who don’t learn from their mistakes. This is important so that you can take those lessons forward to improve.
@@ -91,8 +104,12 @@ People who don’t learn from their mistakes. This is important so that you can 
 The “Intouchables” movie—it's an incredible story.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
@@ -153,8 +170,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +177,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-helper.techidaily.com/1-digitale-transformation-mit-von-fraunhofer-und-abbeyy-geheime-schritte-in-das-neue-norm/"><u>1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streamlining-sound-speeds-in-spotify-without-compromise/"><u>2024 Approved Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ai-startup-smartcat-triumphs-with-2n-million-funding-and-full-autonomy-post-abbyy-era/"><u>AI Startup SmartCAT Triumphs with $2.n Million Funding & Full Autonomy Post-ABBYY Era</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-site-engagement-using-cookiebots-smart-analytics-technology/"><u>Boost Site Engagement Using Cookiebot's Smart Analytics Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-site-with-cookiebot-technology-enhanced-performance-and-engagement/"><u>Boost Your Site with Cookiebot Technology – Enhanced Performance and Engagement!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boosting-visibility-with-cookiebot-a-revolutionary-approach-to-web-analytics-and-optimization/"><u>Boosting Visibility with Cookiebot: A Revolutionary Approach to Web Analytics and Optimization</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-agni-2-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Agni 2 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-mp4-editor-for-windows-8-quick-and-easy-video-editing/"><u>New 2024 Approved Best MP4 Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-compilation-of-top-soundscapes-adopting-the-perfect-audio-accompaniment-for-your-montage-creation/"><u>New Compilation of Top Soundscapes Adopting the Perfect Audio Accompaniment for Your Montage Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/smooth-transition-to-sierra-essential-tech-steps/"><u>Smooth Transition to Sierra Essential Tech Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-shift-towards-digital-communication-amongst-millennials-analysis-by-abbyy-newsroom/"><u>The Shift Towards Digital Communication Amongst Millennials – Analysis by ABBYY Newsroom</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel S23+.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-compliance-challenges-the-impact-of-gdpr-on-blockchain-innovations-explored-abbyy-blog/"><u>Unraveling Compliance Challenges: The Impact of GDPR on Blockchain Innovations - Explored | ABBYY Blog</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-has-detected-that-audio-enhancements-solved/"><u>Windows Has Detected that Audio Enhancements [Solved]</u></a></li>
+</ul></div>
 

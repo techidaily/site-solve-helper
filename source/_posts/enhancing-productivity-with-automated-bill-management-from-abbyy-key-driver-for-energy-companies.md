@@ -1,7 +1,7 @@
 ---
 title: Enhancing Productivity with Automated Bill Management From ABBYY - Key Driver for Energy Companies
-date: 2024-08-25T22:46:26.277Z
-updated: 2024-08-26T22:46:26.277Z
+date: 2024-09-28T21:55:23.210Z
+updated: 2024-10-06T03:02:53.989Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43fb699583edd3d2db4662000a.jpg
@@ -25,9 +25,23 @@ Other | Accounts Payable Automation
 
 ![](https://static1.abbyy.com/abbyycommedia/15257/4208e_images_cs_papco556x303.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![PAPCO](https://static1.abbyy.com/abbyycommedia/15224/papco-logo-200px.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name         | PAPCO                                 |
 | ------------ | ------------------------------------- |
@@ -62,32 +76,14 @@ As a leading energy solutions supplier in the Eastern United States, PAPCO recei
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### over **600,000**
 
 invoices from 1,000 vendors
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### a **50**%
 
 reduction in labor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### $**30,000**
 
 of annual savings
@@ -140,9 +136,6 @@ Collins also sees a future of new opportunities for PAPCO using the FlexiCapture
 
 [![FlexiCapture for Invoices](https://static5.abbyy.com/abbyycommedia/14349/6-flexicapture-forinvoices.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture for Invoices](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
@@ -152,8 +145,12 @@ Collins also sees a future of new opportunities for PAPCO using the FlexiCapture
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/15255/4208e_images_cs_papco362x162.png)](https://static2.abbyy.com/abbyycommedia/10312/case-study-papco-oil-gas-en.pdf "PDF version") [PDF version](https://static2.abbyy.com/abbyycommedia/10312/case-study-papco-oil-gas-en.pdf "PDF version") 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [read more](https://static2.abbyy.com/abbyycommedia/10312/case-study-papco-oil-gas-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -161,8 +158,12 @@ Collins also sees a future of new opportunities for PAPCO using the FlexiCapture
 Share  True ?  : "" 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -175,8 +176,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +183,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-android-screen-capture-made-easy-free/"><u>[New] 2024 Approved Android Screen Capture Made Easy, Free</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-captivating-stories-in-motion-best-video-theme-choices/"><u>[New] 2024 Approved Captivating Stories in Motion Best Video Theme Choices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>[New] 2024 Approved Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-your-way-through-macos-11-big-sur-upgrade/"><u>[New] Navigating Your Way Through macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stardom-in-snapshot-vimeo-insight/"><u>[Updated] Stardom in Snapshot - Vimeo Insight</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvd-pc/"><u>無料ディスクバックアップ：DVD直送コピーのシンプルガイド - PC不要！初心者にもわかりやすい方法</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/adapting-to-the-end-of-adobe-flash-solutions-for-unsupported-content/"><u>Adapting to the End of Adobe Flash: Solutions for Unsupported Content</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/die-neueste-winx-dvd-ripper-platina-testen-sie-das-aktualisierte-update/"><u>Die Neueste WinX-DVD-Ripper Platina: Testen Sie Das Aktualisierte Update!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-guide-watching-your-favorite-movies-how-to-tear-and-enjoy-dvds-on-samsung-tab-devices/"><u>Effortless Guide: Watching Your Favorite Movies - How to Tear & Enjoy DVDs on Samsung Tab Devices</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-winx-media-converter-convert-dvds-to-mp4-on-windows-10-without-cost/"><u>Free WinX Media Converter: Convert DVDs to MP4 on Windows 10 without Cost</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960080398-get-the-most-recent-amd-radeon-r5-graphics-driver-for-all-windows-versions-including-win-11-10-8-and-nw/"><u>Get the Most Recent AMD Radeon R5 Graphics Driver for All Windows Versions Including Win 11, 10, 8 & Nw!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/guida-completa-per-convertire-rapidamente-la-regione-dei-dvd-in-una-versione-gratuita-e-utilizzabile/"><u>Guida Completa per Convertire Rapidamente La Regione Dei DVD in Una Versione Gratuita E Utilizzabile</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n55-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N55 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/is-av1-format-compatible-with-adobe-premiere-pros-import-and-export-features/"><u>Is AV1 Format Compatible with Adobe Premiere Pro's Import and Export Features?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-christmas-present-picks-unbeatable-holiday-offers-and-freebies/"><u>Top Christmas Present Picks: Unbeatable Holiday Offers & Freebies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-the-server-on-lost-ark/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to the Server' On Lost Ark</u></a></li>
+</ul></div>
 

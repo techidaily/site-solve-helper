@@ -1,7 +1,7 @@
 ---
 title: "From Cartography to Smart Data: The Surprising Link Between Map Books and Advancing Process Intelligence | Exploring with ABBYY"
-date: 2024-08-25T22:46:27.348Z
-updated: 2024-08-26T22:46:27.348Z
+date: 2024-09-30T23:42:53.890Z
+updated: 2024-10-06T03:34:06.491Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
@@ -48,6 +48,13 @@ With the risk of sounding like a scratched record, throw away the “map books�
 ![Joseph Rayfield ABBYY](https://static1.abbyy.com/abbyycommedia/25707/josephrayfield-99x99.png)
 
 Joe Rayfield
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +110,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,7 +117,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-capturing-content-with-precision-best-practices-for-igtv-video-downloads/"><u>[New] 2024 Approved Capturing Content with Precision Best Practices for IGTV Video Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-comedy-the-art-of-parody-videos/"><u>[New] In 2024, Crafting Comedy The Art of Parody Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-fundamental-steps-for-transforming-pins-into-audios/"><u>[New] In 2024, Fundamental Steps for Transforming Pins Into Audios</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pixelpilot-studio-plus-advanced-os-recorder/"><u>[Updated] In 2024, PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-3d-creation-strategies-for-calculating-and-reducing-your-printers-price-tag/"><u>Budget-Friendly 3D Creation: Strategies for Calculating and Reducing Your Printer's Price Tag</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725287037322-dvd-flick/"><u>DVD Flick使用時に対処しておくべきウイルス問題とは：ユーザー保護のための重要なヒント</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/easy-tutorial-transforming-your-mp4-videos-into-playable-dvds-using-a-windows-computer/"><u>Easy Tutorial: Transforming Your MP4 Videos Into Playable DVDs Using a Windows Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-when-youre-not-who-you-think-during-a-facebook-call/"><u>In 2024, When You're Not Who You Think During a Facebook Call</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mastering-iphone-picture-preservation-alternatives-to-itunes-and-icloud-solutions/"><u>Mastering iPhone Picture Preservation: Alternatives to iTunes and iCloud Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-how-you-read-5-innovative-ai-based-recommender-services/"><u>Revolutionize How You Read: 5 Innovative AI-Based Recommender Services</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winxdvd-toolkit-comprehensive-dvd-ripping-and-video-conversion-solutions-the-authorized-site/"><u>WinXDVD Toolkit: Comprehensive DVD Ripping & Video Conversion Solutions - The Authorized Site</u></a></li>
+</ul></div>
 

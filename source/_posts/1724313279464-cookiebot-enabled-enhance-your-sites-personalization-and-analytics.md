@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Site's Personalization & Analytics"
-date: 2024-08-25T22:49:25.542Z
-updated: 2024-08-26T22:49:25.542Z
+date: 2024-10-03T01:45:23.235Z
+updated: 2024-10-05T23:54:40.040Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b565f942655d5f5347ebbc9b.jpg
@@ -20,6 +20,13 @@ April 19, 2018
 ![What is RPA? Understanding Robotic Process Automation | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25283/9134e_blog_understanding-robotic-process-automation_blog_934x400.png) 
 
 All the rave these days is around artificial intelligence (AI) as the technology continues to shake up the C-suite while gaining a seat at the table. For C-suite executives however, robotic process automation (RPA) is panning out as the most exciting tool in their digital transformation toolbox. With new compliance regulations looming large, organizations need RPA to help unlock the hidden value in both structured and unstructured documents. Highly regulated industries that control large volume of data and continuously strive for improvement stand to gain most from cognitive automation, which brings intelligence to RPA.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is RPA?
 
@@ -47,11 +54,22 @@ This blog is an abridged version of an article (The Impact of RPA on GDPR) that 
 
 ![Anthony Macciola ABBYY](https://static4.abbyy.com/abbyycommedia/25717/anthonymacciola-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Anthony Macciola
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -106,8 +124,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +131,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-gopro-hero-4-vs-sony-dslr-for-extreme-sports-which-rules-the-arena/"><u>[New] In 2024, GoPro Hero 4 Vs Sony DSLR for Extreme Sports Which Rules the Arena?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-black-screen-after-win10-update/"><u>Brightening BLACK SCREEN After Win10 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-para-combinar-y-superponer-imagenes-con-herramientas-en-linea/"><u>Guía Fácil Para Combinar Y Superponer Imágenes Con Herramientas en Línea</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Pro Data Completely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A78 5G Phones with/without a PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mov-to-m4v-conversion-ensuring-high-quality-outputs/"><u>MOV to M4V Conversion: Ensuring High-Quality Outputs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/multi-platform-video-merging-techniques-a-guide/"><u>Multi-Platform Video Merging Techniques - A Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-primer-on-the-wave-editor-pivotal-components-audit-reports-and-tutorials/"><u>New In 2024, The Ultimate Primer on the Wave Editor Pivotal Components, Audit Reports, and Tutorials</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/overcoming-4k-video-problems-on-your-computer-a-guide-to-7-essential-fixes/"><u>Overcoming 4K Video Problems on Your Computer: A Guide to 7 Essential Fixes</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/psp-dvd/"><u>PSPディスクレスプレイ - DVD動画再生ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-eliminate-crashing-in-risk-of-rain-2-once-and-for-all/"><u>Troubleshooting Tips: Eliminate Crashing in Risk of Rain 2 Once and For All</u></a></li>
+</ul></div>
 

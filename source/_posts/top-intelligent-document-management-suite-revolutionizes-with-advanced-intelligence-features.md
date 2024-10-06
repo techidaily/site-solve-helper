@@ -1,7 +1,7 @@
 ---
 title: Top Intelligent Document Management Suite Revolutionizes with Advanced Intelligence Features
-date: 2024-08-25T22:46:59.111Z
-updated: 2024-08-26T22:46:59.111Z
+date: 2024-09-30T23:57:32.684Z
+updated: 2024-10-05T19:32:19.300Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acafd7a9691ad956f89a6aa172b.jpg
@@ -35,6 +35,13 @@ _Edd Berry, Programme Finance Director, Manchester University NHS Foundation Tru
 
 [Watch the recent webinar: Revolutionize Your Document Processes with No-Code Technology](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Growing catalog of pre-trained skills
 
 Last year, we introduced the [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/), providing users with access to a catalog of pre-trained document skills (models) and other assets like connectors. And thanks to the Vantage capability to further train document skill models, customers can further train skills on their own documents. This saves a significant amount of time up front with training skill models and makes it possible to achieve the desired accuracy that results in less human work.
@@ -55,8 +62,18 @@ The latest set of new document skills include:
 All these skills are available to try out simply by downloading them from the [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Vantage release 2.3 highlights
 
 **Latest release delivers on performance, accuracy, and speed**
@@ -66,9 +83,12 @@ In the latest [Vantage release](https://tools.techidaily.com/abbyy/products/), w
 Together, these enhancements make it easier to deploy IDP solutions taking a no-code / low-code approach. Take, for example, processing data from invoices. This not only starts with identifying the vendor invoice and extracting data but often requires detecting the start and end of many invoices in one PDF file. Available in the Vantage release is a new document splitting skill, where Vantage will auto-detect the start and end of a multi-page document like an invoice, eliminating any manual work that would otherwise be required.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Turn your documents into actionable data
 
 There's a skill for that.
@@ -79,9 +99,6 @@ The ability to extract table data can be challenging with documents like invoice
 
 It is also worth highlighting the latest ABBYY announcement on [ABBYY Proof of Identity](https://tools.techidaily.com/abbyy/products/), delivering instant identity proofing and affirmation as part of customer onboarding, new account opening, claims, and enrollment processes. It is the point where the customer provides proof of their identity via ID cards, photos, and supporting documents, so the business can determine that they are who they say they are.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get started today!
 
 We’re very excited about the latest [Vantage](https://tools.techidaily.com/abbyy/products/) 2.3 release as we continue to advance the core AI document understanding technology, build pre-trained skills (models), and align with businesses to simplify document automation. You can learn more about all this exciting release by registering for the upcoming [Vantage 2.3 webinar](https://tools.techidaily.com/abbyy/products/) and try out the new capabilities in your Vantage tenant or [request a demo](https://tools.techidaily.com/abbyy/products/).
@@ -91,13 +108,14 @@ We’re very excited about the latest [Vantage](https://tools.techidaily.com/abb
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bill Galusha
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -152,8 +170,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +177,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>[New] 2024 Approved Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-live-with-clarity-secrets-for-high-quality-fb-recordings/"><u>[New] In 2024, Live with Clarity Secrets for High-Quality FB Recordings</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iuoajooblowiqeeuqoalnewanplusobqplusacgombqtog44k344oz44ox44or44gq6jgx5l2c5qip5zue6yg5oqa6kgt44ks5a2m44g244cnig/"><u>「ご利用拝借に最適: シンプルな著作権回避技術を学ぶ」</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pwise-approach-to-add-youtube-videos-into-slate/"><u>A Stepwise Approach to Add YouTube Videos Into Slate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-end-vector-sites-ranked-1-to-10/"><u>High-End Vector Sites Ranked 1 to 10</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-convert-and-upload-videos-in-unsupported-formats-with-lightworks/"><u>How to Convert and Upload Videos in Unsupported Formats with Lightworks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-convert-lossless-audio-flac-alac-to-compact-mp3-two-straightforward-strategies/"><u>How to Convert Lossless Audio (FLAC, ALAC) to Compact MP3 - Two Straightforward Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-distance-not-a-barrier-expert-podcast-recording-advice/"><u>In 2024, Distance Not a Barrier Expert Podcast Recording Advice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p40-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel Device</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iphoneandroid4/"><u>IPhoneとAndroidで録画したセルフィー動画のアジマル操作復元方法トップ4</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/m4pm4a/"><u>M4P音楽データをM4Aにするための簡単レシピ集</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mp4-vob2/"><u>MP4形式への変換: VOBファイルを効率良く変換する2手法</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionary-youtube-uploading-tools-creative-strategies-for-seamless-video-sharing-on-youtube/"><u>Revolutionary YouTube Uploading Tools: Creative Strategies for Seamless Video Sharing on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-c12-plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia C12 Plus to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-combo-cable-modems-and-routers/"><u>Top-Rated Combo Cable Modems and Routers</u></a></li>
+</ul></div>
 

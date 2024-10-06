@@ -1,7 +1,7 @@
 ---
 title: ABBYYがNTTドコモ向けに開発した画像からテキストを抽出する多言語翻訳ツールのイノベーション
-date: 2024-08-25T22:48:41.221Z
-updated: 2024-08-26T22:48:41.221Z
+date: 2024-10-03T03:19:02.648Z
+updated: 2024-10-05T16:29:02.903Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84ac1f20b42c3b2db4cf801728.png
@@ -45,8 +45,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,7 +52,31 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] 2024 Approved 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tips-for-documenting-virtual-meetings/"><u>[New] 2024 Approved Tips for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revisit-facebooks-top-watches-a-step-by-step-for-2024/"><u>[New] Revisit Facebook's Top Watches A Step-by-Step for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-easy-dvd-to-mp4-converter-for-windows-11-free-winx-dvd-ripper-hassle-free-quick-and-lightweight-backup-software/"><u>1. Easy DVD to MP4 Converter for Windows 11: Free WinX DVD Ripper - Hassle-Free, Quick, and Lightweight Backup Software</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winx-dvd-hd/"><u>官方WinX 應用程式集：無障礙下載，高品質的 DVD 導出工具和 HD 影片換行軟件</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/vimeoyoutube-avchdtsmovaviwmvflv/"><u>全種類動画ファイル変換技術 ｜ Vimeo、YouTubeに最適化 | AVCHD,TS,MOV,AVI,WMV,FLV対応</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvd-ipad-5/"><u>無料DVDコンバートソフトを選ぶ iPadユーザーへ 限定ベスト5推薦！</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289238016-ai/"><u>AI駆使したビデオの超解像技術と、推奨されるアップスケーリングソフトウェア</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-no-cost-windows-media-converters-windows-1011-full-versions-available/"><u>Best No-Cost Windows Media Converters (Windows 10/11) - Full Versions Available</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/dells-direct-methods-easy-screenshot-solutions-for-2024/"><u>Dell's Direct Methods Easy Screenshot Solutions for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvd-video-3/"><u>DVD Video変換無料ソフトの一般的なエラーと解消方法 - 第3章</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/machen-sie-ihre-videoclips-professioneller-verbesserung-der-videoqualitat-mit-winxvideo-ai/"><u>Machen Sie Ihre Videoclips Professioneller: Verbesserung Der Videoqualität Mit Winxvideo AI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-viewing-pleasure-with-gigabytes-aorus-co49dq-a-deep-dive-into-its-stunning-color-and-contrast-ratings/"><u>Ultimate Viewing Pleasure with Gigabyte's Aorus CO49DQ - A Deep Dive Into Its Stunning Color & Contrast Ratings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

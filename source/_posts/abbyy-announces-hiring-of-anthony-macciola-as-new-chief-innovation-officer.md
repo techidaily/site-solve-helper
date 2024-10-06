@@ -1,7 +1,7 @@
 ---
 title: ABBYY Announces Hiring of Anthony Macciola as New Chief Innovation Officer
-date: 2024-08-25T22:48:37.931Z
-updated: 2024-08-26T22:48:37.931Z
+date: 2024-10-05T03:08:37.672Z
+updated: 2024-10-06T06:10:51.149Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfabe268a90cf22a89412c015d.jpg
@@ -65,8 +65,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,7 +72,27 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-low-cost-pc-monitoring-solutions-reviewed-and-compared/"><u>[Updated] 2024 Approved Low-Cost PC Monitoring Solutions Reviewed & Compared</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-static-to-sprightly-bouncing-text-animations/"><u>[Updated] In 2024, From Static to Sprightly Bouncing Text Animations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-photoplusvideo-integration-with-iphone/"><u>[Updated] Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb/"><u>2024 Approved Crafting Hashtags that Capture Attention and Drive Engagement on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>2024 Approved Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone XS | Stellar</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-artificial-intelligence-tools-innovative-options-beyond-firefly/"><u>Best Artificial Intelligence Tools: Innovative Options Beyond Firefly</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enjoy-high-definition-entertainment-a-guide-to-streaming-4k-content-on-netflix/"><u>Enjoy High-Definition Entertainment: A Guide to Streaming 4K Content on Netflix</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/expertenrat-fur-sicheres-streaming-und-speichern-von-ultra-hochauflosungsvideos-4k-uhd/"><u>Expertenrat Für Sicheres Streaming Und Speichern Von Ultra-Hochauflösungsvideos (4K, UHD)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/win-81-media-converter-tools-available-for-free-discover-handbrake-and-more/"><u>Win 8.1 Media Converter Tools Available for Free: Discover HandBrake and More!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-platine-32x-plus-vitesse-pour-copier-et-extraire-des-dvd-proteges-sous-windows-11/"><u>WinX DVD Ripper Platine 32X Plus Vitesse Pour Copier Et Extraire Des DVD Protégés Sous Windows 11</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iphoneandroid2024/"><u>この春必見! IPhone/Android対応無料動画ダウンロード機能付きトップアプリランキング2024年版</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

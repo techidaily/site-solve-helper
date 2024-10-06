@@ -1,7 +1,7 @@
 ---
 title: "Optimized With Cookiebot Technology: Boost Website Insights & Performance"
-date: 2024-08-25T22:51:04.178Z
-updated: 2024-08-26T22:51:04.178Z
+date: 2024-09-30T05:07:30.177Z
+updated: 2024-10-05T20:45:08.545Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a0a176db85647e2b441ce187.jpg
@@ -19,15 +19,42 @@ Government | Document Management/Compliance | Digital Archiving
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Das Herbarium des königlichen botanischen Gartens von Edinburgh wird durch ABBYY revolutioniert
 
 Behörden und öffentlicher Sektor | Dokumentenmanagement 
 
 ![](https://static1.abbyy.com/abbyycommedia/17076/cs-royalbotanic-556x303.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Über den Kunden
 
 ![Royal Botanic Garden Edinburgh](https://static5.abbyy.com/abbyycommedia/18492/royal-botanic-garden_logo-155.gif) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | Name      | Royal Botanic Garden Edinburgh             |
 | --------- | ------------------------------------------ |
@@ -87,15 +114,19 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 
 [![kipo-pic2](https://static1.abbyy.com/abbyycommedia/15527/kipo-pic2.jpg)](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") [PDF-Version](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Zum Dokument](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") 
 
 [Mehr über ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -108,8 +139,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +146,22 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-downloading-fb-content-the-ultimate-guide-top-5-list/"><u>[Updated] 2024 Approved Downloading FB Content The Ultimate Guide - TOP 5 List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-track-your-periscope-broadcasting/"><u>[Updated] Fast-Track Your Periscope Broadcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens/"><u>[Updated] In 2024, Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-instagram-time-keeper-learning-to-rewind/"><u>[Updated] In 2024, The Instagram Time Keeper Learning to Rewind</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-unboxing-excellence-strategies-for-2024/"><u>[Updated] Top 7 Unboxing Excellence Strategies for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-artificial-intelligence-tools-innovative-options-beyond-firefly/"><u>Best Artificial Intelligence Tools: Innovative Options Beyond Firefly</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-guide-converting-dvd-subtitles-to-srt-format-on-pc-and-mac/"><u>Effortless Guide: Converting DVD Subtitles to SRT Format on PC and Mac</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enjoy-high-definition-entertainment-a-guide-to-streaming-4k-content-on-netflix/"><u>Enjoy High-Definition Entertainment: A Guide to Streaming 4K Content on Netflix</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/maintain-high-quality-a-step-by-step-guide-on-how-to-rotate-mp4-videos-by-90-180-or-270-degrees/"><u>Maintain High-Quality: A Step-by-Step Guide on How to Rotate MP4 Videos by 90, 180 or 270 Degrees</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-a-swift-overview-of-vn-video-editor-for-pc-users-for-2024/"><u>New A Swift Overview of VN Video Editor for PC Users for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-5-high-definition-media-players-for-pc-and-mac-detailed-comparison-downloads-and-user-reviews-4k-edition/"><u>Top 5 High Definition Media Players for PC and Mac: Detailed Comparison, Downloads & User Reviews - 4K Edition</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-asus-rog-phone-7-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Asus ROG Phone 7 Ultimate Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/windows-11-compatible-quick-and-easy-dvd-ripper-seamlessly-transform-dvds-into-high-quality-mp4-files/"><u>Windows 11 Compatible Quick & Easy DVD Ripper: Seamlessly Transform DVDs Into High-Quality MP4 Files</u></a></li>
+</ul></div>
 

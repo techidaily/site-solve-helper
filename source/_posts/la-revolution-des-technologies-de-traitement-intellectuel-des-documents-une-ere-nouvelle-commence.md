@@ -1,7 +1,7 @@
 ---
 title: "La Révolution Des Technologies De Traitement Intellectuel Des Documents: Une Ère Nouvelle Commence"
-date: 2024-08-25T22:50:59.845Z
-updated: 2024-08-26T22:50:59.845Z
+date: 2024-10-03T23:22:27.016Z
+updated: 2024-10-06T03:02:28.034Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494081b2ccfa2bb5a7fc50971b.jpg
@@ -19,28 +19,45 @@ January 18, 2023
 
 « L’IDP est mort, vive l’IDP » – cette phrase fait écho au sentiment de transformation et de continuité. Tout comme lorsque l’on proclamait « le roi est mort, vive le roi », nous assistons à un moment historique dans le domaine de l’IDP (traitement intelligent des documents). Ce n’est pas la fin, c’est une renaissance, une métamorphose vers quelque chose de plus puissant et significatif pour l’avenir de l’IA (intelligence artificielle).
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## L’évolution du traitement intelligent des documents (IDP)
 
 Au cœur de cette transformation, une technologie que nous connaissons depuis des décennies : la reconnaissance optique de caractères (OCR). Autrefois simple outil de numérisation de texte, l’OCR joue aujourd’hui un rôle crucial dans l’entraînement des LLM (large language models), avec des données de grande qualité. Cette évolution d’un simple outil de conversion de texte vers un fournisseur élaboré de données illustre l’adaptabilité et la pertinence sur la durée des technologies d’IDP. L’ancien IDP ouvre la voie à une nouvelle ère où précision et contexte sont primordiaux.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Applications et défis dans le monde réel
 
 Today's [L'OCR](https://tools.techidaily.com/abbyy/products/) d’aujourd’hui ne consiste pas à juste lire du texte : il s’agit aussi de le comprendre dans son intégralité. Les entreprises exigent un plus grand niveau de précision et plus d’informations tirées des données, ce qui nécessite que les technologies d’IDP soient plus avancées et nuancées. Cependant, cette évolution n’est pas sans poser des problèmes. Cet équilibre entre précision et compréhension du contexte devient essentiel. Comment pouvons-nous garantir que les données qui alimentent les systèmes d’IA sont non seulement justes, mais également pertinentes par rapport au contexte ?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### L’avenir du Traitement Intelligent des Documents (IDP)
 
 L’avenir de l’IDP repose dans sa capacité non seulement à évoluer, mais aussi à révolutionner la façon dont nous pensons les données et l’IA. Il s’agit de créer des systèmes qui non seulement traitent les documents mais qui les comprennent, en extrayant non seulement les données mais aussi les informations. Ce nouvel IDP sera la pierre angulaire du paysage de l’IA, en constante évolution, et un élément essentiel pour développer des systèmes plus intelligents, plus efficaces et plus intuitifs. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Les rouages internes de l’IDP moderne
 
 Alors que nous abordons cette nouvelle ère de l’IDP, il est essentiel de comprendre les avancées technologiques qui permettent cette transformation. Au cœur du [traitement intelligent et moderne des documents,](https://tools.techidaily.com/abbyy/products/) il y a son intégration aux technologies d’IA de pointe, en particulier dans le cadre du machine learning et du traitement du langage naturel.
@@ -57,9 +74,6 @@ L’intégration du traitement du langage naturel (NLP) permet à l’IDP de fra
 
 La beauté des systèmes modernes d’IDP réside dans leur capacité à apprendre et à se perfectionner en permanence. Alimentés par du feedback, ces systèmes peuvent ajuster leurs algorithmes, s’adapter à de nouveaux types de documents et améliorer leur précision au fil du temps. Ce processus d’apprentissage continu garantit que l’IDP reste pertinent et efficace, même à mesure que les types et formats de documents évoluent.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Le rôle des données de grande qualité pour l’entraînement des large language models (LLM)
 
 Comprendre comment des LLM tels que GPT-4, Claude, Llama, ou d’autres sont entraînés grâce à des données tirées de l’IDP permet de comprendre la relation symbiotique entre ces technologies. Voici le découpage du processus :
@@ -85,8 +99,12 @@ Ce processus de formation nécessite d’exposer le LLM à de grandes quantités
 Une fois entraîné, le LLM subit des tests rigoureux avant validation. Cela comprend la vérification de sa capacité à comprendre et à générer du langage dans différents domaines, styles, et formats. Le feedback tiré de cette phase alimente à son tour la boucle de formation du LLM pour affiner encore ses fonctionnalités.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## À l’aube d’une nouvelle ère
 
 Déclarer « l’IDP est mort, vive l’IDP » n’est pas une contradiction, plutôt l’affirmation de la nature résiliente et évolutive de cette technologie. Ce que l’on connaissait comme étant l’IDP s’est transformé pour céder la place à une partie plus évoluée et plus intégrée de l’écosystème de l’IA. C’est un formidable moment pour faire partie de cette aventure, l’aube d’une nouvelle ère du traitement des documents et de l’intelligence artificielle. 
@@ -97,10 +115,6 @@ Découvrez pourquoi ABBYY a été désigné leader de l’IDP pour la quatrième
 
 ![Maxime Vermier ABBYY](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Maxime Vermeir
 
 Directeur Senior de la stratégie IA 
@@ -159,8 +173,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +180,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-free-makers-hub-for-top-tier-fb-visuals/"><u>[Updated] In 2024, Free Maker's Hub for Top-Tier FB Visuals</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-free-methods-to-download-videos-from-youtube-essential-tips-and-tricks/"><u>1. Free Methods to Download Videos From YouTube: Essential Tips and Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-m14-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy M14 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/detailed-imovie-vs-final-cut-pro-analysis-choosing-the-ultimate-mac-video-editing-tool/"><u>Detailed IMovie vs Final Cut Pro Analysis: Choosing the Ultimate Mac Video Editing Tool</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvdmp4/"><u>DVD化MP4ファイルの書き込み手順について学ぶ -最新コツ</u></a></li>
+<li><a href="https://facebook.techidaily.com/explore-our-favorite-online-spaces/"><u>Explore Our Favorite Online Spaces</u></a></li>
+<li><a href="https://article-posts.techidaily.com/exploring-netflixs-innovative-multi-stream-feature-for-2024/"><u>Exploring Netflix's Innovative Multi-Stream Feature for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/macx-dvd-ripper-professional-lizenz-kaufen-mit-sonderangebot-schneller-download/"><u>MacX DVD Ripper Professional Lizenz Kaufen Mit Sonderangebot - Schneller Download</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/progopro-session-series-evolution/"><u>ProGoPro Session Series Evolution</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-intel-quick-sync-video-a-comparison-with-nvidia-and-amd-technologies/"><u>Understanding Intel Quick Sync Video: A Comparison with Nvidia and AMD Technologies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-translating-music-into-words-easy-online-techniques-for-mp3-to-text-conversion-updated-guide-for-2024/"><u>Updated Translating Music Into Words Easy Online Techniques for MP3 to Text Conversion Updated Guide for 2024</u></a></li>
+</ul></div>
 

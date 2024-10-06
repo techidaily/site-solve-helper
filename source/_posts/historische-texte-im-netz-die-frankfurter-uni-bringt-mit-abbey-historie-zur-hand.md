@@ -1,7 +1,7 @@
 ---
 title: Historische Texte Im Netz - Die Frankfurter Uni Bringt Mit ABBEY Historie Zur Hand
-date: 2024-08-25T22:47:17.169Z
-updated: 2024-08-26T22:47:17.169Z
+date: 2024-10-05T02:39:49.312Z
+updated: 2024-10-05T23:54:14.292Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
@@ -19,11 +19,25 @@ Education/Research | Education | PDF and Document Conversion
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Universitätsbibliothek Frankfurt macht mit ABBYY historische Dokumente online verfügbar
 
 Bildungswesen | PDF- und Dokumentenumwandlung 
 
 ![](https://static1.abbyy.com/abbyycommedia/15018/library-pic1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Über den Kunden
 
@@ -88,9 +102,23 @@ Nach einer Phase der Adaption lief die OCR-Erkennung reibungslos zur vollsten Zu
 
 [![15-education](https://static1.abbyy.com/abbyycommedia/14365/15-education.jpg)](https://tools.techidaily.com/abbyy/products/)") [Bildung und Forschung (EN)](https://tools.techidaily.com/abbyy/products/)") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/)") 
 
 [![cs-texthelp-360x162](https://static2.abbyy.com/abbyycommedia/15361/cs-texthelp-360x162.jpg)](https://static5.abbyy.com/abbyycommedia/6165/cs%5Funiversitaet%5Ffrankfurt%5Ffr%5Fd.pdf "PDF-Version") [PDF-Version](https://static5.abbyy.com/abbyycommedia/6165/cs%5Funiversitaet%5Ffrankfurt%5Ffr%5Fd.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static5.abbyy.com/abbyycommedia/6165/cs%5Funiversitaet%5Ffrankfurt%5Ffr%5Fd.pdf "PDF-Version") 
 
@@ -102,9 +130,6 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -117,8 +142,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +149,22 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-break-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid/"><u>[New] In 2024, Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-smartphones-and-tablets-leading-gb-gameplayers/"><u>[New] Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-streams-to-next-level-with-av1-on-youtube/"><u>[Updated] In 2024, Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-stumble-upon-these-hidden-meme-page-treasures-for-2024/"><u>[Updated] Stumble Upon These Hidden Meme Page Treasures for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/obs/"><u>「無人能及的OBS設定教學：如何控制綠色影像，進入專家领域」</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavi-rmvb-avi/"><u>移動靈活: 使用 Movavi 在網路上無限制地從 RMVB 轉成 AVI - 完美的免費格式更改工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/buyers-guide-evaluating-the-pros-and-cons-of-dvd-blu-ray-and-digital-file-formats/"><u>Buyer's Guide: Evaluating the Pros and Cons of DVD, Blu-Ray, and Digital File Formats</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cambia-mpeg-a-formato-wma-sin-costo-con-el-convertidor-de-archivos-multimedia-on-line-gratuito-de-movavi/"><u>Cambia MPEG a Formato WMA Sin Costo Con El Convertidor De Archivos Multimedia On-Line Gratuito De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-list-of-no-cost-video-recording-apps-top-5-choices-for-your-needs/"><u>Discover the Ultimate List of No-Cost Video Recording Apps – Top 5 Choices for Your Needs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-film-creation-with-movavi-pro-video-editing/"><u>Effortless Film Creation with Movavi Pro-Video Editing</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-converter-of-aac-files-to-ogg-format-on-web-movievia/"><u>Free Converter of AAC Files To Ogg Format On Web - MovieVia</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuit-online-omzetten-van-aac-bestandjes-movavi/"><u>Gratuit Online Omzetten Van AAC-Bestandjes - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movaviapeogg/"><u>Movaviが提供する無料のAPEからOGGへのオンライン変換サービス</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-unusual-attachment-my-struggle-to-part-with-quirky-bluetooth-headphones/"><u>The Unusual Attachment: My Struggle to Part with Quirky Bluetooth Headphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformar-videos-mp4-a-avi-sin-costo-mediante-el-servicio-web-de-movavi/"><u>Transformar Videos MP4 a AVI Sin Costo Mediante El Servicio Web De Movavi</u></a></li>
+</ul></div>
 

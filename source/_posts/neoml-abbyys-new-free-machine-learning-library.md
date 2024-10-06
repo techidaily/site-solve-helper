@@ -1,7 +1,7 @@
 ---
 title: "NeoML: ABBYY's New Free Machine Learning Library"
-date: 2024-08-25T22:51:00.905Z
-updated: 2024-08-26T22:51:00.905Z
+date: 2024-10-04T21:41:33.921Z
+updated: 2024-10-05T21:25:37.307Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961da236a4542ceaa49684d0f3.jpg
@@ -61,8 +61,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,7 +68,31 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-free-apps-for-youtube-to-wav-transformation/"><u>[New] 2024 Approved Essential Free Apps for YouTube to WAV Transformation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ccelerated-steps-to-rearrange-youtube-music-ordering-for-2024/"><u>[New] Accelerated Steps to Rearrange YouTube Music Ordering for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[Updated] 2024 Approved Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-screen-ready-images-opting-for-srgb/"><u>[Updated] Screen Ready Images Opting for Srgb</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-cordless-journey-through-music-at-lp60xbt-unveiled/"><u>A Cordless Journey Through Music: AT-LP60XBT Unveiled</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/analyzing-the-versatility-of-switchbot-as-a-complete-remote-solution-pros-and-cons-unveiled/"><u>Analyzing the Versatility of SwitchBot as a Complete Remote Solution: Pros and Cons Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/capturing-motion-spectacle-with-polaroid-camplus-cube-for-2024/"><u>Capturing Motion Spectacle with Polaroid Cam+ Cube for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/discover-why-the-new-gen-g-electrically-powered-dual-zone-barbecue-is-worth-its-higher-price-tag-for-culinary-enthusiasts/"><u>Discover Why the New Gen G Electrically Powered Dual Zone Barbecue Is Worth Its Higher Price Tag for Culinary Enthusiasts</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-connection-with-beats-pill-top-bluetooth-speaker-evaluation/"><u>Effortless Connection with Beats Pill: Top Bluetooth Speaker Evaluation</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/experience-the-ultimate-multipurpose-anker-maggo-magnetic-charger-station-featuring-qi-usb-c-and-6-additional-ports/"><u>Experience the Ultimate Multipurpose Anker MagGo Magnetic Charger Station: Featuring Qi, USB-C, and 6 Additional Ports</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-visual-education-techniques-for-2024/"><u>Harnessing the Power of Visual Education Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restrict-or-block-youtube-content-on-your-ipad/"><u>How to Restrict or Block YouTube Content on Your iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>In 2024, Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/kostenloser-mp3-musikkatalog-download-angebote-speziell-fur-mac-nutzer/"><u>Kostenloser MP3 Musikkatalog: Download-Angebote Speziell Für MAC Nutzer</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/lizenzcode-und-serienschlussel-zum-macx-dvd-ripper-pro-genuine-keys-verfugbar-fur-die-volle-version-im-jahr-2021/"><u>Lizenzcode Und Serienschlüssel Zum MacX DVD Ripper Pro – Genuine Keys Verfügbar Für Die Volle Version Im Jahr 2021</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/long-term-durability-of-a-biodegradable-phone-case-a-5-month-experiment/"><u>Long-Term Durability of a Biodegradable Phone Case - A 5-Month Experiment</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/smartdesk-levitate-unveiled-challenging-assembly-process-meets-satisfactory-functionality-reviewed/"><u>SmartDesk Levitate Unveiled: Challenging Assembly Process Meets Satisfactory Functionality Reviewed</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

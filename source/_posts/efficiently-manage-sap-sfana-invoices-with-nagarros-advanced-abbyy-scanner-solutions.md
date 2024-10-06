@@ -1,7 +1,7 @@
 ---
 title: Efficiently Manage SAP S/^FANA Invoices with Nagarro's Advanced ABBYY Scanner Solutions
-date: 2024-08-25T22:47:37.402Z
-updated: 2024-08-26T22:47:37.402Z
+date: 2024-10-04T05:09:41.156Z
+updated: 2024-10-05T20:29:56.753Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8a7742b128774ee55042b67a.jpg
@@ -23,6 +23,13 @@ Since adopting ABBYY Vantage, we’ve seen remarkable improvements. The improved
 
 Ulrich Winter, Head of Application Development, Nagarro ES GmbH
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Challenge
 
 Nagarro was looking for advanced technology to power the Invoice Scanner solution for their clients using SAP S/4HANA® for invoice processing. For these clients, invoice data had been copied or typed to a form in SAP S/4HANA. The manual operation sometimes resulted in errors.
@@ -36,8 +43,12 @@ Requirements:
 * Create an invoice object in SAP S/4HANA®
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution
 
 Nagarro used ABBYY Vantage to power the recognition within their Invoice Scanner.
@@ -46,9 +57,6 @@ Vantage applies artificial intelligence technology to accurately extract data fr
 
 Customers can use Nagarro’s ROI calculator to see the amount of money saved using their Invoice Scanner over manual methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Value
 
 * Nagarro processes 700 invoices per month
@@ -63,8 +71,12 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### ABBYY Solutions for Accounts Payable Automation
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
@@ -72,20 +84,24 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### PDF Version
 
 [Read the document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/nagarro-case-study-intelligent-document-processing-en.pdf)
 
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ready to speak with an expert?
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -96,8 +112,6 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +119,26 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/aptivate-audiences-with-effective-and-appealing-video-previews/"><u>[New] Captivate Audiences with Effective and Appealing Video Previews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-demystifying-creator-studio-a-practical-handbook/"><u>[Updated] 2024 Approved Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-foremost-biodegradable-equipment-for-video-filming/"><u>[Updated] In 2024, Foremost Biodegradable Equipment for Video Filming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-virtual-masterclass-for-aspiring-filmmakers-on-youtube/"><u>[Updated] In 2024, Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-real-time-music-videos-on-douyin/"><u>2024 Approved Real-Time Music Videos on Douyin</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-forcibly-deleting-files-in-windows-11-with-revo-uninstaller/"><u>Complete Guide to Forcibly Deleting Files in Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-custom-user-experiences-the-cutting-edge-approach/"><u>Cookiebot Driven Custom User Experiences: The Cutting-Edge Approach</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-website-personalization-and-tracking-solutions/"><u>Cookiebot-Driven Website Personalization and Tracking Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-and-data-collection/"><u>Cookiebot-Enabled: Enhancing User Experience and Data Collection</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-optimized-site-performance-through-advanced-tracking/"><u>Cookiebot-Enhanced: Optimized Site Performance Through Advanced Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-the-secret-ingredient-for-enhanced-web-analytics-and-conversions/"><u>Cookiebot: The Secret Ingredient for Enhanced Web Analytics and Conversions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-your-leading-solution-for-powerful-automated-marketing-campaigns/"><u>Cookiebot: Your Leading Solution for Powerful Automated Marketing Campaigns</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/customized-user-experience-with-advanced-analytics-using-cookiebot-technology/"><u>Customized User Experience with Advanced Analytics Using Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/discover-how-abbyy-shaped-future-financial-tactics-at-the-2017-strategietage-conference/"><u>Discover How ABBYY Shaped Future Financial Tactics at the 2017 StrategieTage Conference</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-website-with-cookiebots-powerful-analytics-solutions/"><u>Enhance Your Website with Cookiebot's Powerful Analytics Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-10-firstrow-sports-alternatives/"><u>In 2024, Top 10 Firstrow Sports Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a78-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A78 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-to-buy-and-install-adobe-reader-via-ms-store/"><u>Simplified Guide to Buy and Install Adobe Reader via MS Store</u></a></li>
+</ul></div>
 

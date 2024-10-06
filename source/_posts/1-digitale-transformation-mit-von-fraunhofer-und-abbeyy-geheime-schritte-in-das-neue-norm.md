@@ -1,7 +1,7 @@
 ---
 title: 1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'
-date: 2024-08-25T22:48:13.080Z
-updated: 2024-08-26T22:48:13.080Z
+date: 2024-10-03T00:26:54.813Z
+updated: 2024-10-06T03:17:29.043Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -13,22 +13,37 @@ Studie
 
 ## Prozessdigitalisierung für das „New Normal“
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Branchenübergreifende Studie zu Herausforderungen und Chancen der Prozessoptimierung
 
 ![Prozessdigitalisierung für das New Normal](https://static1.abbyy.com/abbyycommedia/34552/118-process-digitization-for-the-new-normal-de-360x232.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Prozesstechnologien wie Process Mining, Robotic Process Automation oder Process Monitoring finden in Unternehmen aller Branchen zunehmend mehr Akzeptanz und Anwendung. Beschleunigt wird diese Entwicklung durch Trends wie Fachkräftemangel, mehr Automatisierungs- und Innovationsdruck und nicht zuletzt die Covid-19-Pandemie.
 
 Unsere aktuelle Studie in Zusammenarbeit mit dem Fraunhofer-Institut für Angewandte Informationstechnik FIT zeigt allerdings, dass viele Unternehmen mit dem aktuellen Stand ihrer Geschäftsprozesse noch nicht zufrieden sind und großes Verbesserungspotenzial sehen. Im Rahmen der Studie wurden Unternehmen der Branchen Versicherungen und Banken sowie Logistik und Produktion befragt.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Laden Sie die Studie jetzt herunter, um mehr über den aktuellen Stand zum Einsatz von Prozesstechnologien und damit einhergehende Handlungsempfehlungen zu erfahren.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Danke für Ihr Interesse an ABBYY.
 
 [Studie lesen](https://digital.abbyy.com/hubfs/documents/content/report-processintelligence-fraunhoferfitstudydigitalizationprocesses-de.pdf "Studie lesen") 
@@ -36,8 +51,12 @@ Unsere aktuelle Studie in Zusammenarbeit mit dem Fraunhofer-Institut für Angewa
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Haben Sie Fragen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
 #### Obtenez votre exemplaire en complétant le formulaire.
@@ -98,8 +117,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +124,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-quality-virtual-console-imitation-software-for-pc/"><u>[New] 2024 Approved High-Quality Virtual Console Imitation Software for PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[New] In 2024, Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-prime-hashtag-combo-for-6-figure-youtube-traffic-surge/"><u>[New] In 2024, Prime Hashtag Combo for 6-Figure Youtube Traffic Surge</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-simplifying-snapchat-recording-for-smooth-experience-for-2024/"><u>[New] Simplifying Snapchat Recording for Smooth Experience for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-chromatic-balance-and-visual-storytelling-for-2024/"><u>[Updated] Chromatic Balance and Visual Storytelling for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-deciphering-screen-recorders-bandicam-or-camtasia/"><u>[Updated] Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cutting-edge-cost-free-after-effects-packages/"><u>2024 Approved Cutting-Edge, Cost-Free After Effects Packages</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-user-experience-and-analytics-mastering-seo-with-advanced-cookiebot-solutions/"><u>Enhance User Experience and Analytics: Mastering SEO with Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-traffic-with-cookiebot-analytics-solutions/"><u>Enhanced Traffic with Cookiebot Analytics Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-with-automated-tracking-the-power-of-cookiebot-technology/"><u>Enhanced with Automated Tracking: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/historische-texte-im-netz-die-frankfurter-uni-bringt-mit-abbey-historie-zur-hand/"><u>Historische Texte Im Netz - Die Frankfurter Uni Bringt Mit ABBEY Historie Zur Hand</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>In 2024, Green Screen Journey Begins on YT, Ideas Take Flight!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-possible-to-transform-my-laptops-core/"><u>Is It Possible to Transform My Laptop’s Core?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/maximizing-efficiency-innovative-strategies-for-managing-documents-via-email-on-the-abbyy-blog/"><u>Maximizing Efficiency: Innovative Strategies for Managing Documents via Email on the ABBYY Blog</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-with-cookiebot-next-level-seo-strategies-for-successful-websites/"><u>Optimize with Cookiebot: Next-Level SEO Strategies for Successful Websites</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/personalized-advertising-engines-leveraging-powerful-insights-via-the-cookiebot-platform/"><u>Personalized Advertising Engines: Leveraging Powerful Insights via the Cookiebot Platform</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionary-paperless-system-enhances-efficiency-cuts-costs-for-small-and-medium-businesses-through-advanced-ocr-technology/"><u>Revolutionary Paperless System Enhances Efficiency, Cuts Costs for Small & Medium Businesses Through Advanced OCR Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/speeding-up-retail-transactions-abbyy-enhances-metro-ags-payment-process-with-90-increase-in-speed/"><u>Speeding Up Retail Transactions - ABBYY Enhances METRO AG's Payment Process with 90% Increase in Speed</u></a></li>
+</ul></div>
 

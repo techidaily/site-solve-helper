@@ -1,7 +1,7 @@
 ---
 title: Unveiling ABBYY's Breakthrough Cognitive Docu-Processing Tech at London Event
-date: 2024-08-25T22:48:11.428Z
-updated: 2024-08-26T22:48:11.428Z
+date: 2024-10-05T03:35:11.360Z
+updated: 2024-10-05T21:48:02.380Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5a5f384c827d740eb2982c66293aa6c9bc671df021cb53f6fa2aeac5cd13c6bc.jpg
@@ -49,8 +49,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,7 +56,29 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-10-best-memes-right-now-include-image-gifvideo/"><u>2024 Approved 10 Best Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/abbreviated-film-dialogue-scheme/"><u>Abbreviated Film Dialogue Scheme</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-and-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience and Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-tracking-solutions/"><u>Cookiebot-Enhanced User Tracking Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/customized-marketing-insights-with-the-help-of-cookiebot-technology/"><u>Customized Marketing Insights with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-scanning-and-conversion-transform-documents-into-pdfjpg-using-finereader-on-ios/"><u>Effortless Scanning & Conversion: Transform Documents Into PDF/JPG Using FineReader on iOS</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-your-online-presence-how-cutting-edge-cookie-technology-fuels-digital-growth/"><u>Elevate Your Online Presence: How Cutting-Edge Cookie Technology Fuels Digital Growth</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-your-site-functionality-empowered-by-the-innovative-features-of-cookiebot/"><u>Elevate Your Site Functionality - Empowered by the Innovative Features of Cookiebot</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-your-websites-performance-using-the-latest-cookiebot-solutions/"><u>Elevate Your Website's Performance Using the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-ultra-slim-design-of-new-ipads-at-apple-retail-are-they-truly-revolutionary-at-just-008-inches-thick/"><u>Exploring the Ultra-Slim Design of New iPads at Apple Retail - Are They Truly Revolutionary at Just 0.08 Inches Thick?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pcs-silent-problem-no-audio-device-installed-error-on-windows-11-explained/"><u>Fix Your PC's Silent Problem: No Audio Device Installed Error on Windows 11 Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intersecting-realities-metaverse-and-multiverse-differences/"><u>In 2024, Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/las-mejores-utilidades-sin-costo-para-generar-contenido-de-calidad-sobrenatural-en-tu-canal-de-youtube/"><u>Las Mejores Utilidades Sin Costo Para Generar Contenido De Calidad Sobrenatural en Tu Canal De YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-secrets-to-effective-youtube-video-uploads-for-2024/"><u>Unlocking the Secrets to Effective YouTube Video Uploads for 2024</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

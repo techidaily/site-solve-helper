@@ -1,7 +1,7 @@
 ---
 title: Enhanced Data Collection with Advanced Cookiebot Features for Precise Marketing Insights
-date: 2024-08-25T22:47:38.529Z
-updated: 2024-08-26T22:47:38.529Z
+date: 2024-10-01T02:18:45.027Z
+updated: 2024-10-05T17:59:17.576Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b36010696a635f2d59959383d55084.jpg
@@ -35,28 +35,52 @@ Education/Research | Social Work | ICR/Handwriting Recognition | PDF and Documen
 
 ![Becker](https://static4.abbyy.com/abbyycommedia/6252/becker_logo.gif) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | Name    | Becker                                           |
 | ------- | ------------------------------------------------ |
 | Website | [www.beckerdm.co.uk](https://www.beckerdm.co.uk) |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Hintergrund
 
 In jahrelanger Zusammenarbeit mit mehreren Hundert Schulen hat die School Fundraising Company mit dem populären Christmas Card Project mehrere Tausend Pfund für die Unterstützung von Lehrerverbänden und Schulfonds aufbringen können. Die Schulen verwenden die Gelder, um dringend benötigte Materialien für den Sport-, Kunst- und Werkunterricht, sowie Bücher, Lernmaterialien und Computer zu kaufen. Die Organisation bietet ein Konzept mit dem das Projekt für die Kinder und Lehrer unterhaltsam gestaltet und gleichzeitig die Summe an Geldern, die für die Schule beschafft werden, optimiert wird. Eine der entstehenden Schwierigkeiten für School Fundraising Company ist dabei leider die Menge an Karten – die sich in einer „ganz normalen“ Weihnachtssaison auf mehrere Hunderttausend belaufen kann – und deren Bearbeitung, welche ein zeitintensiver und fehleranfälliger Prozess ist. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Herausforderung
 
 Sobald sich eine Schule für das Christmas Card Project angemeldet hat, schickt School Fundraising Company ein Paket mit allen nötigen Informationen und Unterlagen an die entsprechenden Lehrer, die dann eine Unterrichtsstunde organisieren in der jeder einzelne Schüler seine individuelle Weihnachtskarte gestalten darf. Jeder Schüler bekommt ein Blatt DIN A4 Papier, welches in 2 Hälften aufgeteilt wird. In die eine Hälfte malt der Schüler seine Karte, in die andere Hälfte trägt der Lehrer die Daten des Schülers ein – Name, Alter, Klasse, etc. Nachdem die gesamte Klasse ihre Karten fertig gestellt hat, werden diese zurück an die School Fundraising Company gesendet, wo ein Angestellter mit dem langwierigen Prozess der Bearbeitung beginnt. Die Einsendungen müssen sortiert und die persönlichen Daten des Schülers herausgefiltert und in eine Datenbank eingegeben werden. Um den Zeitaufwand zu verringern und die Fehlerquote zu reduzieren, hat sich die Organisation dazu entschlossen, eine technologische Lösung für die Bearbeitung zu suchen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Lösung
 
 Um eine Lösung zu finden, die den Arbeitsprozess vereinfachen und rationalisieren könnte, hat sich School Fundraising Company an Becker Services gewandt, ein unabhängiges Document Management und Data Capture Unternehmen in Großbritannien mit Sitz in Essex und Herts. Becker hat die Situation analysiert und festgestellt, dass eine Data Capture Lösung benötigt würde, um die relevanten Informationen aus den Karten der Kinder herauszufiltern und zu verarbeiten.
@@ -73,9 +97,6 @@ Obwohl FlexiCapture jedes einzelne Dokument mit sehr hoher Genauigkeit erkennt, 
 
 School Fundraising Company schätzt, dass sich durch die Verwendung von ABBYY FlexiCapture für eine automatisierte Extrahierung der Daten der manuelle Arbeitsaufwand pro Person um ca. 50% reduziert hat. In Arbeitsstunden pro Person umgerechnet bedeutet das, dass im Schnitt 3-4 Wochen weniger für die Umsetzung jedes Projekts benötigt werden – was eine erhebliche zeitliche und finanzielle Einsparung bedeutet. Zusätzlich konnte durch die hohe Präzision von FlexiCapture die Fehlerquote bei der Zuordnung von Bild und Daten verringert werden, die vorher die Organisation viel Zeit und Geld gekostet hat. Das Scannen der Bilder und die manuelle Eingabe der Daten waren zuvor zwei vollkommen separate Prozesse, wodurch viele Fehler entstanden. 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ergebnis
 
 Wir sind wirklich sehr zufrieden mit der Leistung von Becker Services“, erklärt Julie Burton von School Fundraising Company. „Die Zusammenarbeit war sehr angenehm – sie sind sehr hilfsbereit, unterstützend und aufmerksam – und ABBYYs Software passt perfekt zu unseren Bedürfnissen. Wir würden keine Sekunde zögern, sie bei einem ähnlichen Projekt wieder zu kontaktieren.“
@@ -84,10 +105,6 @@ Schulen und Schüler profitieren seit Jahren von der Arbeit von School Fundraisi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -96,9 +113,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 Teilen 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -111,8 +125,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +132,18 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-yourwebcamrecordingbasics/"><u>[Updated] In 2024, Mastering YourWebcam RecordingBasics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tips-for-effective-ppt-sharing-via-google-meet/"><u>[Updated] In 2024, Tips for Effective PPT Sharing via Google Meet</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-site-engagement-with-powerful-cookiebot-technology/"><u>Enhanced Site Engagement with Powerful Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/explore-top-notch-robotic-process-automation-with-our-coe-masterclass-online-session/"><u>Explore Top-Notch Robotic Process Automation with Our CoE Masterclass Online Session</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-southampton-university-revolutionizes-research-with-digitalization-of-large-scale-print-archives/"><u>How Southampton University Revolutionizes Research with Digitalization of Large-Scale Print Archives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-m34-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy M34 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/la-revolution-des-technologies-de-traitement-intellectuel-des-documents-une-ere-nouvelle-commence/"><u>La Révolution Des Technologies De Traitement Intellectuel Des Documents: Une Ère Nouvelle Commence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-modernization-of-intellgraphics-on-win7-machines/"><u>Mastering the Modernization of IntellGraphics on Win7 Machines</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/neoml-abbyys-new-free-machine-learning-library/"><u>NeoML: ABBYY's New Free Machine Learning Library</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pinnacle-programs-for-peak-webcam-video-quality/"><u>Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-listening-made-easy-with-direct-recording-for-2024/"><u>YouTube Listening Made Easy with Direct Recording for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Southampton University Revolutionizes Research with Digitalization of Large-Scale Print Archives
-date: 2024-08-25T22:50:58.791Z
-updated: 2024-08-26T22:50:58.791Z
+date: 2024-10-04T17:55:08.184Z
+updated: 2024-10-05T18:16:12.125Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143743513f29d02bcd22967183.jpg
@@ -19,26 +19,30 @@ Education/Research
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## L’université de Southampton améliore l’accès à sa collection en numérisant de volumineuses quantités de documents imprimés
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 329 kb)](https://static4.abbyy.com/abbyycommedia/10189/cs-unisouthampton-rs-f.pdf) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Contexte
 
 ![](https://tools.techidaily.com/abbyy/products/)La bibliothèque de l’université de Southampton accueille environ 35 000 étudiants et membres de son personnel. Elle offre un accès à une très vaste collection de qualité supérieure : 1,5 millions de livres et plusieurs millions de pages de documents d’archive. La bibliothèque s’est récemment lancée dans un programme de numérisation d’un nombre important de textes clés via l’Unité de numérisation de bibliothèques (LDU, Library Digitisation Unit). La LDU est une opération phare dans le secteur de l’éducation et se spécialise dans la capture numérique d’un large éventail de documents pour les référentiels ou la distribution sur Internet via des liens du catalogue de la bibliothèque. La démarche de la bibliothèque universitaire consiste à offrir un accès complet aux documents numériques qu’elle crée, chaque fois que cela est possible et autorisé.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ABBYY FineReader, un produit logiciel conçu pour la numérisation et la numérisation ad-hoc, a été utilisé par la bibliothèque pendant un certain nombre d’années pour numériser une petite quantité de pages, et occasionnellement l’intégralité de livres. Ce programme est aussi utilisé pour la reconnaissance de texte et la reconnaissance optique de caractères (OCR, optical character recognition). La bibliothèque s’est rapidement rendue compte que pour automatiser le processus OCR, avec un rendement élevé, et atteindre son objectif, qui est de numériser un demi-million de pages par an, elle aurait besoin d’un produit plus robuste et capable de traiter automatiquement d’importants volumes de documents.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution
 
 Pour trouver une solution permettant de traiter les documents imprimés, de les convertir en formats interrogeables, tels que le PDF et le PDF/A, et de numériser la création d’archives ou de dossiers, la bibliothèque a examiné diverses options disponibles sur le marché. Les critères suivants ont été examinés pour un certain nombre de produits: rapidité et qualité de l’OCR, gamme de formats et de compressions à l’exportation et possibilité d’intégrer des API/workflows. Après avoir examiné un certain nombre de produits, la bibliothèque a sélectionné ABBYY Recognition Server comme solution la plus performante.
@@ -63,8 +67,12 @@ D’autres projets internes incluent:
 **La collection Richard Rutt:** une collection de livres de tricot datant du 19ème siècle provenant de la bibliothèque de références artistiques de l’école Winchester a été numérisée et mise à disposition sous la forme de fichiers PDF interrogeables via Internet.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 La reconnaissance optique de caractères puissante et précise est une partie intégrante des activités de l’unité de numérisation de bibliothèques. Grâce à l’augmentation de la production engendrée par ABBYY Recognition Server, le personnel de la bibliothèque est libéré du travail ennuyeux que constitue l’OCR manuel. Des millions de pages de documents provenant de la collection de l’université de Southampton sont disponibles en ligne dans des formats numériques pour les étudiants et pour le reste du monde.
@@ -74,9 +82,12 @@ La réussite de la numérisation peut également être attribuée à la soupless
 « L’installation d’ABBYY Recognition Server a été rapide. Les premières réponses d’ABBYY et de leurs équipes de support vis-à-vis de toutes les questions posées ont été rapides, avec un suivi de bonne qualité. Nous avons été très satisfaits des résultats et nous avons hâte d’utiliser le produit pour continuer à remplir nos objectifs en termes de numérisation. »
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## À propos de l’université de Southampton
 
 L’unité de numérisation de bibliothèques de l’université de Southampton propose  
@@ -94,9 +105,6 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 
 Partager 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -109,8 +117,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +124,26 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-2023-panorama-of-facebooks-micro-videos-insights-and-impact/"><u>[New] In 2024, The 2023 Panorama of Facebook's Micro-Videos Insights and Impact</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-quintessential-guide-to-powerful-quadcopter-engines/"><u>[Updated] The Quintessential Guide to Powerful Quadcopter Engines</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/pciphone-itunes/"><u>完全実現のテクニック：PCからiPhoneへの動画移行 - iTunesでない最も優れた方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/begin-your-journey-with-any-of-the-8-accessible-gpt-instances-right-now/"><u>Begin Your Journey with Any of the 8 Accessible GPT Instances Right Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 Pro</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/complete-set-of-macxdvd-pro-features-now-available-at-no-cost/"><u>Complete Set of MacXDVD Pro Features Now Available at No Cost</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-to-websites-for-text-alteration/"><u>Comprehensive Guide to Websites for Text Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029077015-dvd-2024/"><u>DVDコピー自由化アプリ: 2024新鋭版全面紹介！</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-and-rapid-hd4k-video-downloads-from-dailymotion-get-them-free-today/"><u>Effortless & Rapid HD/4K Video Downloads From DailyMotion: Get Them Free Today!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-steps-to-crafting-custom-playlists-on-your-ios-device/"><u>Effortless Steps to Crafting Custom Playlists on Your iOS Device</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enjoy-high-definition-viewing-no-cost-ways-to-watch-4k-on-mac-devices-with-netflix/"><u>Enjoy High-Definition Viewing: No Cost Ways to Watch 4K on Mac Devices with Netflix</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/expert-guide-seamless-music-migration-from-your-mac-computer-to-your-ipod/"><u>Expert Guide: Seamless Music Migration From Your Mac Computer to Your iPod</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/is-it-possible-to-move-personalized-themes-from-other-platforms-to-flipbuilder/"><u>Is It Possible to Move Personalized Themes From Other Platforms to FlipBuilder?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/macx-mediatrans-software-unlocking-guide-secure-your-legitimate-license-code-today/"><u>MacX MediaTrans Software Unlocking Guide - Secure Your Legitimate License Code Today!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-instagram-vids-with-ease/"><u>Perfect Your Instagram Vids with Ease</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/shop-the-best-macxdvd-offers-on-black-friday-games-discounts-and-prizes-await/"><u>Shop the Best MacXDVD Offers on Black Friday – Games, Discounts & Prizes Await!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-guide-to-mastering-h265-hevc-codec-techniques-for-high-quality-4k-video-encoding/"><u>Ultimate Guide to Mastering H.265 HEVC Codec: Techniques for High-Quality 4K Video Encoding</u></a></li>
+</ul></div>
 

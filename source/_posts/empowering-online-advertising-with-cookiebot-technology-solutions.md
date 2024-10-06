@@ -1,7 +1,7 @@
 ---
 title: Empowering Online Advertising with Cookiebot Technology Solutions
-date: 2024-08-25T22:47:59.547Z
-updated: 2024-08-26T22:47:59.547Z
+date: 2024-10-04T18:17:37.828Z
+updated: 2024-10-06T02:50:30.244Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499747b0b476c4253bd9b978c9.jpg
@@ -35,6 +35,13 @@ ABBYY のグローバル・チャネル・チーフであるニール・マー�
 
 ABBYYが提供するインテリジェント・プロセス・オートメーション・プラットフォームには、業界をリードするIDP、プロセスマイニング、およびタスクマイニングソリューションが含まれています。これらには、AIを適用して高速かつシンプルな方法でドキュメントを理解する業界初のローコード／ノーコードプラットフォーム「[ABBYY Vantage（以下、Vantage）](https://tools.techidaily.com/abbyy/products/)」が含まれます。Vantageは、ドキュメントを読み取り、理解し、洞察を抽出するスキルを提供することで、今日のデジタルワーカーとプロセスをよりスマートにし、企業のデジタル変革加速化を支援します。「[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)」は、最新の人工知能（AI）を使用した高度なプロセスマイニングとタスクマイニング技術を搭載しています。これにより、企業は、業務のインタラクティブなデジタルツインを自動的に構築し、リアルタイムで分析、ボトルネックを特定、将来の結果を予測し、技術投資の意思決定を容易にすることができます。詳細については、下記をご覧ください。<https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -48,8 +55,12 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -65,8 +76,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,4 +83,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-climbing-toward-sharper-screen-perceptions/"><u>[New] Climbing Toward Sharper Screen Perceptions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimizing-zoom-hd-quality-clear-methods/"><u>[New] Optimizing Zoom HD Quality Clear Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-incredible-browser-game-hacks/"><u>[Updated] In 2024, Top Incredible Browser Game Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>[Updated] Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-digitale-transformation-mit-von-fraunhofer-und-abbeyy-geheime-schritte-in-das-neue-norm/"><u>1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/altered-captions-a-video-guide/"><u>Altered Captions A Video Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banishing-your-digital-conversations/"><u>Banishing Your Digital Conversations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-open-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Open to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/iphone-based-pdfjpg-scanning-and-ocr-for-easy-digital-access-to-printed-materials/"><u>IPhone-Based PDF/JPG Scanning & OCR for Easy Digital Access to Printed Materials</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-artificial-intelligence-for-enhanced-staff-involvement-navigating-information-within-company-papers/"><u>Leveraging Artificial Intelligence for Enhanced Staff Involvement: Navigating Information Within Company Papers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-hospital-billing-systems-using-abbyy-insights-from-the-art-of-revenue-cycle-management-in-healthcare/"><u>Optimize Hospital Billing Systems Using ABBYY Insights From 'The Art of Revenue Cycle Management in Healthcare'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-crucial-role-of-data-insights-in-advancing-process-optimization-techniques/"><u>The Crucial Role of Data Insights in Advancing Process Optimization Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-shift-towards-digital-communication-amongst-millennials-analysis-by-abbyy-newsroom/"><u>The Shift Towards Digital Communication Amongst Millennials – Analysis by ABBYY Newsroom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-googles-gemini-an-overview-of-its-artificial-intelligence-pursuits/"><u>Understanding Google's Gemini: An Overview of Its Artificial Intelligence Pursuits</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-compliance-challenges-the-impact-of-gdpr-on-blockchain-innovations-explored-abbyy-blog/"><u>Unraveling Compliance Challenges: The Impact of GDPR on Blockchain Innovations - Explored | ABBYY Blog</u></a></li>
+</ul></div>
 

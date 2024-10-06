@@ -1,7 +1,7 @@
 ---
 title: "Erschließung Der Patentdokumente: Wie Das DPMA Die ABBYY FineReader Engine Nutzt"
-date: 2024-08-25T22:48:53.503Z
-updated: 2024-08-26T22:48:53.503Z
+date: 2024-09-30T19:35:51.381Z
+updated: 2024-10-05T17:27:39.367Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eaca41f020a72559cf27e30f77.jpg
@@ -18,6 +18,13 @@ Government | Document Processing
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Das Deutsche Patent- und Markenamt (DPMA) erschließt seine Patentdokumentation als Volltext
 
@@ -82,9 +89,23 @@ Bis Juni 2005 wird die Umwandlung von ca. 3 Millionen deutschen Patentdokumenten
 
 [![11-government](https://static2.abbyy.com/abbyycommedia/14361/11-government.jpg)](https://tools.techidaily.com/abbyy/products/) [Behörden und Verwaltung](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-texthelp-360x162](https://static2.abbyy.com/abbyycommedia/15361/cs-texthelp-360x162.jpg)](https://static4.abbyy.com/abbyycommedia/6135/cs-hp-dpma-fr8-engine-d.pdf "PDF-Version") [PDF-Version](https://static4.abbyy.com/abbyycommedia/6135/cs-hp-dpma-fr8-engine-d.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static4.abbyy.com/abbyycommedia/6135/cs-hp-dpma-fr8-engine-d.pdf "PDF-Version") 
 
@@ -97,8 +118,12 @@ Teilen  True ?  : ""
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -111,8 +136,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +143,22 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-8-free-online-instagram-reels-downloaders-that-will-save-your-day/"><u>[New] 8 FREE Online Instagram Reels Downloaders That Will Save Your Day</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-instant-success-with-pc-and-mac-videos-on-tiktok/"><u>[Updated] In 2024, Instant Success with PC and Mac Videos on TikTok</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/44cm5a656yep6yc86lplusr44k544oe44ob44ks5ps55zae77ya5yuv5l2c6ycf5bqm44ki44od44ox44go44ov44oq44o844k66kej5rai44gu5pa55rov44cn/"><u>「容量逼迫スマホを改善：動作速度アップとフリーズ解消の方法」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio-for-2024/"><u>Advanced Tips for Smooth Transitions and Effects in GoPro Studio for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cant-access-your-iphone-a-comprehensive-tutorial-on-securely-erasing-the-device/"><u>Can't Access Your iPhone? A Comprehensive Tutorial on Securely Erasing the Device</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/come-velocemente-converti-i-file-mkv-in-mp4-senza-perdere-qualita-metodo-facile-da-capire/"><u>Come Velocemente Converti I File MKV in MP4 Senza Perdere Qualità - Metodo Facile Da Capire</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289459502-dvd-windows-11/"><u>DVDへの書き込み方法解析 - Windows 11で完全な手引き</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/exploring-the-most-exceptional-sapphire-options-for-your-brides-handcrafted-band-top-picks/"><u>Exploring the Most Exceptional Sapphire Options for Your Bride's Handcrafted Band - Top Picks !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>In 2024, Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-with-manycam-top-virtual-camera-software-solutions/"><u>Live Streaming with ManyCam: Top Virtual Camera Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-storage-the-ultimate-guide-to-file-deleting-in-win11/"><u>Maximizing Storage: The Ultimate Guide to File Deleting in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/modifying-childrens-privacy-settings-on-messenger-kids/"><u>Modifying Children's Privacy Settings on Messenger Kids</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/test-de-rip-dvd-une-analyse-complet-entre-winx-dvd-ripper-et-handbrake-pour-le-gratuitmeilleur-echeclibrateur-video/"><u>Test De Rip DVD : Une Analyse Complet Entre WinX DVD Ripper Et HandBrake Pour Le Gratuitmeilleur Echeclibrateur Vidéo</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-video-frame-rates-different-types-and-distinguishing-vfr-vs-cfr/"><u>Understanding Video Frame Rates - Different Types and Distinguishing VFR Vs. CFR</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/wie-man-kopierschutz-bei-dvds-fur-windowsmac-entfernt-losungen-von-winxdvd/"><u>Wie Man Kopierschutz Bei DVDs Für Windows/Mac Entfernt – Lösungen Von WinXDVD</u></a></li>
+</ul></div>
 

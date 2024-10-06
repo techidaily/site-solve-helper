@@ -1,7 +1,7 @@
 ---
 title: "AI-Enhanced Technology Integration: Expert Tips From ABBYY"
-date: 2024-08-25T22:49:02.594Z
-updated: 2024-08-26T22:49:02.594Z
+date: 2024-10-03T20:09:53.181Z
+updated: 2024-10-06T00:25:21.965Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b0601596509e90390a2a00c63c2.jpg
@@ -31,6 +31,13 @@ We see our customers currently navigating this approach, inspired to implement m
 
 One customer, a leading global sportswear manufacturer, is putting the “AI” in team particularly well. They recently made game-changing strides toward expanding and strengthening their automation fabric, implementing AI-powered intelligent document processing (IDP) to integrate with their existing robotic process automation (RPA) solution and defining a strategy to incorporate a variety of AI-enabled technologies into a winning team.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using IDP to make RPA more effective
 
 After selling one of its large subsidiary brands, the sportswear company was faced with a massive document challenge: segregating and sorting 27 million documents associated with the two entities. Two and a half million of these documents lacked any standardized format, structure, or obvious indication of which document belonged to what company. 
@@ -48,8 +55,12 @@ Checklist
 [Download](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/resource-center/pdfs/checklist-intelligent-automation-is-your-organization-ai-ready-en.pdf)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Identifying a game-changing tech stack
 
 The athleticwear giant is no stranger to assembling a winning team of solutions. They’ve carefully designed a “digital playbook” to AI-enable digital platforms for the full end-to-end process lifecycle, dividing their approach into five stages: discovery, analysis, improvement, standardization, and finally automation. 
@@ -68,8 +79,12 @@ This digital playbook has supported multiple digitization initiatives for the or
 Innovation leaders striving for the same value and adaptability, take note: with the right approach, your organization can also build a game-changing tech stack.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Building an AI-ready organization
 
 An effective automation fabric is built upon high-quality data, guided by a strategically designed roadmap, and supported by a strong integration team. We’ve seen our customers experience the most success when they practice the following three principles: 
@@ -130,8 +145,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +152,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-frontiers-in-extended-realty-engagements/"><u>[New] In 2024, Frontiers in Extended Realty Engagements</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unleashing-video-magic-on-tiktok-with-pre-made-designs-for-2024/"><u>[New] Unleashing Video Magic on TikTok with Pre-Made Designs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-virtual-set-masterclass-learning-filmmaking-online/"><u>[Updated] 2024 Approved The Virtual Set Masterclass Learning Filmmaking Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[Updated] In 2024, Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>2024 Approved The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/adapting-to-the-end-of-adobe-flash-solutions-for-unsupported-content/"><u>Adapting to the End of Adobe Flash: Solutions for Unsupported Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-e-impresione-m4r-archivos-a-formato-mp3-gratuito-sin-costo-con-converter-movavi/"><u>Descargar E Impresione M4R Archivos a Formato MP3 Gratuito Sin Costo Con Converter - Movavi</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/die-neueste-winx-dvd-ripper-platina-testen-sie-das-aktualisierte-update/"><u>Die Neueste WinX-DVD-Ripper Platina: Testen Sie Das Aktualisierte Update!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725287037322-dvd-flick/"><u>DVD Flick使用時に対処しておくべきウイルス問題とは：ユーザー保護のための重要なヒント</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-guide-watching-your-favorite-movies-how-to-tear-and-enjoy-dvds-on-samsung-tab-devices/"><u>Effortless Guide: Watching Your Favorite Movies - How to Tear & Enjoy DVDs on Samsung Tab Devices</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-winx-media-converter-convert-dvds-to-mp4-on-windows-10-without-cost/"><u>Free WinX Media Converter: Convert DVDs to MP4 on Windows 10 without Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/is-av1-format-compatible-with-adobe-premiere-pros-import-and-export-features/"><u>Is AV1 Format Compatible with Adobe Premiere Pro's Import and Export Features?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-video-stream-mp3-to-youtube-in-3-easy-steps-for-2024/"><u>MP3 to Video Stream MP3 to YouTube in 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-create-engaging-videos-with-these-8-leading-explainer-video-tools/"><u>New 2024 Approved Create Engaging Videos with These 8 Leading Explainer Video Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-christmas-present-picks-unbeatable-holiday-offers-and-freebies/"><u>Top Christmas Present Picks: Unbeatable Holiday Offers & Freebies</u></a></li>
+</ul></div>
 

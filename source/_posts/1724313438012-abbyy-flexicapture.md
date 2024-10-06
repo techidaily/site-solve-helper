@@ -1,7 +1,7 @@
 ---
 title: 「数百万件の文書監査に対しABBYY FlexiCaptureで効率的なソリューションを実現するための戦略」
-date: 2024-08-25T22:46:08.650Z
-updated: 2024-08-26T22:46:08.650Z
+date: 2024-10-01T22:33:35.351Z
+updated: 2024-10-06T06:16:12.320Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c9740158f0e616afbd57801dea413.jpg
@@ -28,6 +28,13 @@ Engineering & Manufacturing | Oil & Gas | Consulting | Document Processing | Doc
 #### お客様の概要
 
 ![日揮ホールディングス株式会社](https://static2.abbyy.com/abbyycommedia/24700/logo-jgc.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 | 氏名      | 日揮ホールディングス株式会社                                      |
 | ------- | --------------------------------------------------- |
@@ -68,6 +75,13 @@ Engineering & Manufacturing | Oil & Gas | Consulting | Document Processing | Doc
 新しい技術の活用を迅速に決断できた理由を伺うと、村上氏の言葉にもあったように、プラント設計におけるファイルの管理・更新は目視に依るところが大きかったことから、「予測の段階から早期に効果が出る感触があり、実際に試算したところ投資対効果の視点から十分に満足いく結果が得られると判断されました」(喜多氏)
 
 ![会計サービスグループ部長の上野篤氏](https://static4.abbyy.com/abbyycommedia/24761/jgc-body-image-750x375.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 そこでABBYY FlexiCaptureのどのようなソリューションに魅力を感じて選定に至ったのか、喜多氏はまず「ABBYY FlexiCaptureが他の製品よりも優れているのは、やりたいことがすぐにできるユーザーインターフェースや、AIが自信のない結果は表示が赤くなるなどの分かりやすさです」と教えてくれた。
 
@@ -111,6 +125,13 @@ Engineering & Manufacturing | Oil & Gas | Consulting | Document Processing | Doc
 
 [![請求書処理の自動化](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [請求書処理の自動化](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static4.abbyy.com/abbyycommedia/24762/main-image-cs-jgc-360x162.jpg)](https://static4.abbyy.com/abbyycommedia/24698/customer-story-jgc-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/24698/customer-story-jgc-ja.pdf "PDF版") 
@@ -122,9 +143,18 @@ Engineering & Manufacturing | Oil & Gas | Consulting | Document Processing | Doc
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 専門家に相談する準備はできていますか?
 
 私たちは、自動化への取り組みをお手伝いさせていただきたいと思っています。
@@ -137,8 +167,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +174,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-masterclass-choose-your-development-stage/"><u>[New] YouTube Masterclass Choose Your Development Stage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-correct-facebook-status-update-delays/"><u>[Updated] 2024 Approved Correct Facebook Status Update Delays</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-roundup-the-best-video-to-mp3-converters/"><u>[Updated] Exclusive Roundup The Best Video to Mp3 Converters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-integrating-youtube-autoplay-smoothly-into-your-facebook-experience-for-2024/"><u>[Updated] Integrating Youtube Autoplay Smoothly Into Your Facebook Experience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-silent-sounds-garagebands-volume-control-magic/"><u>[Updated] Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289626128-iphone-14/"><u>从iPhone 14和以前型号删除图库：详解</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725286197221-winx-dvd-copy-pro-dvddvdisodvd/"><u>公式版 WinX DVD Copy Pro - DVDコピーソフト簡単操作！無料ダウンロードでDVD/ISOイメージ、DVDフォルダへの容易な変換</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-viewing-ultimate-tutorial-for-enjoying-vob-content-across-operating-systems-like-windows-10-and-macos/"><u>Effortless Viewing: Ultimate Tutorial for Enjoying VOB Content Across Operating Systems Like Windows 10 & macOS</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/english-subtitle-downloads-for-squid-game-including-full-season-1-and-episodic-challenges/"><u>English Subtitle Downloads for Squid Game, Including Full Season 1 and Episodic Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-manycam-the-top-live-video-editing-tool-and-fake-webcam-creator/"><u>Enhance Your Broadcasts with ManyCam – The Top Live Video Editing Tool and Fake Webcam Creator</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/experiencing-sluggish-iphone-performance-discover-the-best-solutions-to-enhance-its-speed/"><u>Experiencing Sluggish iPhone Performance? Discover the Best Solutions to Enhance Its Speed</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fuhrer-kostenloser-mkv-player-ideal-zum-streaming-und-anschauen-von-mkv-dateien/"><u>Führer Kostenloser MKV Player - Ideal Zum Streaming Und Anschauen Von MKV Dateien</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-3-and-gpt-4-face-off-determining-the-superior-ai/"><u>Llama 3 and GPT-4 Face-Off: Determining the Superior AI</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mastering-photo-renovation-step-by-step-strategies-for-bringing-old-images-back-to-life/"><u>Mastering Photo Renovation: Step-by-Step Strategies for Bringing Old Images Back to Life</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/passaggi-essenziali-per-la-sicurezza-dei-dati-backup-trasferimento-e-ripristino-ottimizzati/"><u>Passaggi Essenziali Per La Sicurezza Dei Dati: Backup, Trasferimento E Ripristino Ottimizzati</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/seamless-youtube-uploads-a-step-by-step-guide-to-changing-wmv-file-format/"><u>Seamless YouTube Uploads: A Step-by-Step Guide to Changing WMV File Format</u></a></li>
+<li><a href="https://article-posts.techidaily.com/searching-for-monetary-rewards-of-review-vlogs/"><u>Searching for Monetary Rewards of Review Vlogs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
+</ul></div>
 

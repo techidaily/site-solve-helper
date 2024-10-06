@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing User Experience and Data Collection"
-date: 2024-08-25T22:50:48.438Z
-updated: 2024-08-26T22:50:48.438Z
+date: 2024-09-29T00:58:40.034Z
+updated: 2024-10-06T05:16:33.978Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3b27173b44a827d0fae8995e.jpg
@@ -39,8 +39,6 @@ function\* abcs() {
 
  yield 'c';
 
-
-
 \[...abcs()\]; _// \['a', 'b', 'c'\]_
 
 In the presentation there was a neat example about a French card deck object with the special property \[Symbol.iterator\] and the presenter used the fact that generators are also iterable so that when we spread the deck object, the internal iterator of the object, which is a generator function, creates all the French deck cards. This presentation helped us to **think out-of-the-box about generators and their practical uses in our applications**.
@@ -60,6 +58,13 @@ The types would still be ignored by the runtime, similar to how TypeScript works
 Internally, we had an interesting conversation about this topic. In itself, this doesn't provide anything more than just using TypeScript. However, diversity is always welcome, and another option for typed JavaScript is, again, very good. We are very curious about how this proposal will evolve.
 
 [Here](https://youtu.be/SdV9Xy0E4CM) you can watch the full presentation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Communicating Intention with Functional TypeScript by Thiago Temple**
 
@@ -89,8 +94,12 @@ The speaker also talked about using union types when the input for the function 
 [Here](https://youtu.be/fhyHgkH0ZEg) you can watch the full presentation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber**
 
 This was a really exciting talk, and I encourage all of you to watch the video and play along with the little “games”. Moran has a degree in social psychology along with a lot of experience in software development. She shared several cognitive psychology principles that help to better understand how we read and interpret code.
@@ -101,10 +110,6 @@ One other thing that sticks in my mind and that I have practiced with my team si
 
 [Here](https://youtu.be/jAUcbFM0nXE) you can watch the full presentation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Testing Web Accessibility by Adrián Bolonio**
 
 Adrián spoke about web accessibility. At ABBYY Hungary we are working on a web application for ABBYY [Timeline](https://tools.techidaily.com/abbyy/products/)—a cloud-based process intelligence platform that helps companies improve their processes. The target audience does not include every day users rather, per se, superusers such as business analysts. We don't have to think about web accessibility (which is usually referred to as a11y), the target audience just does not require this, right? WRONG. And Adrián explains very well why my statement is so wrong.
@@ -117,9 +122,6 @@ This talk was influential—I could even say eye-opening!—to many of us attend
 
 \*_All presentations in the program were insightful, and we enjoyed each one of them. The upper excerpts reflect our team's best memories about the conference._
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Conclusion**
 
 For me, personally, this was the first JSConf I was able to attend here in Budapest. I felt the focus was more on the less technical aspects of web development rather than straight technical JavaScript, which was an advantage. This way topics like web accessibility and psychology could gain some love and attention. Huge thanks to the JSConf Budapest team for organizing the conference.
@@ -129,8 +131,12 @@ For me, personally, this was the first JSConf I was able to attend here in Budap
 ![](https://static4.abbyy.com/abbyycommedia/36306/attila-kling-88x88.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Attila Kling
 
 Software Development Group Team Lead
@@ -138,22 +144,12 @@ Software Development Group Team Lead
 Attila leads a software development group of ABBYY Timeline. His day-to-day job includes managing web development projects, and he has a keen interest in web-security, user-management, authentication, and authorization.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -208,8 +204,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +211,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[New] 2024 Approved How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-upgrade-your-stream-quality-obs-for-youtube-and-twitch/"><u>[Updated] How to Upgrade Your Stream Quality OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-discoveries-await-5-essential-maps-for-richer-gameplay/"><u>[Updated] In 2024, Discoveries Await 5 Essential Maps for Richer Gameplay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-selecting-premier-sound-editors-for-youtube-producers/"><u>[Updated] In 2024, Selecting Premier Sound Editors for YouTube Producers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Performance!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-your-business-with-abbyy-webinar-on-seamless-data-management-and-analysis-skills/"><u>Elevate Your Business with ABBYY Webinar on Seamless Data Management and Analysis Skills</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-user-experience-and-retargeting-via-smart-cookie-technology-discover-cookiebot-solutions/"><u>Enhance User Experience & Retargeting via Smart Cookie Technology: Discover Cookiebot Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-user-experience-through-cookiebot-enabled-features/"><u>Enhance User Experience Through Cookiebot-Enabled Features</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-online-data-collection-with-the-advanced-capabilities-of-cookiebot-driven-solutions/"><u>Enhance Your Online Data Collection with the Advanced Capabilities of Cookiebot-Driven Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-claims-management-with-abbyys-digital-expertise-at-ecclesia-gruppe-an-seo-optimized-approach-to-insurance-services/"><u>Enhancing Claims Management with ABBYY's Digital Expertise at Ecclesia Gruppe – An SEO-Optimized Approach to Insurance Services</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-productivity-with-automated-bill-management-from-abbyy-key-driver-for-energy-companies/"><u>Enhancing Productivity with Automated Bill Management From ABBYY - Key Driver for Energy Companies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fast-tracked-finesse-how-to-efficiently-edit-and-enhance-windows-photos/"><u>Fast-Tracked Finesse How to Efficiently Edit and Enhance Windows Photos</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/from-cartography-to-smart-data-the-surprising-link-between-map-books-and-advancing-process-intelligence-exploring-with-abbyy/"><u>From Cartography to Smart Data: The Surprising Link Between Map Books and Advancing Process Intelligence | Exploring with ABBYY</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-master-the-definitive-guide-to-playing-pokemon-go/"><u>From Novice to Master: The Definitive Guide to Playing Pokémon GO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-moving-your-memories-a-guide-to-uploading-google-photos-into-icloud/"><u>Seamlessly Moving Your Memories: A Guide to Uploading Google Photos Into iCloud</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-upgraded-audio-increasing-pc-volume-seamlessly-with-windows-10/"><u>The Ultimate Guide to Upgraded Audio: Increasing PC Volume Seamlessly with Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Updated 2024 Approved Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+</ul></div>
 
