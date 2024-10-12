@@ -1,7 +1,7 @@
 ---
 title: Trasforma La Tua Memoria Virtuale Con MOV Online Senza Costi
-date: 2024-10-02T03:28:11.216Z
-updated: 2024-10-05T21:07:08.079Z
+date: 2024-10-07T19:11:41.749Z
+updated: 2024-10-11T23:52:46.986Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f3bb06033bb1a4fefba543ee.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -182,6 +189,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -193,10 +207,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
@@ -229,6 +243,19 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -243,16 +270,16 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -281,10 +308,16 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Lisser les bords des polices d'écran.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
@@ -298,19 +331,6 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -340,13 +360,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -364,13 +377,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -451,19 +457,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -471,6 +464,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -519,13 +519,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -578,6 +571,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -613,18 +613,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-essential-guide-to-html5s-most-acclaimed-tools/"><u>[New] In 2024, The Essential Guide to HTML5's Most Acclaimed Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-youtube-login-validation-for-2024/"><u>[Updated] Mastering YouTube Login Validation for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-digital-note-taking-simplified-an-ultimate-voice-guide/"><u>2024 Approved Digital Note-Taking Simplified An Ultimate Voice Guide</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/abbyyntt/"><u>ABBYYがNTTドコモ向けに開発した画像からテキストを抽出する多言語翻訳ツールのイノベーション</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/avec-abbyy-kodak-alaris-et-renforce-sunissent-pour-une-alliance-mondiale/"><u>Avec ABBYY, Kodak Alaris Et Renforce S'unissent Pour Une Alliance Mondiale</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-solutions-enhancing-your-site-with-intelligent-analytics/"><u>Cookiebot-Driven Solutions: Enhancing Your Site with Intelligent Analytics</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-smart-ppc-management-solutions/"><u>Cookiebot-Enhanced: Smart PPC Management Solutions</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-fueled-success-mastering-online-tracking/"><u>Cookiebot-Fueled Success: Mastering Online Tracking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-samurai-warriors-5-from-freezing-and-crashing-on-your-computer/"><u>How to Prevent Samurai Warriors 5 From Freezing and Crashing on Your Computer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>In 2024, Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-tips-for-your-tech-needs-at-toms-hardware-zone/"><u>In-Depth Analysis & Tips for Your Tech Needs at Tom's Hardware Zone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-class-engagement-with-visual-media-usage-for-2024/"><u>Optimizing Class Engagement with Visual Media Usage for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protect-privacy-a-users-manual-for-total-iphone-data-wipe-via-stellar-tool/"><u>Protect Privacy: A User's Manual for Total iPhone Data Wipe via Stellar Tool</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-preserve-your-tiktok-videos-easily-android-and-ios-methods/"><u>[New] In 2024, Preserve Your TikTok Videos Easily - Android & iOS Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>[New] In 2024, Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-a-course-essential-equipment-for-youtube-enthusiasts-for-2024/"><u>[Updated] Charting a Course Essential Equipment for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-no-cost-video-trimming-tools-compatible-with-windowsmacos-perfect-solution-to-remove-unnecessary-audio-and-visuals/"><u>Best No-Cost Video Trimming Tools Compatible with Windows/macOS: Perfect Solution to Remove Unnecessary Audio and Visuals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725286837286-dvddvd/"><u>DVD再記録型とDVDプラス再記録型の説明：使い分け方を探求</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvds-von-iso-dateien-mit-den-neuesten-windows-versionen-1187-anbrennen-perfektes-tutorial/"><u>DVDs Von ISO-Dateien Mit Den Neuesten Windows Versionen (11/8/7) Anbrennen - Perfektes Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-k70e-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi K70E FRP</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-resolve-sony-dvd-player-issues-when-seeing-sound-not-image-on-your-screen/"><u>How to Resolve Sony DVD Player Issues when Seeing Sound, Not Image on Your Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/simplify-video-conversion-with-winx-dvd-ripper-seamless-compatibility-from-dvd-to-ios-devices-for-mac-os-x/"><u>Simplify Video Conversion with WinX DVD Ripper: Seamless Compatibility From DVD to iOS Devices for Mac OS X</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-tutorial-on-free-dvd-to-h265hevc-mp4-format-upgrade-top-quality-results/"><u>Step-by-Step Tutorial on FREE DVD to H.265/HEVC MP4 Format Upgrade - Top Quality Results!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-6-voice-changer-software-for-youtube-videos-free-and-paid/"><u>Top 6 Voice Changer Software for Youtube Videos [Free & Paid]</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-7-techniques-transforming-high-resolution-4k-videos-into-hd-quality-at-1080p/"><u>Top 7 Techniques: Transforming High-Resolution 4K Videos Into HD Quality at 1080P</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-rcs-the-next-evolution-in-mobile-texting/"><u>Understanding RCS: The Next Evolution in Mobile Texting</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725287974712-winxvideo-ai/"><u>Winxvideo AIを活用した手ぶれ補正とビデオ安定化の徹底的なガイド</u></a></li>
 </ul></div>
 
