@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of a Black Display During AVI Media Playback in Windows
-date: 2024-10-12T23:27:15.498Z
-updated: 2024-10-17T16:21:29.321Z
+date: 2024-10-22T10:23:38.273Z
+updated: 2024-10-28T21:23:14.302Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366c449e4d477fdb61f162967a.jpg
@@ -45,16 +45,10 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** There are two ways to mute the video.
@@ -67,28 +61,15 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Mute the Volume](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-3.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
 
 ![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
@@ -121,16 +102,10 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Tip. How to mute part of a video in iMovie?**  
@@ -139,16 +114,16 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 3\. Right-click the clip and select Delete from the menu.  
 4\. Go to Share > File to export your video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Mute a Video on iPhone and Android?
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • Google Photos
 
@@ -162,6 +137,13 @@ How to mute audio in a video in Google Photos:
 **Step 4.** You can do additional edits like cropping and adjusting the video. Then, press “Save copy” to save the video without audio.
 
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • InShot
 
@@ -217,13 +199,6 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### • VSDC Video Editor
 
 VSDC Free Video Editor is an excellent tool for editing your videos on Windows. It’s able to process high-resolution footage, including 4K UHD, 3D, and VR 360-degree videos. Besides removing audio from a video, VSDC supports applying post-production effects, color correction, and motion tracking like other professional video editing software, which is also challenging for new users.
@@ -231,6 +206,20 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 → Learn [how to mute a video in VSDC](https://tools.techidaily.com/videosoftdev/products/) 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Remove Audio from Video FAQs
 
@@ -247,13 +236,6 @@ Firstly, import your video into the editing software and separate the audio from
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q3\. How to mute a video on different apps?
 
 **YouTube:** You cannot mute the video already uploaded to YouTube, but you can mute it before uploading by clicking the speaker icon under Visibility.
@@ -263,6 +245,13 @@ Firstly, import your video into the editing software and separate the audio from
 **TikTok:** Simply drag the slider of the volume bar to zero. You can also go to TikTok’s settings to make videos start muted by default.
 
 **WhatsApp:** Open the app on your iPhone or Android. Next, select Chats > choose chat to mute or open a video from your gallery. Finally, tap the speaker icon to mute it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -282,13 +271,6 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -304,22 +286,20 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-in-depth-analysis-cutzone-pro-review-unveiled/"><u>[New] 2024 Approved In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/gnite-imagination-top-inspiration-driven-youtube-content-for-2024/"><u>[New] Ignite Imagination Top Inspiration-Driven YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[New] In 2024, Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-signs-that-youve-been-muted-by-someone/"><u>[New] In 2024, Signs That You've Been Muted by Someone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>2024 Approved Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/como-transformar-archivos-mkv-en-mp4-instantaneamente-sin-comprometer-la-calidad/"><u>Cómo Transformar Archivos MKV en MP4 Instantáneamente Sin Comprometer La Calidad</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/convertissez-un-dvd-regionalise-a-laide-de-contourner-le-code-regional-pour-windows-11-8-ou-7/"><u>Convertissez Un DVD Régionalisé À L'aide De Contourner Le Code Régional Pour Windows 11, 8 Ou 7</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/facile-garderobage-de-votre-dvd-ancien-ou-neuf-en-5-minutes-sans-compromettre-la-qualite/"><u>Facile Garderobage De Votre DVD Ancien Ou Neuf en 5 Minutes Sans Compromettre La Qualité</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/fasten-weg-zur-qualitativ-hochwertigen-konvertierung-mkv-in-mp4-ohne-qualitatsverlust-umschalten/"><u>Fasten Weg Zur Qualitativ Hochwertigen Konvertierung - MKV in MP4 Ohne Qualitätsverlust Umschalten</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/glowing-mastery-step-by-step-to-brighten-android-videos-for-2024/"><u>Glowing Mastery Step-by-Step to Brighten Android Videos for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/optimal-instagram-video-specifications-ensuring-seamless-upload-success/"><u>Optimal Instagram Video Specifications: Ensuring Seamless Upload Success</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/ottimo-decoder-dvd-gratuito-unisciti-alluso-senza-limitazioni-di-dvd-con-questo-strumento-libero/"><u>Ottimo Decoder DVD Gratuito: Unisciti All'uso Senza Limitazioni Di DVD Con Questo Strumento Libero</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/top-rangierter-kostenloser-dvd-zu-mp3-konvertierungstool-fur-windows-and-macos-2023/"><u>Top-Rangierter Kostenloser DVD Zu MP3-Konvertierungstool Für Windows & macOS - 2023</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-gaming-systems-in-2nnd-2024/"><u>Top-Ranked Gaming Systems in 2Nnd 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/tutorial-efectivo-para-cambiar-video-hevc-a-mp4-sin-comprometer-la-claridad-visual/"><u>Tutorial Efectivo Para Cambiar Video HEVC a MP4 Sin Comprometer La Claridad Visual</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-the-10-leading-free-video-crop-tools-for-pcs-and-browsers-latest-2024-edition/"><u>Ultimate Guide to the 10 Leading Free Video Crop Tools for PCs & Browsers - Latest 2024 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[New] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-smile-worthy-edits-ranked-funny-photo-enhancers-for-2024/"><u>[New] Smile-Worthy Edits Ranked Funny Photo Enhancers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-whats-youtube-creative-commons-and-how-to-use-cc-to-make-video/"><u>[Updated] 2024 Approved What's YouTube Creative Commons and How to Use CC to Make Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>2024 Approved Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
+<li><a href="https://app-tips.techidaily.com/access-vmwares-professional-tools-free-personal-licenses-for-fusion-pro-and-workstation-pro-available-get-setup-guide/"><u>Access VMware's Professional Tools: Free Personal Licenses for Fusion Pro & Workstation Pro Available - Get Setup Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forward-thinking-5-ai-tools-for-todays-entrepreneurs/"><u>Forward-Thinking: 5 AI Tools for Today's Entrepreneurs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-costless-ways-effortlessly-grab-music-from-soundcloud/"><u>Quick & Costless Ways: Effortlessly Grab Music From SoundCloud</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-effective-techniques-to-transform-vob-videos-into-high-quality-mp4-format/"><u>Quick and Effective Techniques to Transform VOB Videos Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/retrieve-lost-images-three-techniques-for-restoring-deleted-pics-on-iphones-models-6s-11/"><u>Retrieve Lost Images: Three Techniques for Restoring Deleted Pics on iPhones (Models 6S-11)</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/risk-free-shopping-get-your-own-psp-video-converter-factory-pro-version-now/"><u>Risk-Free Shopping: Get Your Own PSP Video Converter Factory Pro Version Now!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/say-goodbye-to-anxiety-quick-and-effortless-methods-to-share-audio-on-facebook/"><u>Say Goodbye to Anxiety: Quick & Effortless Methods to Share Audio on Facebook</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/seamless-integration-a-step-by-step-guide-to-importing-avi-files-into-after-effects/"><u>Seamless Integration: A Step-by-Step Guide to Importing AVI Files Into After Effects</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/share-the-top-no-cost-blackberry-video-editor-with-family-and-friends/"><u>Share the Top No-Cost BlackBerry Video Editor with Family and Friends</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/side-by-side-video-playback-tutorial-perfecting-concurrent-watching-across-computers-and-smartphones/"><u>Side-by-Side Video Playback Tutorial: Perfecting Concurrent Watching Across Computers and Smartphones</u></a></li>
 </ul></div>
 
