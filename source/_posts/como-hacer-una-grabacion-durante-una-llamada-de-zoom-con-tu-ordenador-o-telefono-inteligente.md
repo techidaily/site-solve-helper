@@ -1,7 +1,7 @@
 ---
 title: Cómo Hacer Una Grabación Durante Una Llamada De Zoom Con Tu Ordenador O Teléfono Inteligente
-date: 2024-11-05T19:26:32.791Z
-updated: 2024-11-12T19:25:34.752Z
+date: 2024-11-07T03:04:13.447Z
+updated: 2024-11-13T17:40:11.971Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d80952a8774c562402ba30c3b.jpg
@@ -156,13 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -190,13 +183,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -242,6 +228,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -251,10 +244,10 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -262,10 +255,10 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
@@ -315,13 +308,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -346,10 +332,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -375,6 +361,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -403,13 +396,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -443,6 +429,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -527,6 +520,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -538,10 +538,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -601,21 +601,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-superior-video-conferencing-software-titles/"><u>[New] 2024 Approved 10 Superior Video Conferencing Software Titles</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unraveling-historys-fabric-with-open-source-canvases/"><u>[New] 2024 Approved Unraveling History's Fabric with Open-Source Canvases</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-compelling-docu-scripts-a-step-by-step-guide/"><u>[New] In 2024, Crafting Compelling Docu-Scripts A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-ios-the-secrets-of-screen-casts/"><u>[Updated] Mastering iOS The Secrets of Screen Casts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>2024 Approved Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-mastery-on-the-move-crafting-impactful-video-thumbnails-mobile/"><u>2024 Approved YouTube Mastery on the Move Crafting Impactful Video Thumbnails (Mobile)</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/a-comprehensive-guide-on-av1-versus-vp9-which-performs-better/"><u>A Comprehensive Guide on AV1 Versus VP9: Which Performs Better?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-bard-7-techniques-from-palm-2-improvements/"><u>Boosting Bard: 7 Techniques From PaLM 2 Improvements</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/contagion-film-guide-how-to-legally-stream-or-download-the-complete-movie/"><u>Contagion Film Guide: How to Legally Stream or Download the Complete Movie</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dhcp-connectivity-problems-understanding-and-solving-the-issue/"><u>DHCP Connectivity Problems – Understanding and Solving the Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-crashing-problem-with-nioh-2-complete-edition-a-comprehensive-solution/"><u>Fix Your Crashing Problem with Nioh 2 Complete Edition - A Comprehensive Solution</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/leichtes-handling-dvd-dateien-zu-mp4-konvertieren-fur-die-beste-videoklarheit/"><u>Leichtes Handling: DVD-Dateien Zu MP4 Konvertieren Für Die Beste Videoklarheit</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/logiciels-de-conversion-video-et-dvd-par-digiarty-solutions-specialisees-pour-la-numerisation/"><u>Logiciels De Conversion Vidéo Et Dvd Par Digiarty : Solutions Spécialisées Pour La Numérisation</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/paso-a-paso-conversion-de-archivos-vob-con-seguridad-al-formato-mp4-en-sistemas-windows-11-y-macos/"><u>Paso a Paso: Conversión De Archivos VOB Con Seguridad Al Formato MP4 en Sistemas Windows 11 Y macOS</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/telecharger-gratuitement-un-dvd-en-zone-2-ou-region-5-au-format-video-le-plus-recent/"><u>Télécharger Gratuitement Un DVD en Zone 2 Ou Région 5 Au Format Vidéo Le Plus Récent</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725290447784-x-dvd/"><u>ウィンX DVDリッパープラチナムの最新版情報: ダビング用強力ツール</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-footprints-on-instagram-effective-photo-watermarking/"><u>[New] 2024 Approved Digital Footprints on Instagram Effective Photo Watermarking</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>[New] In 2024, All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-overcoming-grey-screens-in-gaming-recording-for-2024/"><u>[Updated] Overcoming Grey Screens in Gaming Recording for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-monetary-outcomes-of-podcast-engagement-for-2024/"><u>[Updated] The Monetary Outcomes of Podcast Engagement for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>2024 Approved Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-flexicapture-cloud-services-agreement-comprehensive-tos-and-gdpr-compliance/"><u>ABBYY FlexiCapture Cloud Services Agreement: Comprehensive TOS and GDPR Compliance</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automatisierte-datenerfassung-mit-dank-abbeys-erfassungsgerat-fur-modi-einfuhrung-von-wareneingange-scannern/"><u>Automatisierte Datenerfassung Mit Dank ABBEY's Erfassungsgerät Für Modi - Einführung Von Wareneingänge-Scannern</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-analytics-enhance-your-websites-insights/"><u>Cookiebot-Driven Analytics: Enhance Your Website's Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-personalization-tailoring-your-site-experience/"><u>Cookiebot-Driven Personalization: Tailoring Your Site Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/extrae-tus-dvd-sin-problemas-con-el-grabador-de-dvd-platinum-winx-la-mejor-opcion-rapida-para-hacer-copias-digitales-en-windows-11/"><u>Extrae Tus DVD Sin Problemas Con El Grabador De DVD Platinum WinX, La Mejor Opción Rápida Para Hacer Copias Digitales en Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-p60-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei P60 Lock Screen Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-child-in-a-digital-world-the-best-parental-monitoring-apps-of-2024-top-8-picks/"><u>Protecting Your Child in a Digital World: The Best Parental Monitoring Apps of 2024 (Top 8 Picks)</u></a></li>
 </ul></div>
 
