@@ -1,7 +1,7 @@
 ---
 title: Transform Images Into Artful Sketches - A Simple Guide
-date: 2024-12-02T17:27:13.427Z
-updated: 2024-12-09T18:18:54.817Z
+date: 2024-12-10T21:00:01.527Z
+updated: 2024-12-15T17:34:25.951Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908e7b1e994447f0fc08005a75.jpg
@@ -47,7 +47,7 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
@@ -156,10 +156,6 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -200,6 +196,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mettez à jour les pilotes de votre GPU
 
 Le GPU (Graphics Processing Unit) est crucial pour votre expérience de jeu et pour les performances de votre PC dans les jeux, mais vous devez maintenir les pilotes de votre GPU à jour pour en profiter. De plus, un pilote obsolète peut entraîner des bogues, des problèmes et des pannes du système. Nous vous recommandons donc de prendre ce problème au sérieux et de prendre soin de vos pilotes.
@@ -218,10 +218,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -234,11 +230,19 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -249,7 +253,7 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -294,10 +298,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -317,10 +317,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -354,6 +350,10 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -385,6 +385,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -479,16 +483,12 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
@@ -499,10 +499,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -524,13 +520,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -549,6 +545,10 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,19 +585,15 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-discovering-colorful-content-on-your-pc-with-advanced-windows-features/"><u>[New] 2024 Approved Discovering Colorful Content on Your PC with Advanced Windows Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[New] Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rewind-revolution-iphones-time-turning-ability/"><u>[New] Rewind Revolution IPhone's Time-Turning Ability</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-music-mayhem-selecting-distorted-apps/"><u>[Updated] Mobile Music Mayhem Selecting Distorted Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>2024 Approved Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/crafting-an-unshakeable-cyber-centric-evolution-blueprint/"><u>Crafting an Unshakeable Cyber-Centric Evolution Blueprint</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/drive-your-digital-marketing-with-cookiebot-enabled-solutions/"><u>Drive Your Digital Marketing with Cookiebot-Enabled Solutions</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/elevate-conversions-smart-analytics-via-cookiebot-technology/"><u>Elevate Conversions: Smart Analytics via Cookiebot Technology</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/elevate-site-analytics-with-cookiebot-integration-boosting-visitor-insights-and-seo-performance/"><u>Elevate Site Analytics with Cookiebot Integration – Boosting Visitor Insights and SEO Performance</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhance-your-analytics-using-advanced-cookiebot-systems/"><u>Enhance Your Analytics Using Advanced Cookiebot Systems</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhancing-analytics-via-cookiebot-driven-data-collection-solutions/"><u>Enhancing Analytics via Cookiebot-Driven Data Collection Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>In 2024, Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-complete-analysis-of-the-anker-powercoreplus-26800-battery-pack-and-cables-bundle-performance/"><u>The Complete Analysis of the Anker PowerCore+ 26800 Battery Pack & Cables Bundle Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games-for-2024/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-digital-heroes-choice-top-10-astonishing-adventure-games/"><u>[Updated] 2024 Approved Digital Heroes' Choice Top 10 Astonishing Adventure Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-on-the-go-snapchats-money-tips/"><u>2024 Approved Earn on the Go Snapchat's Money Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-shadowing-secrets/"><u>2024 Approved Swift Shadowing Secrets</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-compression-made-easy-a-practical-handbook-for-2024/"><u>New FCPX Compression Made Easy A Practical Handbook for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimize-with-cookiebot-next-level-seo-strategies-for-successful-websites/"><u>Optimize with Cookiebot: Next-Level SEO Strategies for Successful Websites</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/personalized-advertising-engines-leveraging-powerful-insights-via-the-cookiebot-platform/"><u>Personalized Advertising Engines: Leveraging Powerful Insights via the Cookiebot Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/refresh-rate/"><u>Refresh Rate</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionary-paperless-system-enhances-efficiency-cuts-costs-for-small-and-medium-businesses-through-advanced-ocr-technology/"><u>Revolutionary Paperless System Enhances Efficiency, Cuts Costs for Small & Medium Businesses Through Advanced OCR Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/speeding-up-retail-transactions-abbyy-enhances-metro-ags-payment-process-with-90-increase-in-speed/"><u>Speeding Up Retail Transactions - ABBYY Enhances METRO AG's Payment Process with 90% Increase in Speed</u></a></li>
 </ul></div>
 
