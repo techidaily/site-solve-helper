@@ -1,7 +1,7 @@
 ---
 title: "Free Online Converter: Transforming WMV Files Into MOV Format - Effortlessly"
-date: 2024-12-14T20:53:32.706Z
-updated: 2024-12-15T16:10:50.454Z
+date: 2024-12-20T17:34:50.042Z
+updated: 2024-12-24T18:38:40.414Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e85acffafd82353c8a22765d2.jpg
@@ -45,6 +45,10 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -162,6 +166,10 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -175,6 +183,10 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -222,10 +234,6 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -233,7 +241,7 @@ Utiliser le mode de jeu Windows 10
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
@@ -277,10 +285,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -364,6 +368,10 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -384,6 +392,10 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -408,7 +420,7 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -423,17 +435,9 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -444,17 +448,9 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -488,12 +484,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -504,6 +504,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -513,10 +517,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -585,15 +585,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-going-viral-nine-techniques-to-cement-your-status-on-instagram/"><u>[Updated] Going Viral Nine Techniques to Cement Your Status on Instagram</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1726225084966-movavioggmp4/"><u>「最新のオンライン無料ツール：MovaviよりOGG音声/画像ファイルがMP4に簡単変換！」</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/comprehensive-guide-turning-your-mp4-videos-into-dvd-with-easy-steps-for-all-platforms-windows-mac-and-web/"><u>Comprehensive Guide: Turning Your MP4 Videos Into DVD with Easy Steps for All Platforms (Windows, Mac & Web)</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/conversion-gratuite-de-fichiers-swf-a-la-version-en-ligne-movavi/"><u>Conversion Gratuite De Fichiers SWF À La Version en Ligne - Movavi</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/conversione-gratuita-da-m4b-a-aac-online-con-movavi-semplice-come-puoi/"><u>Conversione Gratuita Da M4B a AAC Online Con Movavi - Semplice Come Puoi!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/d3dx927dll-mistakenly-absent-heres-how-to-restore-it/"><u>D3dx9_27.dll Mistakenly Absent? Here's How to Restore It</u></a></li>
-<li><a href="https://fox-access.techidaily.com/harness-the-power-of-gopro-for-captivating-time-lapse-videos-for-2024/"><u>Harness the Power of GoPro for Captivating Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-vip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Note 30 VIP Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/inshot-cut-mastery-creating-fluid-movements/"><u>Inshot Cut Mastery Creating Fluid Movements</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/riparazione-e-recupero-della-partizione-efi-cancellata-in-windows-11-tecniche-di-risoluzione-rapida/"><u>Riparazione E Recupero Della Partizione EFI Cancellata in Windows 11 - Tecniche Di Risoluzione Rapida</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-internal-audio-in-android-without-root-4-ways/"><u>[New] In 2024, Record Internal Audio in Android without Root [4 Ways]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stabilized-mobile-shooting-with-precision-mounts/"><u>[Updated] In 2024, Stabilized Mobile Shooting with Precision Mounts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-integrating-technology-effective-school-vid-eds-for-2024/"><u>[Updated] Integrating Technology Effective School Vid Eds for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mediamagic-8-edition/"><u>[Updated] MediaMagic 8 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-writing-eye-catching-podcast-summaries/"><u>[Updated] Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-masked-image-softening-tricks/"><u>2024 Approved Mastering Masked Image Softening Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-blunders-permanent-end-to-rapid-riot-games-crashes/"><u>Banish Blunders: Permanent End to Rapid Riot Games Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/challenges-in-ai-the-8-core-issues-with-chatgpt/"><u>Challenges in AI: The 8 Core Issues with ChatGPT</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/driven-by-advanced-automated-marketing-technology-discover-the-power-of-cookiebot/"><u>Driven by Advanced Automated Marketing Technology: Discover the Power of Cookiebot</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/efficiently-manage-sap-sfana-invoices-with-nagarros-advanced-abbyy-scanner-solutions/"><u>Efficiently Manage SAP S/^FANA Invoices with Nagarro's Advanced ABBYY Scanner Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-data-collection-with-advanced-cookiebot-features-for-precise-marketing-insights/"><u>Enhanced Data Collection with Advanced Cookiebot Features for Precise Marketing Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-marketing-automation-with-the-latest-cookiebot-technology/"><u>Enhanced Marketing Automation with the Latest Cookiebot Technology</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-artificial-intelligence-in-risk-mitigation-strategies-for-banks-and-financial-firms/"><u>Leveraging Artificial Intelligence in Risk Mitigation Strategies for Banks and Financial Firms</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-technology-for-superior-site-personalization-and-tracking/"><u>Leveraging CookieBot Technology for Superior Site Personalization and Tracking</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/maximize-organic-visibility-using-cookiebot-technology-a-leading-edge-in-seo-strategies/"><u>Maximize Organic Visibility Using Cookiebot Technology: A Leading Edge in SEO Strategies</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-enhancing-user-experience-and-tracking/"><u>Optimized with Cookiebot Technology: Enhancing User Experience and Tracking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-reviews-and-hardware-analysis-toms-digital-chronicles/"><u>Pioneering PC Reviews and Hardware Analysis - Tom's Digital Chronicles</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/rapid-expansion-expected-study-predicts-50-increase-in-digital-workforce-over-next-24-months/"><u>Rapid Expansion Expected: Study Predicts 50% Increase in Digital Workforce Over Next 24 Months</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tiny-yet-titanium-breakthrough-in-3d-printing-metals-bigger-than-the-smallest-virus/"><u>Tiny Yet Titanium: Breakthrough in 3D Printing Metals Bigger Than the Smallest Virus</u></a></li>
 </ul></div>
 
