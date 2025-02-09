@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up cMan Wizard Plugins in Kodi Versions 18 and 19"
-date: 2025-01-24T17:21:55.046Z
-updated: 2025-01-27T16:31:06.533Z
+date: 2025-02-08T12:17:40.721Z
+updated: 2025-02-08T19:22:04.789Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/f160910a212f6c2e8f5a65836ff203ce0f8a0fb9c3edf4656ba779c98a69f717.jpg
@@ -19,27 +19,15 @@ thumbnail: https://thmb.techidaily.com/f160910a212f6c2e8f5a65836ff203ce0f8a0fb9c
 
 [![WonderFox Logo](https://www.videoconverterfactory.com/tips/img-autofit/logo.png "WonderFox - the Fastest DVD Ripper and HD Video Converter")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ![Software](https://www.videoconverterfactory.com/tips/img-autofit/header-tit1.png)How to & Tips
 
 ![Convert DVD](https://www.videoconverterfactory.com/tips/img-autofit/header-tit2.png)Rip DVD
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Resources](https://www.videoconverterfactory.com/tips/img-autofit/header-r.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## (Update 2024) How to Convert DMG to ISO on Windows and Mac?
 
@@ -59,6 +47,10 @@ Both DMG and ISO are disk image formats. DMG files are widely used by Mac system
 
 [Part 3\. How to Convert .dmg to ISO on Windows? (2 Methods)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. About DMG and ISO
 
 What is a .dmg file? DMG file is Apple Disk Image file commonly created and used by the MacOS X platform for applications distribution. DMG files can be loaded directly on an Apple Mac, but they are not so good on Windows computers.
@@ -74,6 +66,10 @@ Hot search: [How to Convert IMG to ISO](https://tools.techidaily.com/videoconver
 ## Part 2\. How to Convert DMG to ISO Free on Mac?
 
 Two common methods are provided for Mac users to convert .dmg files to ISO. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1\. Disk Utility
 
@@ -92,7 +88,7 @@ Step 4\. Then select “DVD/CD mater” from the “Image Format” option list 
 Step 5\. Finally, locate the exported file and renamed it to a file with .iso extension. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2\. Terminal Command Line
@@ -117,7 +113,7 @@ WonderFox DVD Ripper Pro can help rip discs, convert VIDEO\_TS folders, and also
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to Convert .dmg to .iso Free on Windows?
@@ -136,13 +132,13 @@ Step 3: Select the DMG file you want to import and set the ISO output directory.
 
 Step 4: Click Convert Now to start to convert Mac DMG to ISO.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2\. DMG2IMG
 
 ![How to Open DMG2IMG](https://www.videoconverterfactory.com/tips/imgs-self/dmg-to-iso/dmg-to-iso-3.jpg)How to Open DMG2IMG
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 DMG2IMG is a small and lightweight application that allows you to convert DMG to ISO in Windows.
 
@@ -153,6 +149,10 @@ Step 2: Once the file has been downloaded, open your Downloads folder and extrac
 Step 3: Now hold down Shift and right click the new folder, then select Open command window here from the context menu.
 
 ![DMG2ISO](https://www.videoconverterfactory.com/tips/imgs-self/dmg-to-iso/dmg-to-iso-4.jpg)DMG2ISO
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now use the following command syntax (remove brackets) to convert your DMG file:
 
@@ -170,6 +170,10 @@ The Best Way of Digitizing Your ISO Files
 
 ![The Best Way of Digitizing Your ISO Files](https://www.videoconverterfactory.com/tips/img-autofit/two-ripperpro.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **WonderFox DVD Ripper Pro**
 
 Rip DVD to MPG, ISO, VIDEO\_TS, and 300+ presets including MP4, MKV, AVI, etc., and for various devices
@@ -179,10 +183,6 @@ Enjoy high-efficiency video coding/H.265 video
 Support NVIDIA NVENC transcoding acceleration
 
 [![](https://www.videoconverterfactory.com/tips/img-autofit/download5.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) [![](https://www.videoconverterfactory.com/tips/img-autofit/download5.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Digitizing Your ISO Files](https://www.videoconverterfactory.com/tips/img-autofit/two-dvc.png)
 
@@ -221,15 +221,18 @@ Copyright © 2009-2024 WonderFox Soft, Inc.All Rights Reserved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>[Updated] In 2024, Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-flying-fun-in-depth-dji-phantom-4-examination/"><u>2024 Approved Beyond Flying Fun In-Depth DJI Phantom 4 Examination</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-biggest-tweet-waves-of-2023-decoded/"><u>2024 Approved The Biggest Tweet Waves of 2023 Decoded</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/fender-boosts-workplace-productivity-and-contentment-by-implementing-abbyys-smart-process-automation/"><u>Fender Boosts Workplace Productivity & Contentment by Implementing ABBYY's Smart Process Automation</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-personalization-and-insights/"><u>Harness the Power of Cookiebot for Superior Website Personalization and Insights</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/heading-up-abbyy-europe-christian-marquardt-spearheads-revolutionary-newchannel-platform/"><u>Heading Up ABBYY Europe: Christian Marquardt Spearheads Revolutionary NewChannel Platform</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-hot-30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Hot 30 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/integrating-past-videos-into-current-live-feeds-on-fb-for-2024/"><u>Integrating Past Videos Into Current Live Feeds on FB for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/lance-by-abbyly-joining-the-worldwide-alliance-for-modern-trade-solutions-and-partner-opportunities/"><u>Lance by Abbyly - Joining the Worldwide Alliance for Modern Trade Solutions and Partner Opportunities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>[New] In 2024, From Basic to Bold Invest in Excellent Cam Add-Ons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-beginning-to-connect-a-comprehensive-facebook-setup-walkthrough-for-2024/"><u>[Updated] Beginning to Connect A Comprehensive Facebook Setup Walkthrough for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-kaley-torres-innovative-digital-solutions-with-digiarty-software/"><u>1. Kaley Torres - Innovative Digital Solutions with Digiarty Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-practices-for-incorporating-b-footage-in-projects/"><u>2024 Approved Best Practices for Incorporating B-Footage in Projects</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/freundliche-anleitung-wie-man-eine-dvd-kostenfrei-auf-einen-flash-drive-kopiert-lass-es-dir-bequem-machen/"><u>Freundliche Anleitung: Wie Man Eine DVD Kostenfrei Auf Einen Flash Drive Kopiert – Lass Es Dir Bequem Machen!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimizing-video-size-and-quality-for-uploading-on-youtube/"><u>Optimizing Video Size and Quality for Uploading on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tips-for-capturing-audio-in-audacity-for-2024/"><u>Professional Tips for Capturing Audio in Audacity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-alpha-s-headset-mic-proven-quick-solutions-inside/"><u>Revive Your HyperX Cloud Alpha S Headset Mic - Proven Quick Solutions Inside</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/swift-solutions-dealing-with-the-disneyplus-error-83-in-minutes/"><u>Swift Solutions: Dealing with the Disney+ Error 83 in Minutes</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-rated-video-compression-tools-for-windows-10-users/"><u>Top-Rated Video Compression Tools for Windows 10 Users</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-winxdvd-terms-for-final-users-the-digiarty-software-contract-explained/"><u>Ultimate WinXDVD Terms for Final Users - The Digiarty Software Contract Explained</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-uniconverter-features-of-free-and-premium-versions-with-troubleshooting-tips/"><u>Understanding Uniconverter: Features of Free and Premium Versions with Troubleshooting Tips</u></a></li>
 </ul></div>
 
